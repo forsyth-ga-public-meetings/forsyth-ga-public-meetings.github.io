@@ -12,6 +12,8 @@ import logging
 import sys
 from pathlib import Path
 
+import requests
+
 from . import boe, cache, civicclerk, county, cumming, pdftext
 from .config import DATA_DIR, load_config
 from .http import PoliteSession, RobotsDenied
@@ -25,48 +27,72 @@ def _setup_logging(verbose: bool) -> None:
     )
 
 
+# Structural failures: the vendor changed their markup and our parser no
+# longer understands it. These must stop the build -- publishing a silently
+# shrunken site is exactly the rot this project is most exposed to.
+PARSE_ERRORS = (
+    boe.ParseError, civicclerk.ParseError, county.ParseError, cumming.ParseError,
+)
+# Transport failures: the far end is down, slow, or rate-limiting. These are
+# transient and must NOT discard the sources that did succeed.
+TRANSPORT_ERRORS = (RuntimeError, requests.RequestException)
+
+
+def _fetch_source(name: str, enabled: bool, fn, failures: list) -> list:
+    """Run one source. Returns its meetings, or [] and records why not."""
+    if not enabled:
+        return []
+    try:
+        meetings = fn()
+    except RobotsDenied as exc:
+        print(f"{name + ':':13}SKIPPED -- {exc}", file=sys.stderr)
+        failures.append((name, "robots", str(exc)))
+        return []
+    except PARSE_ERRORS as exc:
+        print(f"{name + ':':13}PARSE FAILURE -- {exc}", file=sys.stderr)
+        failures.append((name, "parse", str(exc)))
+        return []
+    except TRANSPORT_ERRORS as exc:
+        # Cumming's site returned HTTP 500 on every page for a stretch; a dead
+        # source should degrade this run, not sink it.
+        print(f"{name + ':':13}UNREACHABLE -- {exc}", file=sys.stderr)
+        failures.append((name, "transport", str(exc)))
+        return []
+    print(f"{name + ':':13}{len(meetings)} meetings", file=sys.stderr)
+    return meetings
+
+
 def cmd_fetch(args) -> int:
     cfg = load_config()
     session = PoliteSession(cfg)
     data_dir = Path(args.data_dir)
+    failures: list[tuple[str, str, str]] = []
 
-    county_meetings: list = []
-    cc_meetings: list = []
+    county_only = args.only_county
+    cc_only = args.only_civicclerk
+    secondary = not (county_only or cc_only)
 
-    if cfg.sources["county"]["enabled"] and not args.only_civicclerk:
-        try:
-            county_meetings = county.fetch_all(session, cfg)
-            print(f"county:      {len(county_meetings)} meetings", file=sys.stderr)
-        except RobotsDenied as exc:
-            print(f"county:      SKIPPED -- {exc}", file=sys.stderr)
-
-    if cfg.sources["civicclerk"]["enabled"] and not args.only_county:
-        try:
-            cc_meetings = civicclerk.fetch_all(session, cfg)
-            print(f"civicclerk:  {len(cc_meetings)} meetings", file=sys.stderr)
-        except RobotsDenied as exc:
-            print(f"civicclerk:  SKIPPED -- {exc}", file=sys.stderr)
-
-    boe_meetings: list = []
-    if cfg.sources["boe"]["enabled"] and not (args.only_county or args.only_civicclerk):
-        try:
-            boe_meetings = boe.fetch_all(session, cfg)
-            print(f"boe:         {len(boe_meetings)} meetings", file=sys.stderr)
-        except (RobotsDenied, boe.ParseError) as exc:
-            print(f"boe:         SKIPPED -- {exc}", file=sys.stderr)
-
-    cumming_meetings: list = []
-    if (cfg.sources.get("cumming", {}).get("enabled")
-            and not (args.only_county or args.only_civicclerk)):
-        try:
-            cumming_meetings = cumming.fetch_all(session, cfg)
-            print(f"cumming:     {len(cumming_meetings)} meetings", file=sys.stderr)
-        except (RobotsDenied, cumming.ParseError) as exc:
-            print(f"cumming:     SKIPPED -- {exc}", file=sys.stderr)
+    county_meetings = _fetch_source(
+        "county", cfg.sources["county"]["enabled"] and not cc_only,
+        lambda: county.fetch_all(session, cfg), failures)
+    cc_meetings = _fetch_source(
+        "civicclerk", cfg.sources["civicclerk"]["enabled"] and not county_only,
+        lambda: civicclerk.fetch_all(session, cfg), failures)
+    boe_meetings = _fetch_source(
+        "boe", cfg.sources["boe"]["enabled"] and secondary,
+        lambda: boe.fetch_all(session, cfg), failures)
+    cumming_meetings = _fetch_source(
+        "cumming", bool(cfg.sources.get("cumming", {}).get("enabled")) and secondary,
+        lambda: cumming.fetch_all(session, cfg), failures)
 
     merged = cache.merge(
         county_meetings + boe_meetings + cumming_meetings, cc_meetings
     )
+
+    if not merged:
+        print("\nEVERY SOURCE FAILED -- refusing to touch the cache.",
+              file=sys.stderr)
+        return 1
 
     if not args.no_pdf:
         n = pdftext.enrich(merged, session, cfg, data_dir)
@@ -102,6 +128,21 @@ def cmd_fetch(args) -> int:
         fresh = cache.append_changelog(data_dir, changes, merged[0].fetched_at)
         if fresh:
             print(f"changelog:   {len(fresh)} entries appended", file=sys.stderr)
+
+    if failures:
+        print("\nSOURCES NOT FULLY FETCHED THIS RUN:", file=sys.stderr)
+        for name, kind, detail in failures:
+            print(f"  {name:12} {kind:10} {detail[:120]}", file=sys.stderr)
+        print("  Meetings already known from these sources were carried "
+              "forward from the previous run.", file=sys.stderr)
+
+    # A parse failure means a vendor changed their markup and our reading of it
+    # is now wrong. Stop, so a human looks, rather than quietly publishing less.
+    parse_failures = [f for f in failures if f[1] == "parse"]
+    if parse_failures and not args.allow_parse_failures:
+        print(f"\n{len(parse_failures)} parser(s) failed. Exiting non-zero so "
+              "this run does not publish.", file=sys.stderr)
+        return 1
     return 0
 
 
@@ -327,6 +368,9 @@ def main(argv: list[str] | None = None) -> int:
     f.add_argument("--only-civicclerk", action="store_true")
     f.add_argument("--no-pdf", action="store_true",
                    help="skip extracting agenda text from PDFs")
+    f.add_argument("--allow-parse-failures", action="store_true",
+                   help="exit 0 even if a parser failed (for local debugging; "
+                        "never use in CI)")
     f.set_defaults(func=cmd_fetch)
 
     s = sub.add_parser("show", help="print the cache")

@@ -24,6 +24,8 @@ import logging
 import re
 from pathlib import Path
 
+import requests
+
 from .config import Config
 from .http import PoliteSession
 from .model import AgendaItem, Document, Meeting
@@ -231,6 +233,11 @@ def enrich(meetings: list[Meeting], session: PoliteSession, cfg: Config,
             if not pdf:
                 continue
             text = extract_text(pdf)
+        except (RuntimeError, requests.RequestException) as exc:
+            # One unreachable PDF host must not sink the whole run. The meeting
+            # keeps its document links; it simply has no extracted items.
+            log.warning("pdf unreachable for %s: %s", m.slug or m.date, exc)
+            continue
         except PdfExtractionError as exc:
             log.warning("pdf extraction failed for %s: %s", m.slug or m.date, exc)
             m.agenda_status_note = (
