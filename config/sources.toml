@@ -1,0 +1,116 @@
+# Fetcher configuration. Edit this, not the code.
+
+[politeness]
+# Sent on every request. Keep contact info accurate -- it is the main thing that
+# distinguishes this from an anonymous scraper.
+user_agent = "foco-agendas/0.1 (+https://github.com/forsyth-ga-public-meetings/forsyth-ga-public-meetings.github.io; civic transparency mirror; contact: erikmjacobs@gmail.com)"
+# Minimum seconds between requests to the same host.
+delay_seconds = 2.0
+# Refuse to run a full fetch more than once per this many hours.
+min_hours_between_runs = 20
+timeout_seconds = 45
+max_retries = 3
+
+[window]
+# How far back and forward to pull, in days.
+days_back = 60
+days_forward = 60
+
+[civicclerk]
+enabled = true
+tenant = "forsythcoga"
+api_base = "https://forsythcoga.api.civicclerk.com/v1"
+portal_base = "https://forsythcoga.portal.civicclerk.com"
+# CivicClerk stamps local Eastern wall-clock time with a bogus "Z" suffix.
+# Verified 2026-08-11: API says 17:00:00Z for a meeting the county lists as
+# 5:00 PM. Do not treat these as real UTC.
+timestamps_are_local_wall_time = true
+local_timezone = "America/New_York"
+
+[county]
+enabled = true
+# The county's own site. Server-rendered, robots-permissive, first-party.
+# This is the calendar spine: it covers all boards and includes future meetings
+# that CivicClerk has not published yet.
+meetings_url = "https://www.forsythco.com/government/forsyth-county-meetings/"
+max_pages = 8
+
+[boe]
+# Board of Education.
+#
+# Meeting dates come from the district's own site, which is public and
+# crawlable. Agenda CONTENTS are not mirrored: they live on Simbli
+# (eBoardSolutions), which sets "Disallow: /" and, more decisively, sits behind
+# an Imperva WAF that hard-blocks non-browser clients and serves a JavaScript
+# anti-bot challenge to everything else. Reading it would require
+# misrepresenting our client and defeating that challenge. We link out instead.
+enabled = true
+schedule_url = "https://www.forsyth.k12.ga.us/inside-fcs/board-of-education/meeting-schedule"
+press_release_url = "https://www.forsyth.k12.ga.us/district-services/communications/press-release"
+agenda_portal_url = "https://simbli.eboardsolutions.com/index.aspx?S=4069"
+crawl_delay_seconds = 5
+
+[cumming]
+# City of Cumming. Note the live domain is cityofcumming.net -- cummingga.gov
+# does not resolve. One page per board, each a flat list of dated PDF links.
+#
+# `default_time` is the board's standing start time where the city states one
+# elsewhere on its site. Leave it unset and the page will say the time was not
+# published rather than assert a guess.
+enabled = true
+
+[[cumming.boards]]
+body = "Cumming City Council"
+url = "https://www.cityofcumming.net/city-council-agendas-and-meeting-minutes"
+location = "Cumming City Hall"
+
+[[cumming.boards]]
+body = "Cumming Planning Board"
+url = "https://www.cityofcumming.net/planning-board-agendas-and-meeting-minutes"
+location = "Cumming City Hall"
+
+[[cumming.boards]]
+body = "Cumming Development Authority"
+url = "https://www.cityofcumming.net/development-authority-downtown-development-authority-agendas-and-meeting-minutes"
+location = "Cumming City Hall"
+
+[[cumming.boards]]
+# Dormant since 2020, but harmless to keep polling once a day.
+body = "Cumming Country Fair & Festival Advisory Board"
+url = "https://www.cityofcumming.net/cumming-country-fair-festival-advisory-board-agendas-and-minutes"
+
+[references]
+# Pages the site links to but never paraphrases. Legal deadlines live here, and
+# PROJECT.md is explicit that this site must not restate them -- so these are
+# rendered as pointers with the county's own wording left where it belongs.
+enabled = true
+
+[[references.pages]]
+title = "Property assessments and appeal deadlines"
+url = "https://www.forsythco.com/government/departments/board-of-assessors/property-assessments/"
+body = "Board of Assessors"
+note = """The window to appeal an assessment is set by the date printed on your \
+own notice, not by any date on this site. Forsyth County's Board of Assessors \
+page is the only place to confirm it."""
+topics = ["taxes"]
+
+[[references.pages]]
+title = "Board of Education meeting schedule"
+url = "https://www.forsyth.k12.ga.us/inside-fcs/board-of-education/meeting-schedule"
+body = "Forsyth County Board of Education"
+note = """Board of Education agendas are published on the district's Simbli \
+portal and are not mirrored here."""
+topics = ["schools"]
+
+[[references.pages]]
+title = "Forsyth County Schools press releases"
+url = "https://www.forsyth.k12.ga.us/district-services/communications/press-release"
+body = "Forsyth County Board of Education"
+note = """Millage and budget notices for the school district are announced \
+here rather than in a meeting agenda."""
+topics = ["schools", "taxes"]
+
+[flags]
+# An agenda item is flagged "large dollar" at or above this amount.
+large_dollar_threshold = 100000
+honor_robots = true

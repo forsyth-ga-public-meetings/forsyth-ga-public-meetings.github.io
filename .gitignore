@@ -1,0 +1,25 @@
+# Build output -- regenerated from data/ on every run, published via Pages.
+/site/
+/preview-*.html
+
+# Cached agenda PDFs. Deliberately NOT committed: ~9 MB of binaries today and
+# growing daily, which would bloat git history permanently. CI restores these
+# through actions/cache instead, so the fetcher still sends conditional
+# requests and the county is not re-served the same files every morning.
+/data/pdf-cache/
+
+# Python
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ruff_cache/
+
+# Local scratch
+*.log
+
+# Editor / tooling state
+.omc/
+.vscode/
+.idea/
+.DS_Store

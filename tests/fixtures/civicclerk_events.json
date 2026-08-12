@@ -1,0 +1,48 @@
+{
+  "value": [
+    {
+      "agendaId": 368,
+      "isPublished": "Published",
+      "categoryName": "Board of Commissioners Work Sessions",
+      "startDateTime": "2026-08-11T14:00:00Z",
+      "agendaName": "August 11, 2026 Agenda BOC Work Session",
+      "publishStart": "2026-08-07T00:00:00Z",
+      "eventDate": "2026-08-11T14:00:00Z",
+      "id": 434,
+      "eventName": "Board of Commissioners Work Session"
+    },
+    {
+      "agendaId": 389,
+      "isPublished": "Published",
+      "categoryName": "Board of Commissioners Regular Meetings/Public Hearings",
+      "startDateTime": "2026-08-06T17:00:00Z",
+      "agendaName": "August 6, 2026 Agenda BOC Regular Meeting / Public Hearings",
+      "publishStart": "2026-08-03T00:00:00Z",
+      "eventDate": "2026-08-06T17:00:00Z",
+      "id": 455,
+      "eventName": "Board of Commissioners Regular Meeting"
+    },
+    {
+      "agendaId": 367,
+      "isPublished": "Published",
+      "categoryName": "Board of Commissioners Work Sessions",
+      "startDateTime": "2026-07-28T14:00:00Z",
+      "agendaName": "July 28, 2026 Agenda BOC Work Session",
+      "publishStart": "2026-07-24T00:00:00Z",
+      "eventDate": "2026-07-28T14:00:00Z",
+      "id": 433,
+      "eventName": "Board of Commissioners Work Session"
+    },
+    {
+      "agendaId": 388,
+      "isPublished": "Published",
+      "categoryName": "Board of Commissioners Regular Meetings/Public Hearings",
+      "startDateTime": "2026-07-23T17:00:00Z",
+      "agendaName": "July 23, 2026 Agenda BOC Regular Meeting / Public Hearings",
+      "publishStart": "2026-07-20T00:00:00Z",
+      "eventDate": "2026-07-23T17:00:00Z",
+      "id": 454,
+      "eventName": "Board of Commissioners Regular Meeting"
+    }
+  ]
+}

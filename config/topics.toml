@@ -1,0 +1,80 @@
+# Topic tagging. Edit freely -- no code changes required.
+#
+# Matching is case-insensitive substring, except entries in `regex`, which are
+# treated as regular expressions. Keep plain keywords in `keywords`; use `regex`
+# only where word boundaries actually matter (short or ambiguous terms).
+
+[taxes]
+label = "Taxes, millage & SPLOST"
+description = "Millage rates, the tax digest, bonds, referenda and special-purpose sales taxes."
+keywords = [
+    "millage", "rollback rate", "rollback", "tax digest", "homestead exemption",
+    "budget resolution", "LHOST", "FLOST", "SPLOST", "ESPLOST", "TSPLOST",
+    "impact fee", "assessment appeal", "ad valorem", "tax allocation district",
+    "budget amendment", "proposed budget", "capital improvement program",
+]
+regex = ["\\bbond\\b", "\\breferendum\\b", "\\bCIP\\b"]
+
+[policing]
+label = "Policing & surveillance"
+description = "Automated plate readers, cameras, drones, and public-safety data sharing."
+keywords = [
+    "Flock", "ALPR", "license plate reader", "automated license plate",
+    "speed camera", "photo enforcement", "red light camera", "surveillance",
+    "body camera", "body-worn", "Axon", "Motorola Solutions",
+    "data-sharing agreement", "data sharing agreement", "interoperability",
+    "Sheriff's Office grant", "GEMA", "Homeland Security", "fusion center",
+    "facial recognition", "Cellebrite", "stingray",
+]
+regex = ["\\bdrone\\b", "\\bUAS\\b"]
+
+[schools]
+label = "Schools"
+description = "Curriculum, instructional materials, library policy and school board decisions."
+keywords = [
+    "curriculum", "instructional material", "media center", "library policy",
+    "board policy revision", "school calendar", "Board of Education",
+    "textbook", "media committee", "school zone", "student handbook",
+]
+
+[ballot]
+label = "Ballot & elections"
+description = "Referenda, special elections, precinct changes and qualifying periods."
+keywords = [
+    "referendum", "ballot question", "special election", "qualifying period",
+    "voting precinct", "precinct boundary", "polling place", "advance voting",
+    "election board", "voter registration",
+]
+
+# ---------------------------------------------------------------------------
+# Consent-agenda / ratification detection.
+#
+# These identify the sections whose items pass in a single vote without
+# discussion. Matched against agenda *section* names, case-insensitively.
+[consent]
+markers = [
+    "consent agenda",
+    "consent calendar",
+    "ratification of the following",
+    "board ratification of the following",
+    "items that were discussed and voted on at the work session",
+]
+
+# Headings that end a consent block when sections are flat rather than nested.
+resets = [
+    "new business", "old business", "public hearing", "time set public hearing",
+    "adjournment", "executive session", "recess",
+]
+
+# ---------------------------------------------------------------------------
+# Long-term commitment detection: contracts running longer than one year.
+[term]
+regex = [
+    "\\b(?:two|three|four|five|ten|twenty|2|3|4|5|10|20|25|30)[- ]year\\b",
+    "\\bmulti[- ]year\\b",
+    "\\bannual renewal\\b",
+    "\\bwith (?:two|three|four|five|\\d+) (?:additional )?(?:one|1)[- ]year (?:renewal|option|extension)",
+    "\\bterm of \\d+ years\\b",
+    "\\bperpetual\\b",
+    "\\beasement\\b",
+]

@@ -1,0 +1,1408 @@
+{
+  "id": 389,
+  "agendaIsPublish": true,
+  "agendaPacketIsPublish": true,
+  "items": [
+    {
+      "id": 17964,
+      "agendaObjectItemNumber": "",
+      "agendaObjectItemOutlineNumber": "I.",
+      "agendaObjectItemName": "Call Meeting to Order",
+      "sortOrder": 1,
+      "parentId": -1,
+      "isSection": 1,
+      "fiscalImpactSummary": null,
+      "agendaObjectItemOutlineNumberFull": null,
+      "level": 0,
+      "attachmentsList": [],
+      "childItems": []
+    },
+    {
+      "id": 17965,
+      "agendaObjectItemNumber": "",
+      "agendaObjectItemOutlineNumber": "II.",
+      "agendaObjectItemName": "Invocation and Pledge of Allegiance",
+      "sortOrder": 2,
+      "parentId": -1,
+      "isSection": 1,
+      "fiscalImpactSummary": null,
+      "agendaObjectItemOutlineNumberFull": null,
+      "level": 0,
+      "attachmentsList": [],
+      "childItems": []
+    },
+    {
+      "id": 17966,
+      "agendaObjectItemNumber": "",
+      "agendaObjectItemOutlineNumber": "III.",
+      "agendaObjectItemName": "Adoption of Agenda  ",
+      "sortOrder": 3,
+      "parentId": -1,
+      "isSection": 1,
+      "fiscalImpactSummary": null,
+      "agendaObjectItemOutlineNumberFull": null,
+      "level": 0,
+      "attachmentsList": [],
+      "childItems": []
+    },
+    {
+      "id": 17967,
+      "agendaObjectItemNumber": "",
+      "agendaObjectItemOutlineNumber": "IV.",
+      "agendaObjectItemName": "Announcements and Reports",
+      "sortOrder": 4,
+      "parentId": -1,
+      "isSection": 1,
+      "fiscalImpactSummary": null,
+      "agendaObjectItemOutlineNumberFull": null,
+      "level": 0,
+      "attachmentsList": [],
+      "childItems": [
+        {
+          "id": 20330,
+          "agendaObjectItemNumber": "2026-633",
+          "agendaObjectItemOutlineNumber": "1",
+          "agendaObjectItemName": "The Georgia Association of Water Professionals presentation of awards to the Forsyth County Department of Water and Sewer",
+          "sortOrder": 5,
+          "parentId": 17967,
+          "isSection": 0,
+          "fiscalImpactSummary": null,
+          "agendaObjectItemOutlineNumberFull": null,
+          "level": 0,
+          "attachmentsList": [],
+          "childItems": []
+        },
+        {
+          "id": 18844,
+          "agendaObjectItemNumber": "2026-320",
+          "agendaObjectItemOutlineNumber": "2",
+          "agendaObjectItemName": "Board presentation of a Proclamation recognizing Eagle Scout Robin George Thomas - Semanson / John",
+          "sortOrder": 6,
+          "parentId": 17967,
+          "isSection": 0,
+          "fiscalImpactSummary": null,
+          "agendaObjectItemOutlineNumberFull": null,
+          "level": 0,
+          "attachmentsList": [
+            {
+              "id": 36702,
+              "fileName": "8.6.26 Robin George Thomas",
+              "mediaFileName": "8.6.26 Robin George Thomas.pdf",
+              "contentType": "application/pdf",
+              "fileSize": 75278,
+              "isPublished": true,
+              "isDeleted": false
+            }
+          ],
+          "childItems": []
+        },
+        {
+          "id": 19037,
+          "agendaObjectItemNumber": "2026-430",
+          "agendaObjectItemOutlineNumber": "3",
+          "agendaObjectItemName": "Board presentation of a Proclamation recognizing Eagle Scout Laasya Kuchimanchi  - Levent / Moore",
+          "sortOrder": 7,
+          "parentId": 17967,
+          "isSection": 0,
+          "fiscalImpactSummary": null,
+          "agendaObjectItemOutlineNumberFull": null,
+          "level": 0,
+          "attachmentsList": [
+            {
+              "id": 36686,
+              "fileName": "8.6.26 Laasya Kuchimanchi Proclamation",
+              "mediaFileName": "8.6.26 Laasya Kuchimanchi Proclamation.pdf",
+              "contentType": "application/pdf",
+              "fileSize": 76941,
+              "isPublished": true,
+              "isDeleted": false
+            }
+          ],
+          "childItems": []
+        }
+      ]
+    },
+    {
+      "id": 17961,
+      "agendaObjectItemNumber": "",
+      "agendaObjectItemOutlineNumber": "V.",
+      "agendaObjectItemName": "Public Comments",
+      "sortOrder": 8,
+      "parentId": -1,
+      "isSection": 1,
+      "fiscalImpactSummary": null,
+      "agendaObjectItemOutlineNumberFull": null,
+      "level": 0,
+      "attachmentsList": [],
+      "childItems": []
+    },
+    {
+      "id": 17968,
+      "agendaObjectItemNumber": "",
+      "agendaObjectItemOutlineNumber": "VI.",
+      "agendaObjectItemName": "Adoption of Minutes",
+      "sortOrder": 9,
+      "parentId": -1,
+      "isSection": 1,
+      "fiscalImpactSummary": null,
+      "agendaObjectItemOutlineNumberFull": null,
+      "level": 0,
+      "attachmentsList": [],
+      "childItems": [
+        {
+          "id": 20335,
+          "agendaObjectItemNumber": "2026-638",
+          "agendaObjectItemOutlineNumber": "1",
+          "agendaObjectItemName": "Regular Meeting / Public Hearings of July 23, 2026 - County Clerk",
+          "sortOrder": 10,
+          "parentId": 17968,
+          "isSection": 0,
+          "fiscalImpactSummary": null,
+          "agendaObjectItemOutlineNumberFull": null,
+          "level": 0,
+          "attachmentsList": [
+            {
+              "id": 36722,
+              "fileName": "Minutes 7.23.2026",
+              "mediaFileName": "Minutes 7.23.2026.pdf",
+              "contentType": "application/pdf",
+              "fileSize": 491089,
+              "isPublished": true,
+              "isDeleted": false
+            }
+          ],
+          "childItems": []
+        },
+        {
+          "id": 20336,
+          "agendaObjectItemNumber": "2026-639",
+          "agendaObjectItemOutlineNumber": "2",
+          "agendaObjectItemName": "Work Session and Executive Session of July 28, 2026 - County Clerk",
+          "sortOrder": 11,
+          "parentId": 17968,
+          "isSection": 0,
+          "fiscalImpactSummary": null,
+          "agendaObjectItemOutlineNumberFull": null,
+          "level": 0,
+          "attachmentsList": [
+            {
+              "id": 36729,
+              "fileName": "Minutes 7.28.2026 Work Session",
+              "mediaFileName": "Minutes 7.28.2026 Work Session.pdf",
+              "contentType": "application/pdf",
+              "fileSize": 257574,
+              "isPublished": true,
+              "isDeleted": false
+            }
+          ],
+          "childItems": []
+        }
+      ]
+    },
+    {
+      "id": 17969,
+      "agendaObjectItemNumber": "",
+      "agendaObjectItemOutlineNumber": "VII.",
+      "agendaObjectItemName": "Consent Agenda",
+      "sortOrder": 12,
+      "parentId": -1,
+      "isSection": 1,
+      "fiscalImpactSummary": null,
+      "agendaObjectItemOutlineNumberFull": null,
+      "level": 0,
+      "attachmentsList": [],
+      "childItems": [
+        {
+          "id": 20334,
+          "agendaObjectItemNumber": "2026-637",
+          "agendaObjectItemOutlineNumber": "1",
+          "agendaObjectItemName": "Board Ratification of the following items that were discussed and voted on at the Work Session held on July 28, 2026 (as anticipated by Board Rule 1.07.01):",
+          "sortOrder": 13,
+          "parentId": 17969,
+          "isSection": 0,
+          "fiscalImpactSummary": null,
+          "agendaObjectItemOutlineNumberFull": null,
+          "level": 0,
+          "attachmentsList": [],
+          "childItems": [
+            {
+              "id": 20337,
+              "agendaObjectItemNumber": "2026-622",
+              "agendaObjectItemOutlineNumber": "A",
+              "agendaObjectItemName": "Board authorization to advertise the FY 2027 Proposed Budget and 2027-2031 Capital Improvement Program (CIP), Public Hearing and possible Board adoption to occur on August 20, 2026 - Chief Financial Officer, Department of Finance",
+              "sortOrder": 14,
+              "parentId": 20334,
+              "isSection": 0,
+              "fiscalImpactSummary": null,
+              "agendaObjectItemOutlineNumberFull": null,
+              "level": 0,
+              "attachmentsList": [
+                {
+                  "id": 36649,
+                  "fileName": "2027 Proposed Budget Presentation Work Session_Draft 07222026",
+                  "mediaFileName": "2027 Proposed Budget Presentation Work Session_Draft 07222026.pdf",
+                  "contentType": "application/pdf",
+                  "fileSize": 3428720,
+                  "isPublished": true,
+                  "isDeleted": false
+                }
+              ],
+              "childItems": []
+            },
+            {
+              "id": 20338,
+              "agendaObjectItemNumber": "2026-616",
+              "agendaObjectItemOutlineNumber": "B",
+              "agendaObjectItemName": "Board approval of a Budget Resolution to rebudget encumbered and carryover items from 2025 as presented - Chief Financial Officer, Department of Finance",
+              "sortOrder": 15,
+              "parentId": 20334,
+              "isSection": 0,
+              "fiscalImpactSummary": null,
+              "agendaObjectItemOutlineNumberFull": null,
+              "level": 0,
+              "attachmentsList": [
+                {
+                  "id": 36650,
+                  "fileName": "7.28.2026 2026 Budget Reappropriation Resolution",
+                  "mediaFileName": "7.28.2026 2026 Budget Reappropriation Resolution.pdf",
+                  "contentType": "application/pdf",
+                  "fileSize": 182240,
+                  "isPublished": true,
+                  "isDeleted": false
+                }
+              ],
+              "childItems": []
+            },
+            {
+              "id": 20339,
+              "agendaObjectItemNumber": "2026-615",
+              "agendaObjectItemOutlineNumber": "C",
+              "agendaObjectItemName": "Board approval of a Budget Resolution regarding Final Budget Amendment to close the FY 2025 Fiscal Year - Chief Financial Officer, Department of Finance",
+              "sortOrder": 16,
+              "parentId": 20334,
+              "isSection": 0,
+              "fiscalImpactSummary": null,
+              "agendaObjectItemOutlineNumberFull": null,
+              "level": 0,
+              "attachmentsList": [
+                {
+                  "id": 36651,
+                  "fileName": "07.28.2026 Final Budget Amendment FY 2025",
+                  "mediaFileName": "07.28.2026 Final Budget Amendment FY 2025.pdf",
+                  "contentType": "application/pdf",
+                  "fileSize": 189641,
+                  "isPublished": true,
+                  "isDeleted": false
+                }
+              ],
+              "childItems": []
+            },
+            {
+              "id": 20341,
+              "agendaObjectItemNumber": "2026-605",
+              "agendaObjectItemOutlineNumber": "D",
+              "agendaObjectItemName": "Board authorization for Forsyth County to accept the Georgia Emergency Management and Homeland Security Agency (GEMHSA) FY25 Local Emergency Management Performance Grant (EMPG) in the amount of $50,000.00 with a required match of $50,000.00 – Director, Emergency Management Agency",
+              "sortOrder": 17,
+              "parentId": 20334,
+              "isSection": 0,
+              "fiscalImpactSummary": null,
+              "agendaObjectItemOutlineNumberFull": null,
+              "level": 0,
+              "attachmentsList": [
+                {
+                  "id": 36654,
+                  "fileName": "Award Notification Email-FY25 EMPG",
+                  "mediaFileName": "Award Notification Email-FY25 EMPG.pdf",
+                  "contentType": "application/pdf",
+                  "fileSize": 985325,
+                  "isPublished": true,
+                  "isDeleted": false
+                },
+                {
+                  "id": 36655,
+                  "fileName": "Grant Guidance-FY25 GEMA EMPG",
+                  "mediaFileName": "Grant Guidance-FY25 GEMA EMPG.pdf",
+                  "contentType": "application/pdf",
+                  "fileSize": 9612828,
+                  "isPublished": true,
+                  "isDeleted": false
+                }
+              ],
+              "childItems": []
+            },
+            {
+              "id": 20342,
+              "agendaObjectItemNumber": "2026-584",
+              "agendaObjectItemOutlineNumber": "E",
+              "agendaObjectItemName": "Board approval of Change Order #1 to the Power and Energy Services Agreement in the amount of $11,333.00 to add load bank testing and preventative maintenance services for additional generators (PO #20260386) - Director, Department of Public Facilities",
+              "sortOrder": 18,
+              "parentId": 20334,
+              "isSection": 0,
+              "fiscalImpactSummary": null,
+              "agendaObjectItemOutlineNumberFull": null,
+              "level": 0,
+              "attachmentsList": [
+                {
+                  "id": 36657,
+                  "fileName": "GenServe Contract Changer Order #1",
+                  "mediaFileName": "GenServe Contract Changer Order #1.pdf",
+                  "contentType": "application/pdf",
+                  "fileSize": 159295,
+                  "isPublished": true,
+                  "isDeleted": false
+                }
+              ],
+              "childItems": []
+            },
+            {
+              "id": 20343,
+              "agendaObjectItemNumber": "2026-582",
+              "agendaObjectItemOutlineNumber": "F",
+              "agendaObjectItemName": "Board approval of a Memorandum of Understanding for contractors to provide treatment services, substance screening, and 4th Amendment waiver searches (Clack) with authorization for the Chairperson to execute all related documents - Director, Accountability Courts",
+              "sortOrder": 19,
+              "parentId": 20334,
+              "isSection": 0,
+              "fiscalImpactSummary": null,
+              "agendaObjectItemOutlineNumberFull": null,
+              "level": 0,
+              "attachmentsList": [
+                {
+                  "id": 36658,
+                  "fileName": "0036_001",
+                  "mediaFileName": "0036_001.pdf",
+                  "contentType": "application/pdf",
+                  "fileSize": 415202,
+                  "isPublished": true,
+                  "isDeleted": false
+                }
+              ],
+              "childItems": []
+            },
+            {
+              "id": 20344,
+              "agendaObjectItemNumber": "2026-607",
+              "agendaObjectItemOutlineNumber": "G",
+              "agendaObjectItemName": "Board authorization for the Department of Senior Services to accept the FY27 Georgia Council for the Arts (GCA) Project Grant in the amount of $5,000.00 with a match of $2,500.00 with approval of a Budget Resolution - Deputy Director, Department of Senior Services",
+              "sortOrder": 20,
+              "parentId": 20334,
+              "isSection": 0,
+              "fiscalImpactSummary": null,
+              "agendaObjectItemOutlineNumberFull": null,
+              "level": 0,
+              "attachmentsList": [
+                {
+                  "id": 36659,
+                  "fileName": "Award Notice-FY27 GCA Project Grant",
+                  "mediaFileName": "Award Notice-FY27 GCA Project Grant.pdf",
+                  "contentType": "application/pdf",
+                  "fileSize": 845054,
+                  "isPublished": true,
+                  "isDeleted": false
+                },
+                {
+                  "id": 36816,
+                  "fileName": "07.28.2026 Senior Services Budget Resolution (GCA) (1)",
+                  "mediaFileName": "07.28.2026 Senior Services Budget Resolution (GCA) (1).pdf",
+                  "contentType": "application/pdf",
+                  "fileSize": 309258,
+                  "isPublished": true,
+                  "isDeleted": false
+                }
+              ],
+              "childItems": []
+            },
+            {
+              "id": 20345,
+              "agendaObjectItemNumber": "2026-601",
+              "agendaObjectItemOutlineNumber": "H",
+              "agendaObjectItemName": "Board to award RFP 26-60-1630 to Blue Cypress Consulting, LLC in the amount of $254,200.00 for Consultant Services for Comprehensive Plan Update (2026) with GIS Services for the Department of Planning and Community Development with approval of the associated Professional Services Agreement - Director, Department of Planning and Community Development",
+              "sortOrder": 21,
+              "parentId": 20334,
+              "isSection": 0,
+              "fiscalImpactSummary": null,
+              "agendaObjectItemOutlineNumberFull": null,
+              "level": 0,
+              "attachmentsList": [
+                {
+                  "id": 36662,
+                  "fileName": "RFP 26-60-1630 Tabulation",
+                  "mediaFileName": "RFP 26-60-1630 Tabulation.pdf",
+                  "contentType": "application/pdf",
+                  "fileSize": 58451,
+                  "isPublished": true,
+                  "isDeleted": false
+                },
+                {
+                  "id": 36663,
+                  "fileName": "Blue Cypress Consulting_26-60-1630_Professional Services Agreement (Comprehensive Plan Update with GIS Services)",
+                  "mediaFileName": "Blue Cypress Consulting_26-60-1630_Professional Services Agreement (Comprehensive Plan Update with GIS Services).pdf",
+                  "contentType": "application/pdf",
+                  "fileSize": 7259946,
+                  "isPublished": true,
+                  "isDeleted": false
+                }
+              ],
+              "childItems": []
+            },
+            {
+              "id": 20346,
+              "agendaObjectItemNumber": "2026-64",
+              "agendaObjectItemOutlineNumber": "I",
+              "agendaObjectItemName": "Board authorization to postpone a Board-generated rezoning for ZA4135, Athena Learning LLC, to the Work Session meeting of October 20, 2026.  In accordance with UDC 8-5.5(I), if an application for a land disturbance permit has not been submitted within 18 months of zoning approval, the Board may consider rezoning to a constitutional zoning designation - District 2 – Director, Department of Planning and Community Development<br><span style=\"font-family: Arial;\"><strong><span style=\"font-size: 12px;\">(Postponed from the July 22, 2025 and January 27, 2026 Agendas)</span></strong></span>",
+              "sortOrder": 22,
+              "parentId": 20334,
+              "isSection": 0,
+              "fiscalImpactSummary": null,
+              "agendaObjectItemOutlineNumberFull": null,
+              "level": 0,
+              "attachmentsList": [
+                {
+                  "id": 36664,
+                  "fileName": "location_map_za4135",
+                  "mediaFileName": "location_map_za4135.pdf",
+                  "contentType": "application/pdf",
+                  "fileSize": 1307721,
+                  "isPublished": true,
+                  "isDeleted": false
+                },
+                {
+                  "id": 36665,
+                  "fileName": "concept_plan_za4135_rev_081823",
+                  "mediaFileName": "concept_plan_za4135_rev_081823.pdf",
+                  "contentType": "application/pdf",
+                  "fileSize": 5029293,
+                  "isPublished": true,
+                  "isDeleted": false
+                },
+                {
+                  "id": 36666,
+                  "fileName": "boc_decision_za4135",
+                  "mediaFileName": "boc_decision_za4135.pdf",
+                  "contentType": "application/pdf",
+                  "fileSize": 6400848,
+                  "isPublished": true,
+                  "isDeleted": false
+                }
+              ],
+              "childItems": []
+            },
+            {
+              "id": 20347,
+              "agendaObjectItemNumber": "2026-66",
+              "agendaObjectItemOutlineNumber": "J",
+              "agendaObjectItemName": "Board authorization to postpone a Board generated rezoning for ZA4136, Emory Lagree, LLC, to the second Work Session meeting in January 2027.  In accordance with UDC 8-5.5(I), if an application for a land disturbance permit has not been submitted within 18 months of zoning approval, the Board may consider rezoning to a constitutional zoning designation - District 4 – Director, Department of Planning and Community Development<br><span style=\"font-family: Arial; font-size: 12px;\"><strong>(Postponed from the July 22, 2025 Agenda)</strong></span>",
+              "sortOrder": 23,
+              "parentId": 20334,
+              "isSection": 0,
+              "fiscalImpactSummary": null,
+              "agendaObjectItemOutlineNumberFull": null,
+              "level": 0,
+              "attachmentsList": [
+                {
+                  "id": 36668,
+                  "fileName": "concept_plan_za4136_rev_081823",
+                  "mediaFileName": "concept_plan_za4136_rev_081823.pdf",
+                  "contentType": "application/pdf",
+                  "fileSize": 5677304,
+                  "isPublished": true,
+                  "isDeleted": false
+                },
+                {
+                  "id": 36669,
+                  "fileName": "boc_decision_za4136",
+                  "mediaFileName": "boc_decision_za4136.pdf",
+                  "contentType": "application/pdf",
+                  "fileSize": 226382,
+                  "isPublished": true,
+                  "isDeleted": false
+                },
+                {
+                  "id": 36670,
+                  "fileName": "location_map_za4136_rev_071426",
+                  "mediaFileName": "location_map_za4136_rev_071426.pdf",
+                  "contentType": "application/pdf",
+                  "fileSize": 1171259,
+                  "isPublished": true,
+                  "isDeleted": false
+                }
+              ],
+              "childItems": []
+            },
+            {
+              "id": 20348,
+              "agendaObjectItemNumber": "2026-583",
+              "agendaObjectItemOutlineNumber": "K",
+              "agendaObjectItemName": "Board to award RFP 26-51-5211 to Great Southern Recreation, LLC in the amount of $249,982.73 for the Chattahoochee Pointe Park Playground Design and Installation for the Department of Parks and Recreation with approval of the associated Construction Services Agreement - Director, Department of Parks and Recreation",
+              "sortOrder": 24,
+              "parentId": 20334,
+              "isSection": 0,
+              "fiscalImpactSummary": null,
+              "agendaObjectItemOutlineNumberFull": null,
+              "level": 0,
+              "attachmentsList": [
+                {
+                  "id": 36671,
+                  "fileName": "RFP Tab 26-51-5211",
+                  "mediaFileName": "RFP Tab 26-51-5211.pdf",
+                  "contentType": "application/pdf",
+                  "fileSize": 72627,
+                  "isPublished": true,
+                  "isDeleted": false
+                },
+                {
+                  "id": 36672,
+                  "fileName": "Great Southern Rec Construction Services Agreement_with exhibits",
+                  "mediaFileName": "Great Southern Rec Construction Services Agreement_with exhibits.pdf",
+                  "contentType": "application/pdf",
+                  "fileSize": 3344654,
+                  "isPublished": true,
+                  "isDeleted": false
+                }
+              ],
+              "childItems": []
+            },
+            {
+              "id": 20349,
+              "agendaObjectItemNumber": "2026-580",
+              "agendaObjectItemOutlineNumber": "L",
+              "agendaObjectItemName": "Board to award Bid 26-47-5211 to Playworx Playsets, LLC in the amount of $298,350.00 for the Central Park Playground Surface Replacement Project for the Department of Parks and Recreation with approval of the associated Construction Services Agreement - Director, Department of Parks and Recreation",
+              "sortOrder": 25,
+              "parentId": 20334,
+              "isSection": 0,
+              "fiscalImpactSummary": null,
+              "agendaObjectItemOutlineNumberFull": null,
+              "level": 0,
+              "attachmentsList": [
+                {
+                  "id": 36673,
+                  "fileName": "26-47-5211 Bid Tab",
+                  "mediaFileName": "26-47-5211 Bid Tab.pdf",
+                  "contentType": "application/pdf",
+                  "fileSize": 98014,
+                  "isPublished": true,
+                  "isDeleted": false
+                },
+                {
+                  "id": 36674,
+                  "fileName": "Playworx Playsets Construction Services Agreement",
+                  "mediaFileName": "Playworx Playsets Construction Services Agreement.pdf",
+                  "contentType": "application/pdf",
+                  "fileSize": 1382840,
+                  "isPublished": true,
+                  "isDeleted": false
+                }
+              ],
+              "childItems": []
+            },
+            {
+              "id": 20350,
+              "agendaObjectItemNumber": "2026-603",
+              "agendaObjectItemOutlineNumber": "M",
+              "agendaObjectItemName": "Board approval to receive a donation of a digital planetarium HD projection system (valued at $39,189.00) from the Forsyth County Parks Foundation for educational programming at Sawnee Mountain Preserve and approval of the associated Budget Resolution - Deputy Director, Department of Parks and Recreation",
+              "sortOrder": 26,
+              "parentId": 20334,
+              "isSection": 0,
+              "fiscalImpactSummary": null,
+              "agendaObjectItemOutlineNumberFull": null,
+              "level": 0,
+              "attachmentsList": [
+                {
+                  "id": 36676,
+                  "fileName": "Mobile Planetarium Value",
+                  "mediaFileName": "Mobile Planetarium Value.pdf",
+                  "contentType": "application/pdf",
+                  "fileSize": 146128,
+                  "isPublished": true,
+                  "isDeleted": false
+                },
+                {
+                  "id": 36817,
+                  "fileName": "Budget Resolution - Parks & Rec Donated Planetarium Projection System (Parks Fdntn)",
+                  "mediaFileName": "Budget Resolution - Parks & Rec Donated Planetarium Projection System (Parks Fdntn).pdf",
+                  "contentType": "application/pdf",
+                  "fileSize": 347230,
+                  "isPublished": true,
+                  "isDeleted": false
+                }
+              ],
+              "childItems": []
+            },
+            {
+              "id": 20351,
+              "agendaObjectItemNumber": "2026-621",
+              "agendaObjectItemOutlineNumber": "N",
+              "agendaObjectItemName": "<p style=\"margin-left:0in;\" data-pasted=\"true\">Board approval of Budget Resolution transferring the remaining 2026 funding associated with the Capital Projects Financial Reporting Manager position from the Department of Capital Projects in the amount of $66,297.54 to the Department of Finance, effective July 13, 2026 – Director, Department of Employment Services</p>",
+              "sortOrder": 27,
+              "parentId": 20334,
+              "isSection": 0,
+              "fiscalImpactSummary": null,
+              "agendaObjectItemOutlineNumberFull": null,
+              "level": 0,
+              "attachmentsList": [
+                {
+                  "id": 36677,
+                  "fileName": "Rachel Smith_2026 Budget Transfer_Agenda Request",
+                  "mediaFileName": "Rachel Smith_2026 Budget Transfer_Agenda Request.pdf",
+                  "contentType": "application/pdf",
+                  "fileSize": 177182,
+                  "isPublished": true,
+                  "isDeleted": false
+                },
+                {
+                  "id": 36678,
+                  "fileName": "Transfer of CP Position (Smith) to Finance Budget Resolution",
+                  "mediaFileName": "Transfer of CP Position (Smith) to Finance Budget Resolution.pdf",
+                  "contentType": "application/pdf",
+                  "fileSize": 167999,
+                  "isPublished": true,
+                  "isDeleted": false
+                }
+              ],
+              "childItems": []
+            },
+            {
+              "id": 20352,
+              "agendaObjectItemNumber": "2026-612",
+              "agendaObjectItemOutlineNumber": "O",
+              "agendaObjectItemName": "Board approval of a Professional Services Agreement with Atlantic Coast Consulting, Inc. in the not to exceed amount of $390,000.00 for Convenience Center Master Planning Services for the Department of Environmental Services - Vertical Capital Projects Manager (Weldon), Department of Capital Projects",
+              "sortOrder": 28,
+              "parentId": 20334,
+              "isSection": 0,
+              "fiscalImpactSummary": null,
+              "agendaObjectItemOutlineNumberFull": null,
+              "level": 0,
+              "attachmentsList": [
+                {
+                  "id": 36679,
+                  "fileName": "Atlantic Coast Consulting (Convenience Centers) Professional Services Agreement",
+                  "mediaFileName": "Atlantic Coast Consulting (Convenience Centers) Professional Services Agreement.pdf",
+                  "contentType": "application/pdf",
+                  "fileSize": 676057,
+                  "isPublished": true,
+                  "isDeleted": false
+                }
+              ],
+              "childItems": []
+            },
+            {
+              "id": 20353,
+              "agendaObjectItemNumber": "2026-620",
+              "agendaObjectItemOutlineNumber": "P",
+              "agendaObjectItemName": "Board approval of Commitment Change Order (CCO) #001 to agreement 25-69-1514R with Crowder Construction Company, a North Carolina corporation for the Big Creek Greenway Rehabilitation, Phases 2&3, 4 and Bethelview Trailhead project in the Guaranteed Maximum Price (GMP) amount of $38,693,094.00, and approval of overall project budget (including CCO #001) in the amount of $42,579,019.00 - Senior Capital Projects Manager (Madsen), Department of Capital Projects",
+              "sortOrder": 29,
+              "parentId": 20334,
+              "isSection": 0,
+              "fiscalImpactSummary": null,
+              "agendaObjectItemOutlineNumberFull": null,
+              "level": 0,
+              "attachmentsList": [
+                {
+                  "id": 36680,
+                  "fileName": "Big Creek Greenway PDB_H&L Review of GMP",
+                  "mediaFileName": "Big Creek Greenway PDB_H&L Review of GMP.pdf",
+                  "contentType": "application/pdf",
+                  "fileSize": 80284,
+                  "isPublished": true,
+                  "isDeleted": false
+                },
+                {
+                  "id": 36681,
+                  "fileName": "Cost Analysis - Updated at 60% GMP",
+                  "mediaFileName": "Cost Analysis - Updated at 60% GMP.pdf",
+                  "contentType": "application/pdf",
+                  "fileSize": 245624,
+                  "isPublished": true,
+                  "isDeleted": false
+                },
+                {
+                  "id": 36683,
+                  "fileName": "2026-07-24 BIG CREEK GREENWAY - GMP BUDGET",
+                  "mediaFileName": "2026-07-24 BIG CREEK GREENWAY - GMP BUDGET.pdf",
+                  "contentType": "application/pdf",
+                  "fileSize": 54275,
+                  "isPublished": true,
+                  "isDeleted": false
+                },
+                {
+                  "id": 36684,
+                  "fileName": "CO 001 - Big  Creek Greenway (Phase 3, 4 & Bethelview Trailhead) - GMP",
+                  "mediaFileName": "CO 001 - Big  Creek Greenway (Phase 3, 4 & Bethelview Trailhead) - GMP.pdf",
+                  "contentType": "application/pdf",
+                  "fileSize": 534778,
+                  "isPublished": true,
+                  "isDeleted": false
+                }
+              ],
+              "childItems": []
+            },
+            {
+              "id": 20354,
+              "agendaObjectItemNumber": "2026-596",
+              "agendaObjectItemOutlineNumber": "Q",
+              "agendaObjectItemName": "Board approval of a Conservation Easement between Pulte Home Company, LLC and Silverwood Homeowners Association, Inc. and Forsyth County, Georgia with respect to conservation areas located in Silverwood Subdivision, Phase 1 and Phase 2 - County Attorney",
+              "sortOrder": 30,
+              "parentId": 20334,
+              "isSection": 0,
+              "fiscalImpactSummary": null,
+              "agendaObjectItemOutlineNumberFull": null,
+              "level": 0,
+              "attachmentsList": [
+                {
+                  "id": 36685,
+                  "fileName": "Conservation Easement 7.9.26",
+                  "mediaFileName": "Conservation Easement 7.9.26.pdf",
+                  "contentType": "application/pdf",
+                  "fileSize": 1691350,
+                  "isPublished": true,
+                  "isDeleted": false
+                }
+              ],
+              "childItems": []
+            },
+            {
+              "id": 20355,
+              "agendaObjectItemNumber": "2026-640",
+              "agendaObjectItemOutlineNumber": "R",
+              "agendaObjectItemName": "Board authorization for staff to move forward with the Public Hearing process for a County-Initiated zoning condition amendment for Parcel 191-024 - District 4 - Director, Department of Planning and Community Development",
+              "sortOrder": 31,
+              "parentId": 20334,
+              "isSection": 0,
+              "fiscalImpactSummary": null,
+              "agendaObjectItemOutlineNumberFull": null,
+              "level": 0,
+              "attachmentsList": [],
+              "childItems": []
+            }
+          ]
+        },
+        {
+          "id": 18846,
+          "agendaObjectItemNumber": "2026-322",
+          "agendaObjectItemOutlineNumber": "2",
+          "agendaObjectItemName": "Board adoption of a Proclamation recognizing Eagle Scout Robin George Thomas - County Clerk",
+          "sortOrder": 32,
+          "parentId": 17969,
+          "isSection": 0,
+          "fiscalImpactSummary": null,
+          "agendaObjectItemOutlineNumberFull": null,
+          "level": 0,
+          "attachmentsList": [],
+          "childItems": []
+        },
+        {
+          "id": 19038,
+          "agendaObjectItemNumber": "2026-431",
+          "agendaObjectItemOutlineNumber": "3",
+          "agendaObjectItemName": "Board adoption of a Proclamation recognizing Eagle Scout Laasya Kuchimanchi  ​- County Clerk",
+          "sortOrder": 33,
+          "parentId": 17969,
+          "isSection": 0,
+          "fiscalImpactSummary": null,
+          "agendaObjectItemOutlineNumberFull": null,
+          "level": 0,
+          "attachmentsList": [],
+          "childItems": []
+        },
+        {
+          "id": 20357,
+          "agendaObjectItemNumber": "2026-642",
+          "agendaObjectItemOutlineNumber": "4",
+          "agendaObjectItemName": "Board approval to proceed with Nuisance Abatement action for property located at 6107 Post Road, Cumming, GA 30040 (Parcel No: 059-531; Parcel Owner: MMK Properties LLC) - District 3 - County Attorney",
+          "sortOrder": 34,
+          "parentId": 17969,
+          "isSection": 0,
+          "fiscalImpactSummary": null,
+          "agendaObjectItemOutlineNumberFull": null,
+          "level": 0,
+          "attachmentsList": [],
+          "childItems": []
+        }
+      ]
+    },
+    {
+      "id": 17970,
+      "agendaObjectItemNumber": "",
+      "agendaObjectItemOutlineNumber": "VIII.",
+      "agendaObjectItemName": "Public Hearings",
+      "sortOrder": 35,
+      "parentId": -1,
+      "isSection": 1,
+      "fiscalImpactSummary": null,
+      "agendaObjectItemOutlineNumberFull": null,
+      "level": 0,
+      "attachmentsList": [],
+      "childItems": [
+        {
+          "id": 19170,
+          "agendaObjectItemNumber": "2026-525",
+          "agendaObjectItemOutlineNumber": "1",
+          "agendaObjectItemName": "Public Hearing and possible vote regarding the request for an Amendment of Zoning Conditions on ZA2257 (Eugene E. Pearson) by Red Oak Sanitation, LLC – Parcel 009-075 - AZ250038 - District 1 - Director, Department of Planning and Community Development<br><span style=\"font-family: Arial; font-size: 12px;\"><strong>(Postponed from the June 18, 2026 Agenda)</strong></span>",
+          "sortOrder": 36,
+          "parentId": 17970,
+          "isSection": 0,
+          "fiscalImpactSummary": null,
+          "agendaObjectItemOutlineNumberFull": null,
+          "level": 0,
+          "attachmentsList": [
+            {
+              "id": 35147,
+              "fileName": "application_az250038_redacted",
+              "mediaFileName": "application_az250038_redacted.pdf",
+              "contentType": "application/pdf",
+              "fileSize": 5928317,
+              "isPublished": true,
+              "isDeleted": false
+            },
+            {
+              "id": 35148,
+              "fileName": "location_map_az250038",
+              "mediaFileName": "location_map_az250038.pdf",
+              "contentType": "application/pdf",
+              "fileSize": 1148494,
+              "isPublished": true,
+              "isDeleted": false
+            },
+            {
+              "id": 35149,
+              "fileName": "concept_plan_az250038",
+              "mediaFileName": "concept_plan_az250038.pdf",
+              "contentType": "application/pdf",
+              "fileSize": 1374865,
+              "isPublished": true,
+              "isDeleted": false
+            },
+            {
+              "id": 36527,
+              "fileName": "sign_affidavit_az250038_070726",
+              "mediaFileName": "sign_affidavit_az250038_070726.pdf",
+              "contentType": "application/pdf",
+              "fileSize": 1106933,
+              "isPublished": true,
+              "isDeleted": false
+            },
+            {
+              "id": 36595,
+              "fileName": "legal_ad_az250038",
+              "mediaFileName": "legal_ad_az250038.pdf",
+              "contentType": "application/pdf",
+              "fileSize": 90755,
+              "isPublished": true,
+              "isDeleted": false
+            }
+          ],
+          "childItems": []
+        },
+        {
+          "id": 19171,
+          "agendaObjectItemNumber": "2026-526",
+          "agendaObjectItemOutlineNumber": "2",
+          "agendaObjectItemName": "Public Hearing and possible vote regarding an Alternate Design for Red Oak Sanitation, LLC with the following variance to: 1. Increase the maximum number of parking spaces from 104 to 150 (UDC 17-2.7) - Parcel 009-075 - AD260002 - District 1 - Director, Department of Planning and Community Development<br><span style=\"font-size: 12px; font-family: Arial;\"><strong>(Postponed from the June 18, 2026 Agenda)</strong></span>",
+          "sortOrder": 37,
+          "parentId": 17970,
+          "isSection": 0,
+          "fiscalImpactSummary": null,
+          "agendaObjectItemOutlineNumberFull": null,
+          "level": 0,
+          "attachmentsList": [
+            {
+              "id": 35153,
+              "fileName": "application_ad260002",
+              "mediaFileName": "application_ad260002.pdf",
+              "contentType": "application/pdf",
+              "fileSize": 2602629,
+              "isPublished": true,
+              "isDeleted": false
+            },
+            {
+              "id": 36585,
+              "fileName": "application_ad260002_redacted",
+              "mediaFileName": "application_ad260002_redacted.pdf",
+              "contentType": "application/pdf",
+              "fileSize": 5184053,
+              "isPublished": true,
+              "isDeleted": false
+            },
+            {
+              "id": 35154,
+              "fileName": "location_map_ad260002",
+              "mediaFileName": "location_map_ad260002.pdf",
+              "contentType": "application/pdf",
+              "fileSize": 1795177,
+              "isPublished": true,
+              "isDeleted": false
+            },
+            {
+              "id": 35155,
+              "fileName": "concept_plan_ad260002",
+              "mediaFileName": "concept_plan_ad260002.pdf",
+              "contentType": "application/pdf",
+              "fileSize": 1372328,
+              "isPublished": true,
+              "isDeleted": false
+            },
+            {
+              "id": 36530,
+              "fileName": "sign_affidavit_ad260002_070726",
+              "mediaFileName": "sign_affidavit_ad260002_070726.pdf",
+              "contentType": "application/pdf",
+              "fileSize": 1073818,
+              "isPublished": true,
+              "isDeleted": false
+            },
+            {
+              "id": 36531,
+              "fileName": "legal_ad_ad260002",
+              "mediaFileName": "legal_ad_ad260002.pdf",
+              "contentType": "application/pdf",
+              "fileSize": 64588,
+              "isPublished": true,
+              "isDeleted": false
+            }
+          ],
+          "childItems": []
+        },
+        {
+          "id": 19177,
+          "agendaObjectItemNumber": "2026-530",
+          "agendaObjectItemOutlineNumber": "3",
+          "agendaObjectItemName": "Public Hearing and possible vote regarding the request for an Amendment of Zoning Conditions on ZA1921 (Eugene E. Pearson) by Red Oak Sanitation, LLC - Parcel 009-075 - AZ250036 - District 1 - Director, Department of Planning and Community Development<br><span style=\"font-family: Arial; font-size: 12px;\"><strong>(Postponed from the June 18, 2026 Agenda)</strong></span>",
+          "sortOrder": 38,
+          "parentId": 17970,
+          "isSection": 0,
+          "fiscalImpactSummary": null,
+          "agendaObjectItemOutlineNumberFull": null,
+          "level": 0,
+          "attachmentsList": [
+            {
+              "id": 35165,
+              "fileName": "application_az250036_redacted",
+              "mediaFileName": "application_az250036_redacted.pdf",
+              "contentType": "application/pdf",
+              "fileSize": 5256139,
+              "isPublished": true,
+              "isDeleted": false
+            },
+            {
+              "id": 35166,
+              "fileName": "location_map_az250036",
+              "mediaFileName": "location_map_az250036.pdf",
+              "contentType": "application/pdf",
+              "fileSize": 1148503,
+              "isPublished": true,
+              "isDeleted": false
+            },
+            {
+              "id": 35167,
+              "fileName": "concept_plan_az250036",
+              "mediaFileName": "concept_plan_AZ250036.pdf",
+              "contentType": "application/pdf",
+              "fileSize": 1378652,
+              "isPublished": true,
+              "isDeleted": false
+            },
+            {
+              "id": 36532,
+              "fileName": "sign_affidavit_az250036_070726",
+              "mediaFileName": "sign_affidavit_az250036_070726.pdf",
+              "contentType": "application/pdf",
+              "fileSize": 1086369,
+              "isPublished": true,
+              "isDeleted": false
+            },
+            {
+              "id": 36593,
+              "fileName": "legal_ad_az250036",
+              "mediaFileName": "legal_ad_az250036.pdf",
+              "contentType": "application/pdf",
+              "fileSize": 94108,
+              "isPublished": true,
+              "isDeleted": false
+            }
+          ],
+          "childItems": []
+        }
+      ]
+    },
+    {
+      "id": 19250,
+      "agendaObjectItemNumber": "",
+      "agendaObjectItemOutlineNumber": "IX.",
+      "agendaObjectItemName": "Time Set Public Hearing - 6:00 p.m.",
+      "sortOrder": 48,
+      "parentId": -1,
+      "isSection": 1,
+      "fiscalImpactSummary": null,
+      "agendaObjectItemOutlineNumberFull": null,
+      "level": 0,
+      "attachmentsList": [],
+      "childItems": [
+        {
+          "id": 19251,
+          "agendaObjectItemNumber": "2026-579",
+          "agendaObjectItemOutlineNumber": "1",
+          "agendaObjectItemName": "Public Hearing regarding proposed Fiscal Year 2026 Millage Rates - Chief Financial Officer, Department of Finance",
+          "sortOrder": 49,
+          "parentId": 19250,
+          "isSection": 0,
+          "fiscalImpactSummary": null,
+          "agendaObjectItemOutlineNumberFull": null,
+          "level": 0,
+          "attachmentsList": [
+            {
+              "id": 36693,
+              "fileName": "2026 Millage Rates Resolution_Final",
+              "mediaFileName": "2026 Millage Rates Resolution_Final.pdf",
+              "contentType": "application/pdf",
+              "fileSize": 147636,
+              "isPublished": true,
+              "isDeleted": false
+            },
+            {
+              "id": 36694,
+              "fileName": "2026 Rollback Millage Rates Agenda Request",
+              "mediaFileName": "2026 Rollback Millage Rates Agenda Request.docx",
+              "contentType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+              "fileSize": 38912,
+              "isPublished": true,
+              "isDeleted": false
+            },
+            {
+              "id": 36721,
+              "fileName": "080626_2026 Millage Rates _Presentation",
+              "mediaFileName": "080626_2026 Millage Rates _Presentation.pdf",
+              "contentType": "application/pdf",
+              "fileSize": 3045094,
+              "isPublished": true,
+              "isDeleted": false
+            }
+          ],
+          "childItems": []
+        }
+      ]
+    },
+    {
+      "id": 17971,
+      "agendaObjectItemNumber": "",
+      "agendaObjectItemOutlineNumber": "X.",
+      "agendaObjectItemName": "Public Comments",
+      "sortOrder": 50,
+      "parentId": -1,
+      "isSection": 1,
+      "fiscalImpactSummary": null,
+      "agendaObjectItemOutlineNumberFull": null,
+      "level": 0,
+      "attachmentsList": [],
+      "childItems": []
+    },
+    {
+      "id": 17962,
+      "agendaObjectItemNumber": "",
+      "agendaObjectItemOutlineNumber": "XI.",
+      "agendaObjectItemName": "Old Business",
+      "sortOrder": 51,
+      "parentId": -1,
+      "isSection": 1,
+      "fiscalImpactSummary": null,
+      "agendaObjectItemOutlineNumberFull": null,
+      "level": 0,
+      "attachmentsList": [],
+      "childItems": [
+        {
+          "id": 19268,
+          "agendaObjectItemNumber": "2026-588",
+          "agendaObjectItemOutlineNumber": "1",
+          "agendaObjectItemName": "SVS Plaza LLC - CP260015 - to operate an open storage yard with an overall site including a 28,540 sq. ft. retail/restaurant in an existing building with 119 parking spaces on 4.45 acres zoned Commercial Business District (CBD) with the following variance to: 1. Reduce the zoning buffer adjacent to the existing gravel, access easement, concrete, detention pond and container only from 40 ft. to 0 ft. (UDC Table 12.2); 2. Reduce the rear setback on the northern property boundary adjacent to the existing structure only from 25 ft. to 0 ft. (UDC Table 12.2); 3. Reduce the landscape strips along the western property boundary adjacent to the existing gravel, access easements, concrete, detention pond and container only, along the northern property boundary adjacent to the existing house only and along the eastern and northern property boundaries adjacent to the existing sewer easement only from 10 ft. to 0 ft. (UDC 12-10.15) - Parcels 106-202, 106-070 - District 3 - Director, Department of Planning and Community Development<br><span style=\"font-family: Arial; font-size: 12px;\"><strong>(Postponed from the July 9, 2026 Agenda)</strong></span>",
+          "sortOrder": 52,
+          "parentId": 17962,
+          "isSection": 0,
+          "fiscalImpactSummary": null,
+          "agendaObjectItemOutlineNumberFull": null,
+          "level": 0,
+          "attachmentsList": [
+            {
+              "id": 35440,
+              "fileName": "application_cp260015_rev_041726_redacted",
+              "mediaFileName": "application_cp260015_rev_041726_redacted.pdf",
+              "contentType": "application/pdf",
+              "fileSize": 2810137,
+              "isPublished": true,
+              "isDeleted": false
+            },
+            {
+              "id": 35442,
+              "fileName": "minutes_cp260015",
+              "mediaFileName": "minutes_cp260015.pdf",
+              "contentType": "application/pdf",
+              "fileSize": 126299,
+              "isPublished": true,
+              "isDeleted": false
+            },
+            {
+              "id": 35443,
+              "fileName": "ph_transcription_cp260015",
+              "mediaFileName": "ph_transcription_cp260015.pdf",
+              "contentType": "application/pdf",
+              "fileSize": 146073,
+              "isPublished": true,
+              "isDeleted": false
+            },
+            {
+              "id": 35444,
+              "fileName": "pc_rec_cp260015",
+              "mediaFileName": "pc_rec_cp260015_signed.pdf",
+              "contentType": "application/pdf",
+              "fileSize": 956276,
+              "isPublished": true,
+              "isDeleted": false
+            },
+            {
+              "id": 35445,
+              "fileName": "staff_report_cp260015",
+              "mediaFileName": "staff_report_cp260015.pdf",
+              "contentType": "application/pdf",
+              "fileSize": 435544,
+              "isPublished": true,
+              "isDeleted": false
+            },
+            {
+              "id": 35446,
+              "fileName": "concept_plan_cp260015_rev_041726",
+              "mediaFileName": "concept_plan_cp260015_rev_041726.pdf",
+              "contentType": "application/pdf",
+              "fileSize": 2618411,
+              "isPublished": true,
+              "isDeleted": false
+            },
+            {
+              "id": 35447,
+              "fileName": "location_map_cp260015",
+              "mediaFileName": "location_map_cp260015.pdf",
+              "contentType": "application/pdf",
+              "fileSize": 1232394,
+              "isPublished": true,
+              "isDeleted": false
+            }
+          ],
+          "childItems": []
+        }
+      ]
+    },
+    {
+      "id": 17972,
+      "agendaObjectItemNumber": "",
+      "agendaObjectItemOutlineNumber": "XII.",
+      "agendaObjectItemName": "New Business",
+      "sortOrder": 53,
+      "parentId": -1,
+      "isSection": 1,
+      "fiscalImpactSummary": null,
+      "agendaObjectItemOutlineNumberFull": null,
+      "level": 0,
+      "attachmentsList": [],
+      "childItems": [
+        {
+          "id": 19167,
+          "agendaObjectItemNumber": "2026-522",
+          "agendaObjectItemOutlineNumber": "1",
+          "agendaObjectItemName": "Red Oak Sanitation, LLC - CP250035 - to operate an open storage yard with 57 parking spaces with an overall site including a contractor's establishment and minor automobile service establishment in existing buildings totaling 26,082 sq. ft. with 150 parking spaces on 15.98 acres zoned Restricted Industrial District (M1) with the following variance to: 1. Reduce the zoning buffer from 40 ft. to 0 ft. as shown on the site plan (UDC Table 14.2); 2. Reduce the landscape strip along the rear lot or lease line from 6 ft. to 0 ft. as shown on the site plan (UDC 14-4.13); 3. Reduce the landscape strip abutting Canton Highway adjacent to the existing detention pond and utilities only from 25 ft. to 0 ft. as shown on the site plan (UDC 21-11.5(H)(3)) - Parcel 009-075 - District 1 - Director, Department of Planning and Community Development<br><strong data-pasted=\"true\"><span style=\"font-size: 12px;\">(Postponed from the June 18, 2026 Agenda)</span></strong>",
+          "sortOrder": 54,
+          "parentId": 17972,
+          "isSection": 0,
+          "fiscalImpactSummary": null,
+          "agendaObjectItemOutlineNumberFull": null,
+          "level": 0,
+          "attachmentsList": [
+            {
+              "id": 35137,
+              "fileName": "application_cp250035_redacted",
+              "mediaFileName": "application_cp250035_redacted.pdf",
+              "contentType": "application/pdf",
+              "fileSize": 2823608,
+              "isPublished": true,
+              "isDeleted": false
+            },
+            {
+              "id": 35138,
+              "fileName": "minutes_cp250035",
+              "mediaFileName": "minutes_cp250035.pdf",
+              "contentType": "application/pdf",
+              "fileSize": 212669,
+              "isPublished": true,
+              "isDeleted": false
+            },
+            {
+              "id": 35139,
+              "fileName": "ph_transcription_cp250035",
+              "mediaFileName": "ph_transcription_cp250035.pdf",
+              "contentType": "application/pdf",
+              "fileSize": 114216,
+              "isPublished": true,
+              "isDeleted": false
+            },
+            {
+              "id": 35140,
+              "fileName": "pc_rec_cp250035",
+              "mediaFileName": "pc_rec_cp250035_signed.pdf",
+              "contentType": "application/pdf",
+              "fileSize": 315712,
+              "isPublished": true,
+              "isDeleted": false
+            },
+            {
+              "id": 35141,
+              "fileName": "staff_report_cp250035",
+              "mediaFileName": "staff_report_cp250035.pdf",
+              "contentType": "application/pdf",
+              "fileSize": 253926,
+              "isPublished": true,
+              "isDeleted": false
+            },
+            {
+              "id": 35142,
+              "fileName": "concept_plan_cp250035_rev_022026",
+              "mediaFileName": "concept_plan_cp250035_rev_022026.pdf",
+              "contentType": "application/pdf",
+              "fileSize": 1376670,
+              "isPublished": true,
+              "isDeleted": false
+            },
+            {
+              "id": 35143,
+              "fileName": "location_map_cp250035",
+              "mediaFileName": "location_map_cp250035.pdf",
+              "contentType": "application/pdf",
+              "fileSize": 1097199,
+              "isPublished": true,
+              "isDeleted": false
+            }
+          ],
+          "childItems": []
+        },
+        {
+          "id": 19184,
+          "agendaObjectItemNumber": "2026-537",
+          "agendaObjectItemOutlineNumber": "2",
+          "agendaObjectItemName": "<p style=\"margin-left:0in;\" data-pasted=\"true\">Board consideration of a proposal to make voting precinct boundary modifications to Big Creek (01), Johns Creek (35) and Daves Creek (38) and to eliminate the South Forsyth (21) precinct pursuant to procedure in O.C.G.A. § 21-2-262(d) - Director, Department of Voter Registrations & Elections</p>",
+          "sortOrder": 55,
+          "parentId": 17972,
+          "isSection": 0,
+          "fiscalImpactSummary": null,
+          "agendaObjectItemOutlineNumberFull": null,
+          "level": 0,
+          "attachmentsList": [
+            {
+              "id": 35226,
+              "fileName": "Precinct and Polling Place Changes PPT for BOC 06-18-2026 FINAL",
+              "mediaFileName": "Precinct and Polling Place Changes PPT for BOC 06-18-2026 FINAL.pptx",
+              "contentType": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+              "fileSize": 20082405,
+              "isPublished": true,
+              "isDeleted": false
+            }
+          ],
+          "childItems": []
+        },
+        {
+          "id": 20316,
+          "agendaObjectItemNumber": "2026-619",
+          "agendaObjectItemOutlineNumber": "3",
+          "agendaObjectItemName": "Board consideration and adoption of the 2026 Millage Rates Resolution - Maintenance & Operations (Net M&O Millage), Fire, and Bonds - Chief Financial Officer, Department of Finance<br><em><strong>(Note: the 2026 Millage Rates will be considered for Adoption at 6:30 p.m.)</strong></em>",
+          "sortOrder": 56,
+          "parentId": 17972,
+          "isSection": 0,
+          "fiscalImpactSummary": null,
+          "agendaObjectItemOutlineNumberFull": null,
+          "level": 0,
+          "attachmentsList": [
+            {
+              "id": 36691,
+              "fileName": "2026 Rollback Millage Rates Agenda Request",
+              "mediaFileName": "2026 Rollback Millage Rates Agenda Request.docx",
+              "contentType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+              "fileSize": 38912,
+              "isPublished": true,
+              "isDeleted": false
+            },
+            {
+              "id": 36718,
+              "fileName": "080626_2026 Millage Rates _Presentation Adoption",
+              "mediaFileName": "080626_2026 Millage Rates _Presentation Adoption.pdf",
+              "contentType": "application/pdf",
+              "fileSize": 2783541,
+              "isPublished": true,
+              "isDeleted": false
+            },
+            {
+              "id": 36775,
+              "fileName": "2026 Millage Rates Resolution_Final",
+              "mediaFileName": "2026 Millage Rates Resolution_Final.pdf",
+              "contentType": "application/pdf",
+              "fileSize": 147993,
+              "isPublished": true,
+              "isDeleted": false
+            }
+          ],
+          "childItems": []
+        }
+      ]
+    },
+    {
+      "id": 17963,
+      "agendaObjectItemNumber": "",
+      "agendaObjectItemOutlineNumber": "XIII.",
+      "agendaObjectItemName": "Recess Regular Meeting",
+      "sortOrder": 57,
+      "parentId": -1,
+      "isSection": 1,
+      "fiscalImpactSummary": null,
+      "agendaObjectItemOutlineNumberFull": null,
+      "level": 0,
+      "attachmentsList": [],
+      "childItems": []
+    },
+    {
+      "id": 17973,
+      "agendaObjectItemNumber": "",
+      "agendaObjectItemOutlineNumber": "XIV.",
+      "agendaObjectItemName": "Executive Session (if needed)",
+      "sortOrder": 58,
+      "parentId": -1,
+      "isSection": 1,
+      "fiscalImpactSummary": null,
+      "agendaObjectItemOutlineNumberFull": null,
+      "level": 0,
+      "attachmentsList": [],
+      "childItems": []
+    },
+    {
+      "id": 17974,
+      "agendaObjectItemNumber": "",
+      "agendaObjectItemOutlineNumber": "XV.",
+      "agendaObjectItemName": "Adjournment",
+      "sortOrder": 59,
+      "parentId": -1,
+      "isSection": 1,
+      "fiscalImpactSummary": null,
+      "agendaObjectItemOutlineNumberFull": null,
+      "level": 0,
+      "attachmentsList": [],
+      "childItems": []
+    }
+  ],
+  "publishedFiles": [
+    {
+      "id": 0,
+      "fileId": 5247,
+      "type": "Agenda",
+      "name": "Agenda 8.6.2026",
+      "url": "https://forsythcoga.api.civicclerk.com/v1/Meetings/GetMeetingFile(fileId=5247,plainText=false)"
+    },
+    {
+      "id": 0,
+      "fileId": 5256,
+      "type": "Agenda Packet",
+      "name": "Agenda Packet 8.6.2026 FINAL",
+      "url": "https://forsythcoga.api.civicclerk.com/v1/Meetings/GetMeetingFile(fileId=5256,plainText=false)"
+    }
+  ]
+}

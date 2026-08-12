@@ -1,0 +1,115 @@
+name: Update and publish
+
+# Once a day, plus a manual trigger. The project's politeness rule is one poll
+# per day maximum -- this schedule is what enforces it, so do not add more
+# cron entries without also revisiting config/sources.toml.
+on:
+  schedule:
+    - cron: "20 11 * * *"   # 11:20 UTC ≈ 07:20 America/New_York (06:20 during EST)
+  workflow_dispatch:
+    inputs:
+      skip_publish:
+        description: "Fetch and build, but do not deploy"
+        type: boolean
+        default: false
+
+permissions:
+  contents: write      # commit the refreshed cache
+  pages: write
+  id-token: write
+
+# Never let two runs fetch at once; that would break the one-poll-per-day rule.
+concurrency:
+  group: update-and-publish
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    outputs:
+      changed: ${{ steps.changes.outputs.changed }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Install uv
+        uses: astral-sh/setup-uv@v5
+        with:
+          enable-cache: true
+
+      - name: Sync dependencies
+        run: uv sync --frozen
+
+      - name: Restore cached agenda PDFs
+        # These are not in git (see .gitignore). Without them every run would
+        # re-download roughly 80 PDFs from the county instead of sending
+        # conditional requests and getting 304s back.
+        uses: actions/cache@v4
+        with:
+          path: data/pdf-cache
+          key: pdf-cache-${{ github.run_id }}
+          restore-keys: |
+            pdf-cache-
+
+      - name: Run tests
+        # The parsing layer is where this rots silently when a vendor changes
+        # their markup. A failing parser must stop the publish, not ship empty
+        # agendas.
+        run: uv run pytest -q
+
+      - name: Fetch sources
+        run: uv run foco fetch
+
+      - name: Report changes
+        id: changes
+        run: |
+          uv run foco report --latest-only | tee change-report.txt
+          if [ -s change-report.txt ] && ! grep -q "No changes recorded" change-report.txt; then
+            echo "changed=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+          fi
+          {
+            echo "### Agenda changes"
+            echo '```'
+            cat change-report.txt
+            echo '```'
+          } >> "$GITHUB_STEP_SUMMARY"
+
+      - name: Build site
+        # The repo is the owner-root site, so the fallback already resolves to
+        # https://forsyth-ga-public-meetings.github.io. The SITE_BASE variable
+        # exists so a custom domain can be adopted later without touching this
+        # file -- set it and the next run picks it up.
+        run: |
+          uv run foco build \
+            --out site \
+            --site-base "${{ vars.SITE_BASE || format('https://{0}.github.io', github.repository_owner) }}"
+
+      - name: Commit refreshed cache
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/
+          if git diff --staged --quiet; then
+            echo "cache unchanged"
+          else
+            git commit -m "data: refresh meeting cache $(date -u +%Y-%m-%d)"
+            git push
+          fi
+
+      - name: Upload Pages artifact
+        if: ${{ !inputs.skip_publish }}
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: site
+
+  deploy:
+    needs: update
+    if: ${{ !inputs.skip_publish }}
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4
