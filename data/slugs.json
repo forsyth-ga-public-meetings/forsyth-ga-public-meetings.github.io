@@ -45,6 +45,7 @@
   "county:17570:2026-10-01": "2026-10-01-board-of-commissioners-regular-meeting-public-hearings",
   "county:17571:2026-10-06": "2026-10-06-board-of-commissioners-work-session-meeting",
   "county:17572:2026-10-15": "2026-10-15-board-of-commissioners-regular-meeting-public-hearings",
+  "county:17573:2026-10-20": "2026-10-20-board-of-commissioners-work-session-meeting",
   "county:17611:2026-07-15": "2026-07-15-parks-recreation-board-meeting",
   "county:17645:2026-07-14": "2026-07-14-water-and-sewerage-authority-special-called-meeting",
   "county:17730:2026-07-21": "2026-07-21-planning-commission-work-session",
@@ -82,5 +83,6 @@
   "dt:2026-08-18:forsyth-county-board-of-education-regular-meeting": "2026-08-18-forsyth-county-board-of-education-regular-meeting",
   "dt:2026-09-08:forsyth-county-board-of-education-work-session": "2026-09-08-forsyth-county-board-of-education-work-session",
   "dt:2026-09-15:forsyth-county-board-of-education-regular-meeting": "2026-09-15-forsyth-county-board-of-education-regular-meeting",
-  "dt:2026-10-13:forsyth-county-board-of-education-work-session": "2026-10-13-forsyth-county-board-of-education-work-session"
+  "dt:2026-10-13:forsyth-county-board-of-education-work-session": "2026-10-13-forsyth-county-board-of-education-work-session",
+  "dt:2026-10-20:forsyth-county-board-of-education-regular-meeting": "2026-10-20-forsyth-county-board-of-education-regular-meeting"
 }
