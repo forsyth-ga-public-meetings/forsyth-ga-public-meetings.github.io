@@ -6959,7 +6959,7 @@
     "agenda_published": true,
     "agenda_status_note": "The items below were read automatically from the county's agenda PDF, which has no machine-readable structure. Numbering follows the PDF, but nesting and any item the extractor could not read are not shown. The PDF linked below is the complete document.",
     "agenda_derived_from_pdf": true,
-    "fetched_at": "2026-09-02T11:11:08-04:00",
+    "fetched_at": "2026-09-03T11:05:48-04:00",
     "content_hash": "4cf5965f87e66f47678bd2d96f65cbc0269805dcd7b659b9ae72ef81c537c50e",
     "documents": [
       {
@@ -7107,7 +7107,7 @@
     "agenda_published": true,
     "agenda_status_note": "The items below were read automatically from the county's agenda PDF, which has no machine-readable structure. Numbering follows the PDF, but nesting and any item the extractor could not read are not shown. The PDF linked below is the complete document.",
     "agenda_derived_from_pdf": true,
-    "fetched_at": "2026-09-02T11:11:08-04:00",
+    "fetched_at": "2026-09-03T11:05:48-04:00",
     "content_hash": "6f9377780170de9f0e98972a485b3a4f1ae921471ad8126ae5a18d1f787a83cb",
     "documents": [
       {
@@ -7578,7 +7578,7 @@
     "agenda_published": true,
     "agenda_status_note": "The items below were read automatically from the county's agenda PDF, which has no machine-readable structure. Numbering follows the PDF, but nesting and any item the extractor could not read are not shown. The PDF linked below is the complete document.",
     "agenda_derived_from_pdf": true,
-    "fetched_at": "2026-09-02T11:11:08-04:00",
+    "fetched_at": "2026-09-03T11:05:48-04:00",
     "content_hash": "15c44c77b86f3beb294dfb1a28d7b5b4f2c2781352265da978c276620a187ff1",
     "documents": [
       {
@@ -7675,7 +7675,7 @@
     "agenda_published": true,
     "agenda_status_note": "The items below were read automatically from the county's agenda PDF, which has no machine-readable structure. Numbering follows the PDF, but nesting and any item the extractor could not read are not shown. The PDF linked below is the complete document.",
     "agenda_derived_from_pdf": true,
-    "fetched_at": "2026-09-02T11:11:08-04:00",
+    "fetched_at": "2026-09-03T11:05:48-04:00",
     "content_hash": "59bc69f9ca21cefaf81117b343cef76885f82f2334386551669520798d9d73a1",
     "documents": [
       {
@@ -7874,7 +7874,7 @@
     "agenda_published": true,
     "agenda_status_note": "The items below were read automatically from the county's agenda PDF, which has no machine-readable structure. Numbering follows the PDF, but nesting and any item the extractor could not read are not shown. The PDF linked below is the complete document.",
     "agenda_derived_from_pdf": true,
-    "fetched_at": "2026-09-02T11:11:08-04:00",
+    "fetched_at": "2026-09-03T11:05:48-04:00",
     "content_hash": "8a29d0ba53f320f56f93f1be83ef31160a5e95cd8357f3fa4537e23a89fa82ae",
     "documents": [
       {
@@ -8072,7 +8072,7 @@
     "agenda_published": true,
     "agenda_status_note": "The items below were read automatically from the county's agenda PDF, which has no machine-readable structure. Numbering follows the PDF, but nesting and any item the extractor could not read are not shown. The PDF linked below is the complete document.",
     "agenda_derived_from_pdf": true,
-    "fetched_at": "2026-09-02T11:11:08-04:00",
+    "fetched_at": "2026-09-03T11:05:48-04:00",
     "content_hash": "ab5e796ad15ed55590ad3470c9dd8ff8d841bf86f3a3ad5bfb25c1d339377bcd",
     "documents": [
       {
@@ -8271,7 +8271,7 @@
     "agenda_published": true,
     "agenda_status_note": null,
     "agenda_derived_from_pdf": false,
-    "fetched_at": "2026-09-02T11:11:08-04:00",
+    "fetched_at": "2026-09-03T11:05:48-04:00",
     "content_hash": "00f219057967cf3e4e30faeebe217dac965b2023629dda87e925d6f2a0679ac3",
     "documents": [
       {
@@ -10468,7 +10468,7 @@
     "agenda_published": true,
     "agenda_status_note": null,
     "agenda_derived_from_pdf": false,
-    "fetched_at": "2026-09-02T11:11:08-04:00",
+    "fetched_at": "2026-09-03T11:05:48-04:00",
     "content_hash": "8dd9edfe47a09c6cd5ac2ecf2c1df70a8b45c90ba9481dd5c17b4b152546978f",
     "documents": [
       {
@@ -11794,7 +11794,7 @@
     "agenda_published": true,
     "agenda_status_note": "The items below were read automatically from the county's agenda PDF, which has no machine-readable structure. Numbering follows the PDF, but nesting and any item the extractor could not read are not shown. The PDF linked below is the complete document.",
     "agenda_derived_from_pdf": true,
-    "fetched_at": "2026-09-02T11:11:08-04:00",
+    "fetched_at": "2026-09-03T11:05:48-04:00",
     "content_hash": "131189bb6b65fc427e82238fc9d2dafbeeeea593d7ea0004dedc3493873bc90d",
     "documents": [
       {
@@ -11950,7 +11950,7 @@
     "agenda_published": true,
     "agenda_status_note": "The items below were read automatically from the county's agenda PDF, which has no machine-readable structure. Numbering follows the PDF, but nesting and any item the extractor could not read are not shown. The PDF linked below is the complete document.",
     "agenda_derived_from_pdf": true,
-    "fetched_at": "2026-09-02T11:11:08-04:00",
+    "fetched_at": "2026-09-03T11:05:48-04:00",
     "content_hash": "8a95fb83b35073e760a8c25b2e6b4b3dc767dcff5ad366315c9798f62421101a",
     "documents": [
       {
@@ -12149,7 +12149,7 @@
     "agenda_published": true,
     "agenda_status_note": "The items below were read automatically from the county's agenda PDF, which has no machine-readable structure. Numbering follows the PDF, but nesting and any item the extractor could not read are not shown. The PDF linked below is the complete document.",
     "agenda_derived_from_pdf": true,
-    "fetched_at": "2026-09-02T11:11:08-04:00",
+    "fetched_at": "2026-09-03T11:05:48-04:00",
     "content_hash": "2dcbf36a998b18412b41abbe5a68035de4a543a0c2bac4839da5ce59ece53be3",
     "documents": [
       {
@@ -12262,7 +12262,7 @@
     "agenda_published": false,
     "agenda_status_note": null,
     "agenda_derived_from_pdf": false,
-    "fetched_at": "2026-09-02T11:11:08-04:00",
+    "fetched_at": "2026-09-03T11:05:48-04:00",
     "content_hash": "a3344f50fdc53b6d30b4edaa05a4672fb0eb4843abc38452735d17245f42d045",
     "documents": [
       {
@@ -12297,7 +12297,7 @@
     "agenda_published": true,
     "agenda_status_note": "The items below were read automatically from the county's agenda PDF, which has no machine-readable structure. Numbering follows the PDF, but nesting and any item the extractor could not read are not shown. The PDF linked below is the complete document.",
     "agenda_derived_from_pdf": true,
-    "fetched_at": "2026-09-02T11:11:08-04:00",
+    "fetched_at": "2026-09-03T11:05:48-04:00",
     "content_hash": "328cf6be718a907cecbd0c8aae03cfc3448ae6cf045da5139bcd8a331a25d0d6",
     "documents": [
       {
@@ -12852,7 +12852,7 @@
     "agenda_published": true,
     "agenda_status_note": "The county published this agenda only as a PDF, and no numbered items could be read from it. Use the PDF link below.",
     "agenda_derived_from_pdf": false,
-    "fetched_at": "2026-09-02T11:11:08-04:00",
+    "fetched_at": "2026-09-03T11:05:48-04:00",
     "content_hash": "d02e98f6068f9f10c3e72fd54d34d9b30abc58d156e2e50cf3ec866c2a25edf3",
     "documents": [
       {
@@ -12896,7 +12896,7 @@
     "agenda_published": false,
     "agenda_status_note": "*Public Portion begins at 6 PM. Agendas for Board of Education meetings are published on the district's Simbli portal, which is not mirrored here. Use the link below for the agenda.",
     "agenda_derived_from_pdf": false,
-    "fetched_at": "2026-09-02T11:11:08-04:00",
+    "fetched_at": "2026-09-03T11:05:48-04:00",
     "content_hash": "98a47feef401dc54588708b149a9e64a5fe4a932718c6628461d88643b02d4b7",
     "documents": [
       {
@@ -12931,7 +12931,7 @@
     "agenda_published": true,
     "agenda_status_note": "The county published this agenda only as a PDF, and no numbered items could be read from it. Use the PDF link below.",
     "agenda_derived_from_pdf": false,
-    "fetched_at": "2026-09-02T11:11:08-04:00",
+    "fetched_at": "2026-09-03T11:05:48-04:00",
     "content_hash": "c6a98d6389d84be87031885333e489a30b0c9d332923cafecebd19656ef6d567",
     "documents": [
       {
@@ -12994,7 +12994,7 @@
     "agenda_published": true,
     "agenda_status_note": null,
     "agenda_derived_from_pdf": false,
-    "fetched_at": "2026-09-02T11:11:08-04:00",
+    "fetched_at": "2026-09-03T11:05:48-04:00",
     "content_hash": "26e12ba26c9445ce5bd4ca68ae605c94c7afca19d1c291c820ca740ba9a3c5c6",
     "documents": [
       {
@@ -14822,7 +14822,7 @@
     "agenda_published": true,
     "agenda_status_note": "The items below were read automatically from the county's agenda PDF, which has no machine-readable structure. Numbering follows the PDF, but nesting and any item the extractor could not read are not shown. The PDF linked below is the complete document.",
     "agenda_derived_from_pdf": true,
-    "fetched_at": "2026-09-02T11:11:08-04:00",
+    "fetched_at": "2026-09-03T11:05:48-04:00",
     "content_hash": "e29026522c10475696f4664a070761ae6940bc018658d4855056f86002fa3353",
     "documents": [
       {
@@ -15021,7 +15021,7 @@
     "agenda_published": true,
     "agenda_status_note": null,
     "agenda_derived_from_pdf": false,
-    "fetched_at": "2026-09-02T11:11:08-04:00",
+    "fetched_at": "2026-09-03T11:05:48-04:00",
     "content_hash": "3bea0356c2b69caae5df21428256e28624730799e745d1070ed8965f0ed2d55f",
     "documents": [
       {
@@ -16191,7 +16191,7 @@
     "agenda_published": true,
     "agenda_status_note": "The items below were read automatically from the county's agenda PDF, which has no machine-readable structure. Numbering follows the PDF, but nesting and any item the extractor could not read are not shown. The PDF linked below is the complete document.",
     "agenda_derived_from_pdf": true,
-    "fetched_at": "2026-09-02T11:11:08-04:00",
+    "fetched_at": "2026-09-03T11:05:48-04:00",
     "content_hash": "f38227030e26c964394a40c0991dbe75b3d541f738a8d51d51968f7481082182",
     "documents": [
       {
@@ -16985,7 +16985,7 @@
     "agenda_published": true,
     "agenda_status_note": "The items below were read automatically from the county's agenda PDF, which has no machine-readable structure. Numbering follows the PDF, but nesting and any item the extractor could not read are not shown. The PDF linked below is the complete document.",
     "agenda_derived_from_pdf": true,
-    "fetched_at": "2026-09-02T11:11:08-04:00",
+    "fetched_at": "2026-09-03T11:05:48-04:00",
     "content_hash": "c4d1f4f845fd2da9318293624bbb9ef636fcad5fd9f464882324fb3e77a2f535",
     "documents": [
       {
@@ -17336,7 +17336,7 @@
     "agenda_published": true,
     "agenda_status_note": "The items below were read automatically from the county's agenda PDF, which has no machine-readable structure. Numbering follows the PDF, but nesting and any item the extractor could not read are not shown. The PDF linked below is the complete document.",
     "agenda_derived_from_pdf": true,
-    "fetched_at": "2026-09-02T11:11:08-04:00",
+    "fetched_at": "2026-09-03T11:05:48-04:00",
     "content_hash": "3b1fa497cd392f2d57455315306000f1dd2d2f309221d59e08edd68d0b635230",
     "documents": [
       {
@@ -17745,7 +17745,7 @@
     "agenda_published": true,
     "agenda_status_note": "The county published this agenda only as a PDF, and no numbered items could be read from it. Use the PDF link below.",
     "agenda_derived_from_pdf": false,
-    "fetched_at": "2026-09-02T11:11:08-04:00",
+    "fetched_at": "2026-09-03T11:05:48-04:00",
     "content_hash": "6f69204851e43a6784f8b919f27a288f2ce2593b2fdfadb8504fd8dcdf45f8dd",
     "documents": [
       {
@@ -17798,7 +17798,7 @@
     "agenda_published": true,
     "agenda_status_note": "The items below were read automatically from the county's agenda PDF, which has no machine-readable structure. Numbering follows the PDF, but nesting and any item the extractor could not read are not shown. The PDF linked below is the complete document.",
     "agenda_derived_from_pdf": true,
-    "fetched_at": "2026-09-02T11:11:08-04:00",
+    "fetched_at": "2026-09-03T11:05:48-04:00",
     "content_hash": "c9822748149e0cc408c371838d200bf6fe3257b01b2df8b025f4bb100daeea5b",
     "documents": [
       {
@@ -17988,7 +17988,7 @@
     "agenda_published": true,
     "agenda_status_note": "The items below were read automatically from the county's agenda PDF, which has no machine-readable structure. Numbering follows the PDF, but nesting and any item the extractor could not read are not shown. The PDF linked below is the complete document.",
     "agenda_derived_from_pdf": true,
-    "fetched_at": "2026-09-02T11:11:08-04:00",
+    "fetched_at": "2026-09-03T11:05:48-04:00",
     "content_hash": "c3029ab16b396b2029ddcb1435d708c9055fc8069820ad21dd3df27f2874229d",
     "documents": [
       {
@@ -18179,7 +18179,7 @@
     "agenda_published": true,
     "agenda_status_note": null,
     "agenda_derived_from_pdf": false,
-    "fetched_at": "2026-09-02T11:11:08-04:00",
+    "fetched_at": "2026-09-03T11:05:48-04:00",
     "content_hash": "2fe3baa390e3ab67c040612296657c28de84faf000866bc598135ff7d62ab27f",
     "documents": [
       {
@@ -20423,7 +20423,7 @@
     "agenda_published": true,
     "agenda_status_note": null,
     "agenda_derived_from_pdf": false,
-    "fetched_at": "2026-09-02T11:11:08-04:00",
+    "fetched_at": "2026-09-03T11:05:48-04:00",
     "content_hash": "87a4761df97f4185a50b5352e3e72da3a0f544d3bab3d55537c8271dc0b04b3e",
     "documents": [
       {
@@ -21274,7 +21274,7 @@
     "agenda_published": false,
     "agenda_status_note": "Agendas for Board of Education meetings are published on the district's Simbli portal, which is not mirrored here. Use the link below for the agenda.",
     "agenda_derived_from_pdf": false,
-    "fetched_at": "2026-09-02T11:11:08-04:00",
+    "fetched_at": "2026-09-03T11:05:48-04:00",
     "content_hash": "a7f08a184c6012be5ad6dd7695f85ffcbf2d414f53be1734ce266a622b796cec",
     "documents": [
       {
@@ -21309,7 +21309,7 @@
     "agenda_published": true,
     "agenda_status_note": "The items below were read automatically from the county's agenda PDF, which has no machine-readable structure. Numbering follows the PDF, but nesting and any item the extractor could not read are not shown. The PDF linked below is the complete document.",
     "agenda_derived_from_pdf": true,
-    "fetched_at": "2026-09-02T11:11:08-04:00",
+    "fetched_at": "2026-09-03T11:05:48-04:00",
     "content_hash": "1fe518f797ac9335f267954830eb8cb861bbee9410d66a289ac5b62eadc793fb",
     "documents": [
       {
@@ -21439,7 +21439,7 @@
     "agenda_published": true,
     "agenda_status_note": "The items below were read automatically from the county's agenda PDF, which has no machine-readable structure. Numbering follows the PDF, but nesting and any item the extractor could not read are not shown. The PDF linked below is the complete document.",
     "agenda_derived_from_pdf": true,
-    "fetched_at": "2026-09-02T11:11:08-04:00",
+    "fetched_at": "2026-09-03T11:05:48-04:00",
     "content_hash": "76627deb5a91950494cd13d8f0d72f3cf9329116851771470a6095bc0494bf32",
     "documents": [
       {
@@ -21705,7 +21705,7 @@
     "agenda_published": true,
     "agenda_status_note": "The items below were read automatically from the county's agenda PDF, which has no machine-readable structure. Numbering follows the PDF, but nesting and any item the extractor could not read are not shown. The PDF linked below is the complete document.",
     "agenda_derived_from_pdf": true,
-    "fetched_at": "2026-09-02T11:11:08-04:00",
+    "fetched_at": "2026-09-03T11:05:48-04:00",
     "content_hash": "ca024e4d6d48bb4515051bd110182c9e824d7ce4f4d5c19197d2bb41b20ce7bb",
     "documents": [
       {
@@ -21852,7 +21852,7 @@
     "agenda_published": true,
     "agenda_status_note": "The items below were read automatically from the county's agenda PDF, which has no machine-readable structure. Numbering follows the PDF, but nesting and any item the extractor could not read are not shown. The PDF linked below is the complete document.",
     "agenda_derived_from_pdf": true,
-    "fetched_at": "2026-09-02T11:11:08-04:00",
+    "fetched_at": "2026-09-03T11:05:48-04:00",
     "content_hash": "ac6271476b1711f23ce40f38a6ada6df30d7207c6bf2692d4e32a2eb31fec631",
     "documents": [
       {
@@ -22271,7 +22271,7 @@
     "agenda_published": true,
     "agenda_status_note": "The county published this agenda only as a PDF, and no numbered items could be read from it. Use the PDF link below.",
     "agenda_derived_from_pdf": false,
-    "fetched_at": "2026-09-02T11:11:08-04:00",
+    "fetched_at": "2026-09-03T11:05:48-04:00",
     "content_hash": "903de8edc959811d01de5ba25a393f12dfb2a14241745f52f6b2eb7dc9caebd0",
     "documents": [
       {
@@ -22315,7 +22315,7 @@
     "agenda_published": false,
     "agenda_status_note": "*Public Portion begins at 6 PM. Agendas for Board of Education meetings are published on the district's Simbli portal, which is not mirrored here. Use the link below for the agenda.",
     "agenda_derived_from_pdf": false,
-    "fetched_at": "2026-09-02T11:11:08-04:00",
+    "fetched_at": "2026-09-03T11:05:48-04:00",
     "content_hash": "4ee51d7bc052db2da7c04ec1d6aa683c0416135be1364bf0bbe9c8ed68b8a6df",
     "documents": [
       {
@@ -22350,7 +22350,7 @@
     "agenda_published": true,
     "agenda_status_note": "The county published this agenda only as a PDF, and no numbered items could be read from it. Use the PDF link below.",
     "agenda_derived_from_pdf": false,
-    "fetched_at": "2026-09-02T11:11:08-04:00",
+    "fetched_at": "2026-09-03T11:05:48-04:00",
     "content_hash": "f0990f3d9777b345d8f70d0d90d90b79b19a384ee3f6fabeea5ef204081c3915",
     "documents": [
       {
@@ -22413,7 +22413,7 @@
     "agenda_published": true,
     "agenda_status_note": null,
     "agenda_derived_from_pdf": false,
-    "fetched_at": "2026-09-02T11:11:08-04:00",
+    "fetched_at": "2026-09-03T11:05:48-04:00",
     "content_hash": "f4b08b01e7893af72f272d0a742ccde0d3d8fbc43c9b00e105655cdb67028345",
     "documents": [
       {
@@ -24158,7 +24158,7 @@
     "agenda_published": true,
     "agenda_status_note": "The items below were read automatically from the county's agenda PDF, which has no machine-readable structure. Numbering follows the PDF, but nesting and any item the extractor could not read are not shown. The PDF linked below is the complete document.",
     "agenda_derived_from_pdf": true,
-    "fetched_at": "2026-09-02T11:11:08-04:00",
+    "fetched_at": "2026-09-03T11:05:48-04:00",
     "content_hash": "409d6d7d7f6d3daf90b9a28de9667fd44942907430c32f6d3b8330168dc67108",
     "documents": [
       {
@@ -24399,7 +24399,7 @@
     "agenda_published": true,
     "agenda_status_note": null,
     "agenda_derived_from_pdf": false,
-    "fetched_at": "2026-09-02T11:11:08-04:00",
+    "fetched_at": "2026-09-03T11:05:48-04:00",
     "content_hash": "168c6822e44ca4d2e6e5189dba8cabc61f54c4aeb52a49656e35381193b4764c",
     "documents": [
       {
@@ -25654,7 +25654,7 @@
     "agenda_published": true,
     "agenda_status_note": "The items below were read automatically from the county's agenda PDF, which has no machine-readable structure. Numbering follows the PDF, but nesting and any item the extractor could not read are not shown. The PDF linked below is the complete document.",
     "agenda_derived_from_pdf": true,
-    "fetched_at": "2026-09-02T11:11:08-04:00",
+    "fetched_at": "2026-09-03T11:05:48-04:00",
     "content_hash": "6646c66e7214a94c7f1acbc085e416ca309097054f2a8df9ce9b5a5bfd9e10c7",
     "documents": [
       {
@@ -26847,7 +26847,7 @@
     "agenda_published": true,
     "agenda_status_note": "The items below were read automatically from the county's agenda PDF, which has no machine-readable structure. Numbering follows the PDF, but nesting and any item the extractor could not read are not shown. The PDF linked below is the complete document.",
     "agenda_derived_from_pdf": true,
-    "fetched_at": "2026-09-02T11:11:08-04:00",
+    "fetched_at": "2026-09-03T11:05:48-04:00",
     "content_hash": "681c102ee072726175b7040eca7042311c03e8cd96bd2ed1c65c47bd6fcaaac6",
     "documents": [
       {
@@ -27221,9 +27221,18 @@
     "agenda_published": true,
     "agenda_status_note": "The county published this agenda only as a PDF, and no numbered items could be read from it. Use the PDF link below.",
     "agenda_derived_from_pdf": false,
-    "fetched_at": "2026-09-02T11:11:08-04:00",
-    "content_hash": "098192065ea00231db7b2e5933630ef079f0cf5f1e74f9b0e81014d1e672838b",
+    "fetched_at": "2026-09-03T11:05:48-04:00",
+    "content_hash": "764e1a6fbc396138f0d3f58436e738de196a00c48c2ba035509a94e56ea7c8c9",
     "documents": [
+      {
+        "label": "Summary PDF",
+        "url": "https://www.forsythco.com/app/uploads/2026/08/ZBA_Work_Session_Agenda_Summary_090126.pdf",
+        "kind": "agenda",
+        "source": "county",
+        "machine_readable": true,
+        "content_type": null,
+        "size_bytes": null
+      },
       {
         "label": "Public Notice PDF",
         "url": "https://www.forsythco.com/app/uploads/2026/08/ZBA_Notice_090126_work-session-meeting.pdf",
@@ -27265,9 +27274,18 @@
     "agenda_published": true,
     "agenda_status_note": "The items below were read automatically from the county's agenda PDF, which has no machine-readable structure. Numbering follows the PDF, but nesting and any item the extractor could not read are not shown. The PDF linked below is the complete document.",
     "agenda_derived_from_pdf": true,
-    "fetched_at": "2026-09-02T11:11:08-04:00",
-    "content_hash": "9f5e9ab802c9b511dd948ca55d2296779725a52855c71a94e15071f4f8f11936",
+    "fetched_at": "2026-09-03T11:05:48-04:00",
+    "content_hash": "77f9876f8c5eea1f4a9b9ddea9716949b7ab2b79e38dc780b3f472b088b91fc1",
     "documents": [
+      {
+        "label": "Summary PDF",
+        "url": "https://www.forsythco.com/app/uploads/2026/08/ZBA_Regular_Meeting_Agenda_Summary_090126.pdf",
+        "kind": "agenda",
+        "source": "county",
+        "machine_readable": true,
+        "content_type": null,
+        "size_bytes": null
+      },
       {
         "label": "Public Notice PDF",
         "url": "https://www.forsythco.com/app/uploads/2026/08/ZBA_Notice_090126_regular-meeting.pdf",
@@ -27482,8 +27500,8 @@
     "agenda_published": true,
     "agenda_status_note": null,
     "agenda_derived_from_pdf": false,
-    "fetched_at": "2026-09-02T11:11:08-04:00",
-    "content_hash": "297291245bd679857b43845934511cb71abde527429806ad5c273791a02e55d1",
+    "fetched_at": "2026-09-03T11:05:48-04:00",
+    "content_hash": "779432920b216c2513aa63b33e45cc250d12be794870531defeda0c251d351cb",
     "documents": [
       {
         "label": "Agenda Packet LINK",
@@ -27541,7 +27559,7 @@
       },
       {
         "label": "Agenda Packet 9.3.2026",
-        "url": "https://forsythcoga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=5306,plainText=false)",
+        "url": "https://forsythcoga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=5309,plainText=false)",
         "kind": "packet",
         "source": "civicclerk",
         "machine_readable": true,
@@ -27713,7 +27731,17 @@
             "level": 1,
             "source_item_id": 20479,
             "fiscal_impact": null,
-            "attachments": [],
+            "attachments": [
+              {
+                "label": "Minutes 8.25.2026 Work Session",
+                "url": "https://forsythcoga.api.civicclerk.com/v1/Meetings/GetAttachmentFile(fileId=37265)",
+                "kind": "attachment",
+                "source": "civicclerk",
+                "machine_readable": true,
+                "content_type": "application/pdf",
+                "size_bytes": 266538
+              }
+            ],
             "under_consent": false,
             "consent_reason": null,
             "dollar_amounts": [],
@@ -29424,7 +29452,7 @@
     "agenda_published": true,
     "agenda_status_note": "The items below were read automatically from the county's agenda PDF, which has no machine-readable structure. Numbering follows the PDF, but nesting and any item the extractor could not read are not shown. The PDF linked below is the complete document.",
     "agenda_derived_from_pdf": true,
-    "fetched_at": "2026-09-02T11:11:08-04:00",
+    "fetched_at": "2026-09-03T11:05:48-04:00",
     "content_hash": "3d590152c92c8cfdf523e1ea4c7a11613b2d5b00150f326f5a7ed3de5ca53357",
     "documents": [
       {
@@ -29571,7 +29599,7 @@
     "agenda_published": false,
     "agenda_status_note": null,
     "agenda_derived_from_pdf": false,
-    "fetched_at": "2026-09-02T11:11:08-04:00",
+    "fetched_at": "2026-09-03T11:05:48-04:00",
     "content_hash": "cb1c29c0cac56977de9d286ba828d209741d19e62c944f87772b12caeeaa0334",
     "documents": [
       {
@@ -29606,7 +29634,7 @@
     "agenda_published": false,
     "agenda_status_note": "Agendas for Board of Education meetings are published on the district's Simbli portal, which is not mirrored here. Use the link below for the agenda.",
     "agenda_derived_from_pdf": false,
-    "fetched_at": "2026-09-02T11:11:08-04:00",
+    "fetched_at": "2026-09-03T11:05:48-04:00",
     "content_hash": "7a23aa81b38d23fb8624a1e5fcc85ca528989e3253551989d45fe9c8e5a0d511",
     "documents": [
       {
@@ -29641,7 +29669,7 @@
     "agenda_published": false,
     "agenda_status_note": null,
     "agenda_derived_from_pdf": false,
-    "fetched_at": "2026-09-02T11:11:08-04:00",
+    "fetched_at": "2026-09-03T11:05:48-04:00",
     "content_hash": "b3774e2c0a44a19c942af2ef6853b9995b25cd407ad8482f6c1bc5c23fdc3e03",
     "documents": [],
     "items": []
@@ -29666,7 +29694,7 @@
     "agenda_published": false,
     "agenda_status_note": null,
     "agenda_derived_from_pdf": false,
-    "fetched_at": "2026-09-02T11:11:08-04:00",
+    "fetched_at": "2026-09-03T11:05:48-04:00",
     "content_hash": "86e8173e9b80fdfde5e255336c4980fbd4544acf65f8a570d9bdb327b5d1fb04",
     "documents": [],
     "items": []
@@ -29691,7 +29719,7 @@
     "agenda_published": false,
     "agenda_status_note": "*Public Portion begins at 6 PM. Agendas for Board of Education meetings are published on the district's Simbli portal, which is not mirrored here. Use the link below for the agenda.",
     "agenda_derived_from_pdf": false,
-    "fetched_at": "2026-09-02T11:11:08-04:00",
+    "fetched_at": "2026-09-03T11:05:48-04:00",
     "content_hash": "e532118e98ee620e0434c70a4bbf7d6551c09fae2b8f3497f69044693a2082b2",
     "documents": [
       {
@@ -29726,7 +29754,7 @@
     "agenda_published": true,
     "agenda_status_note": "The county published this agenda only as a PDF, and no numbered items could be read from it. Use the PDF link below.",
     "agenda_derived_from_pdf": false,
-    "fetched_at": "2026-09-02T11:11:08-04:00",
+    "fetched_at": "2026-09-03T11:05:48-04:00",
     "content_hash": "1f00cf59bbea965cc0a637ca99a2680930cb1ad97dc044ebf7c80650a43b332b",
     "documents": [
       {
@@ -29770,7 +29798,7 @@
     "agenda_published": false,
     "agenda_status_note": null,
     "agenda_derived_from_pdf": false,
-    "fetched_at": "2026-09-02T11:11:08-04:00",
+    "fetched_at": "2026-09-03T11:05:48-04:00",
     "content_hash": "1d91d7d8b364fc7f03fb638e69799954b507cfa342eae98df5dc8ffbfcd80bff",
     "documents": [],
     "items": []
@@ -29795,7 +29823,7 @@
     "agenda_published": false,
     "agenda_status_note": null,
     "agenda_derived_from_pdf": false,
-    "fetched_at": "2026-09-02T11:11:08-04:00",
+    "fetched_at": "2026-09-03T11:05:48-04:00",
     "content_hash": "1bc16f3bc5f4048b3e67c07696dc952cbbbc388f1b039a101201cac75dea4681",
     "documents": [],
     "items": []
@@ -29820,7 +29848,7 @@
     "agenda_published": false,
     "agenda_status_note": null,
     "agenda_derived_from_pdf": false,
-    "fetched_at": "2026-09-02T11:11:08-04:00",
+    "fetched_at": "2026-09-03T11:05:48-04:00",
     "content_hash": "7c216d444c7b6738346c92206bc1b33fcf76244053c0190bc0d96d849b254407",
     "documents": [],
     "items": []
@@ -29845,7 +29873,7 @@
     "agenda_published": false,
     "agenda_status_note": null,
     "agenda_derived_from_pdf": false,
-    "fetched_at": "2026-09-02T11:11:08-04:00",
+    "fetched_at": "2026-09-03T11:05:48-04:00",
     "content_hash": "a0271b7b8544f42a87c3a0880d9e627abd7c7dc5f84e4d9048ec6593d78f4da5",
     "documents": [],
     "items": []
@@ -29870,7 +29898,7 @@
     "agenda_published": false,
     "agenda_status_note": null,
     "agenda_derived_from_pdf": false,
-    "fetched_at": "2026-09-02T11:11:08-04:00",
+    "fetched_at": "2026-09-03T11:05:48-04:00",
     "content_hash": "9cb3c8b168c1297f5a904bf97240240e6bd8bfa1c54820f7c624271c4420cc85",
     "documents": [],
     "items": []
@@ -29895,7 +29923,7 @@
     "agenda_published": false,
     "agenda_status_note": null,
     "agenda_derived_from_pdf": false,
-    "fetched_at": "2026-09-02T11:11:08-04:00",
+    "fetched_at": "2026-09-03T11:05:48-04:00",
     "content_hash": "457451846fb7d4a77b4ad47a301ccfae1d88a0a01603e29841eef585d4875f16",
     "documents": [],
     "items": []
@@ -29920,7 +29948,7 @@
     "agenda_published": false,
     "agenda_status_note": null,
     "agenda_derived_from_pdf": false,
-    "fetched_at": "2026-09-02T11:11:08-04:00",
+    "fetched_at": "2026-09-03T11:05:48-04:00",
     "content_hash": "867fdfd3c1a7d502dd0980b383142c2fb51910ef8c552065f486df5999fa45b8",
     "documents": [],
     "items": []
@@ -29945,7 +29973,7 @@
     "agenda_published": false,
     "agenda_status_note": "Agendas for Board of Education meetings are published on the district's Simbli portal, which is not mirrored here. Use the link below for the agenda.",
     "agenda_derived_from_pdf": false,
-    "fetched_at": "2026-09-02T11:11:08-04:00",
+    "fetched_at": "2026-09-03T11:05:48-04:00",
     "content_hash": "20bcf61ae6e359035eaeeef916f9940d38f8d26626520ef299fcfa1b64450d07",
     "documents": [
       {
@@ -29980,7 +30008,7 @@
     "agenda_published": false,
     "agenda_status_note": null,
     "agenda_derived_from_pdf": false,
-    "fetched_at": "2026-09-02T11:11:08-04:00",
+    "fetched_at": "2026-09-03T11:05:48-04:00",
     "content_hash": "e1bfafbc8d8072233d463a3c62e0f55ea92e7110c28db37c55a90a6de1f810cd",
     "documents": [],
     "items": []
@@ -30005,7 +30033,7 @@
     "agenda_published": false,
     "agenda_status_note": null,
     "agenda_derived_from_pdf": false,
-    "fetched_at": "2026-09-02T11:11:08-04:00",
+    "fetched_at": "2026-09-03T11:05:48-04:00",
     "content_hash": "c3079627da4777498df21cbcc1b389bb6c748a1a219c3e598bb780adcbbf9057",
     "documents": [],
     "items": []
@@ -30030,7 +30058,7 @@
     "agenda_published": false,
     "agenda_status_note": "*Public Portion begins at 6 PM. Agendas for Board of Education meetings are published on the district's Simbli portal, which is not mirrored here. Use the link below for the agenda.",
     "agenda_derived_from_pdf": false,
-    "fetched_at": "2026-09-02T11:11:08-04:00",
+    "fetched_at": "2026-09-03T11:05:48-04:00",
     "content_hash": "98eec38cd2cd859ccecd1bcac64cd6bf761006718c3350063493f2801bd0b8eb",
     "documents": [
       {
