@@ -22458,7 +22458,7 @@
     "agenda_published": true,
     "agenda_status_note": null,
     "agenda_derived_from_pdf": false,
-    "fetched_at": "2026-10-18T10:41:49-04:00",
+    "fetched_at": "2026-10-19T13:35:55-04:00",
     "content_hash": "0a42b1c0023ffcb2740a1296df539461ac33969f57d3826ae82a1fc643fd0fac",
     "documents": [
       {
@@ -24453,7 +24453,7 @@
     "agenda_published": true,
     "agenda_status_note": null,
     "agenda_derived_from_pdf": false,
-    "fetched_at": "2026-10-18T10:41:49-04:00",
+    "fetched_at": "2026-10-19T13:35:55-04:00",
     "content_hash": "d386dc8fbbdb1e389171540fce751be6f2483550e641af899d400d0c24788abd",
     "documents": [
       {
@@ -25717,7 +25717,7 @@
     "agenda_published": true,
     "agenda_status_note": "The items below were read automatically from the county's agenda PDF, which has no machine-readable structure. Numbering follows the PDF, but nesting and any item the extractor could not read are not shown. The PDF linked below is the complete document.",
     "agenda_derived_from_pdf": true,
-    "fetched_at": "2026-10-18T10:41:49-04:00",
+    "fetched_at": "2026-10-19T13:35:55-04:00",
     "content_hash": "32374119f803f6be32b0eeb368755db50819cf772336f622a584f3e645991670",
     "documents": [
       {
@@ -26919,7 +26919,7 @@
     "agenda_published": true,
     "agenda_status_note": "The items below were read automatically from the county's agenda PDF, which has no machine-readable structure. Numbering follows the PDF, but nesting and any item the extractor could not read are not shown. The PDF linked below is the complete document.",
     "agenda_derived_from_pdf": true,
-    "fetched_at": "2026-10-18T10:41:49-04:00",
+    "fetched_at": "2026-10-19T13:35:55-04:00",
     "content_hash": "16bb5fe5f23869c8b2febbc08b202791f5edf5717dbaf03ab9417a87c0e44424",
     "documents": [
       {
@@ -27311,7 +27311,7 @@
     "agenda_published": true,
     "agenda_status_note": "The county published this agenda only as a PDF, and no numbered items could be read from it. Use the PDF link below.",
     "agenda_derived_from_pdf": false,
-    "fetched_at": "2026-10-18T10:41:49-04:00",
+    "fetched_at": "2026-10-19T13:35:55-04:00",
     "content_hash": "dbc6587ed88e77e18d658bbd4319b709e042098eaa7861fc38ccdac39da1c48d",
     "documents": [
       {
@@ -27373,7 +27373,7 @@
     "agenda_published": true,
     "agenda_status_note": "The items below were read automatically from the county's agenda PDF, which has no machine-readable structure. Numbering follows the PDF, but nesting and any item the extractor could not read are not shown. The PDF linked below is the complete document.",
     "agenda_derived_from_pdf": true,
-    "fetched_at": "2026-10-18T10:41:49-04:00",
+    "fetched_at": "2026-10-19T13:35:55-04:00",
     "content_hash": "6c01e261fc453a2b443548b13ddbf0a0a52727fdfc309582fb99bfa8c34adbcf",
     "documents": [
       {
@@ -27608,7 +27608,7 @@
     "agenda_published": true,
     "agenda_status_note": null,
     "agenda_derived_from_pdf": false,
-    "fetched_at": "2026-10-18T10:41:49-04:00",
+    "fetched_at": "2026-10-19T13:35:55-04:00",
     "content_hash": "398c11c6cc805fcb02091364bed046d9e80837e105650adfec69ddaa913d9e1d",
     "documents": [
       {
@@ -29578,7 +29578,7 @@
     "agenda_published": true,
     "agenda_status_note": "The items below were read automatically from the county's agenda PDF, which has no machine-readable structure. Numbering follows the PDF, but nesting and any item the extractor could not read are not shown. The PDF linked below is the complete document.",
     "agenda_derived_from_pdf": true,
-    "fetched_at": "2026-10-18T10:41:49-04:00",
+    "fetched_at": "2026-10-19T13:35:55-04:00",
     "content_hash": "3d590152c92c8cfdf523e1ea4c7a11613b2d5b00150f326f5a7ed3de5ca53357",
     "documents": [
       {
@@ -29726,7 +29726,7 @@
     "agenda_published": true,
     "agenda_status_note": null,
     "agenda_derived_from_pdf": false,
-    "fetched_at": "2026-10-18T10:41:49-04:00",
+    "fetched_at": "2026-10-19T13:35:55-04:00",
     "content_hash": "e279f436fb534e4f62f2b50df5b201f6ee2410919637c5ac691137c2c447c1dc",
     "documents": [
       {
@@ -30667,7 +30667,7 @@
     "agenda_published": true,
     "agenda_status_note": "The items below were read automatically from the county's agenda PDF, which has no machine-readable structure. Numbering follows the PDF, but nesting and any item the extractor could not read are not shown. The PDF linked below is the complete document.",
     "agenda_derived_from_pdf": true,
-    "fetched_at": "2026-10-18T10:41:49-04:00",
+    "fetched_at": "2026-10-19T13:35:55-04:00",
     "content_hash": "9f925c7583f2c3da08ddb724ff1e47e7aa3ed402ce23842e3091dded98a24ee4",
     "documents": [
       {
@@ -30806,7 +30806,7 @@
     "agenda_published": false,
     "agenda_status_note": "Agendas for Board of Education meetings are published on the district's Simbli portal, which is not mirrored here. Use the link below for the agenda.",
     "agenda_derived_from_pdf": false,
-    "fetched_at": "2026-10-18T10:41:49-04:00",
+    "fetched_at": "2026-10-19T13:35:55-04:00",
     "content_hash": "7a23aa81b38d23fb8624a1e5fcc85ca528989e3253551989d45fe9c8e5a0d511",
     "documents": [
       {
@@ -30841,7 +30841,7 @@
     "agenda_published": true,
     "agenda_status_note": "The items below were read automatically from the county's agenda PDF, which has no machine-readable structure. Numbering follows the PDF, but nesting and any item the extractor could not read are not shown. The PDF linked below is the complete document.",
     "agenda_derived_from_pdf": true,
-    "fetched_at": "2026-10-18T10:41:49-04:00",
+    "fetched_at": "2026-10-19T13:35:55-04:00",
     "content_hash": "adc0ed94fbb235a1c53140eb3edf4ff276d64d2aa557edca649910aebddd8d71",
     "documents": [
       {
@@ -31005,7 +31005,7 @@
     "agenda_published": false,
     "agenda_status_note": null,
     "agenda_derived_from_pdf": false,
-    "fetched_at": "2026-10-18T10:41:49-04:00",
+    "fetched_at": "2026-10-19T13:35:55-04:00",
     "content_hash": "b3774e2c0a44a19c942af2ef6853b9995b25cd407ad8482f6c1bc5c23fdc3e03",
     "documents": [],
     "items": []
@@ -31030,7 +31030,7 @@
     "agenda_published": true,
     "agenda_status_note": "The items below were read automatically from the county's agenda PDF, which has no machine-readable structure. Numbering follows the PDF, but nesting and any item the extractor could not read are not shown. The PDF linked below is the complete document.",
     "agenda_derived_from_pdf": true,
-    "fetched_at": "2026-10-18T10:41:49-04:00",
+    "fetched_at": "2026-10-19T13:35:55-04:00",
     "content_hash": "36162d786f63685c98e18d2ebfa62b8433fa1f91f434fbb2a0ccad808d441d5a",
     "documents": [
       {
@@ -31347,7 +31347,7 @@
     "agenda_published": true,
     "agenda_status_note": "The items below were read automatically from the county's agenda PDF, which has no machine-readable structure. Numbering follows the PDF, but nesting and any item the extractor could not read are not shown. The PDF linked below is the complete document.",
     "agenda_derived_from_pdf": true,
-    "fetched_at": "2026-10-18T10:41:49-04:00",
+    "fetched_at": "2026-10-19T13:35:55-04:00",
     "content_hash": "0fdb33061c9286a813079519767c0bf361e73a8e8967a619e22cf42e902eb605",
     "documents": [
       {
@@ -31923,7 +31923,7 @@
     "agenda_published": false,
     "agenda_status_note": "5 PM – Executive Session Public Portion begins at 6 PM. Agendas for Board of Education meetings are published on the district's Simbli portal, which is not mirrored here. Use the link below for the agenda.",
     "agenda_derived_from_pdf": false,
-    "fetched_at": "2026-10-18T10:41:49-04:00",
+    "fetched_at": "2026-10-19T13:35:55-04:00",
     "content_hash": "7489a1c0e99d0f630782e5b35e9d53a9f23185727a9fa3f6f3d186e0577e03a8",
     "documents": [
       {
@@ -31958,7 +31958,7 @@
     "agenda_published": true,
     "agenda_status_note": "The county published this agenda only as a PDF, and no numbered items could be read from it. Use the PDF link below.",
     "agenda_derived_from_pdf": false,
-    "fetched_at": "2026-10-18T10:41:49-04:00",
+    "fetched_at": "2026-10-19T13:35:55-04:00",
     "content_hash": "0489370f57c15764a35dd3c0f7e3c071b34242611bff96ad2fd331dd754c1d6c",
     "documents": [
       {
@@ -32125,7 +32125,7 @@
     "agenda_published": true,
     "agenda_status_note": null,
     "agenda_derived_from_pdf": false,
-    "fetched_at": "2026-10-18T10:41:49-04:00",
+    "fetched_at": "2026-10-19T13:35:55-04:00",
     "content_hash": "d31c9a880b92d826c8ff34deda283b7da4229c42d120b4e2f24770751a40d53f",
     "documents": [
       {
@@ -34129,7 +34129,7 @@
     "agenda_published": true,
     "agenda_status_note": null,
     "agenda_derived_from_pdf": false,
-    "fetched_at": "2026-10-18T10:41:49-04:00",
+    "fetched_at": "2026-10-19T13:35:55-04:00",
     "content_hash": "82d658c8d11eafba917ca9397c60eef70ff287154acc9cedb86a859d894f21a2",
     "documents": [
       {
@@ -34998,7 +34998,7 @@
     "agenda_published": true,
     "agenda_status_note": "The items below were read automatically from the county's agenda PDF, which has no machine-readable structure. Numbering follows the PDF, but nesting and any item the extractor could not read are not shown. The PDF linked below is the complete document.",
     "agenda_derived_from_pdf": true,
-    "fetched_at": "2026-10-18T10:41:49-04:00",
+    "fetched_at": "2026-10-19T13:35:55-04:00",
     "content_hash": "3382b9749e24e07431a7816e21d626890abc6c3661106d2e33446d20b547d09d",
     "documents": [
       {
@@ -36056,7 +36056,7 @@
     "agenda_published": true,
     "agenda_status_note": null,
     "agenda_derived_from_pdf": false,
-    "fetched_at": "2026-10-18T10:41:49-04:00",
+    "fetched_at": "2026-10-19T13:35:55-04:00",
     "content_hash": "6f9cb79206875694da6e435eb75d8d2bc5c76e333bfeef94868abf2e161dcad4",
     "documents": [
       {
@@ -37761,7 +37761,7 @@
     "agenda_published": true,
     "agenda_status_note": "The items below were read automatically from the county's agenda PDF, which has no machine-readable structure. Numbering follows the PDF, but nesting and any item the extractor could not read are not shown. The PDF linked below is the complete document.",
     "agenda_derived_from_pdf": true,
-    "fetched_at": "2026-10-18T10:41:49-04:00",
+    "fetched_at": "2026-10-19T13:35:55-04:00",
     "content_hash": "e112947c88b8d926c9ab519cd7f5ca0c1ae74fd9d7cdf8e4119e448ed3f57c30",
     "documents": [
       {
@@ -38126,7 +38126,7 @@
     "agenda_published": true,
     "agenda_status_note": null,
     "agenda_derived_from_pdf": false,
-    "fetched_at": "2026-10-18T10:41:49-04:00",
+    "fetched_at": "2026-10-19T13:35:55-04:00",
     "content_hash": "e19a33d22567d54bd4b042bfd0d2483ee8f8fba6c41bf684928a25be3b750bc5",
     "documents": [
       {
@@ -39027,7 +39027,7 @@
     "agenda_published": true,
     "agenda_status_note": "The items below were read automatically from the county's agenda PDF, which has no machine-readable structure. Numbering follows the PDF, but nesting and any item the extractor could not read are not shown. The PDF linked below is the complete document.",
     "agenda_derived_from_pdf": true,
-    "fetched_at": "2026-10-18T10:41:49-04:00",
+    "fetched_at": "2026-10-19T13:35:55-04:00",
     "content_hash": "4b54a68fe55e513851848b725faaf937497f0c9f93ea6ed4c54f0b3e6e77ab08",
     "documents": [
       {
@@ -39183,7 +39183,7 @@
     "agenda_published": false,
     "agenda_status_note": null,
     "agenda_derived_from_pdf": false,
-    "fetched_at": "2026-10-18T10:41:49-04:00",
+    "fetched_at": "2026-10-19T13:35:55-04:00",
     "content_hash": "7f764d128cb97238ea9c5130d0e214fbcd22f16aa7c067855fd4270aacfe5ac1",
     "documents": [
       {
@@ -39227,7 +39227,7 @@
     "agenda_published": true,
     "agenda_status_note": "The county published this agenda only as a PDF, and no numbered items could be read from it. Use the PDF link below.",
     "agenda_derived_from_pdf": false,
-    "fetched_at": "2026-10-18T10:41:49-04:00",
+    "fetched_at": "2026-10-19T13:35:55-04:00",
     "content_hash": "cba6be695141e5dd7287436f246960e9186e6bcbbc3f2fb0eef8ca35d3210728",
     "documents": [
       {
@@ -39280,7 +39280,7 @@
     "agenda_published": true,
     "agenda_status_note": "The items below were read automatically from the county's agenda PDF, which has no machine-readable structure. Numbering follows the PDF, but nesting and any item the extractor could not read are not shown. The PDF linked below is the complete document.",
     "agenda_derived_from_pdf": true,
-    "fetched_at": "2026-10-18T10:41:49-04:00",
+    "fetched_at": "2026-10-19T13:35:55-04:00",
     "content_hash": "d13c34df547da0148498fa98671759f0282174dc5633ff2a7a6858e0fe2f1a93",
     "documents": [
       {
@@ -39470,7 +39470,7 @@
     "agenda_published": true,
     "agenda_status_note": "The items below were read automatically from the county's agenda PDF, which has no machine-readable structure. Numbering follows the PDF, but nesting and any item the extractor could not read are not shown. The PDF linked below is the complete document.",
     "agenda_derived_from_pdf": true,
-    "fetched_at": "2026-10-18T10:41:49-04:00",
+    "fetched_at": "2026-10-19T13:35:55-04:00",
     "content_hash": "00bbc0cd558e233206545cad8be7314581206cf90d428d86f9761c40f530cabc",
     "documents": [
       {
@@ -39660,7 +39660,7 @@
     "agenda_published": false,
     "agenda_status_note": null,
     "agenda_derived_from_pdf": false,
-    "fetched_at": "2026-10-18T10:41:49-04:00",
+    "fetched_at": "2026-10-19T13:35:55-04:00",
     "content_hash": "867fdfd3c1a7d502dd0980b383142c2fb51910ef8c552065f486df5999fa45b8",
     "documents": [],
     "items": []
@@ -39685,7 +39685,7 @@
     "agenda_published": true,
     "agenda_status_note": "The items below were read automatically from the county's agenda PDF, which has no machine-readable structure. Numbering follows the PDF, but nesting and any item the extractor could not read are not shown. The PDF linked below is the complete document.",
     "agenda_derived_from_pdf": true,
-    "fetched_at": "2026-10-18T10:41:49-04:00",
+    "fetched_at": "2026-10-19T13:35:55-04:00",
     "content_hash": "e9aa0718e3c4e6a923563e83d1ec51a759fd5876cebce3e17a6f08fd62984791",
     "documents": [
       {
@@ -39951,7 +39951,7 @@
     "agenda_published": false,
     "agenda_status_note": "Agendas for Board of Education meetings are published on the district's Simbli portal, which is not mirrored here. Use the link below for the agenda.",
     "agenda_derived_from_pdf": false,
-    "fetched_at": "2026-10-18T10:41:49-04:00",
+    "fetched_at": "2026-10-19T13:35:55-04:00",
     "content_hash": "20bcf61ae6e359035eaeeef916f9940d38f8d26626520ef299fcfa1b64450d07",
     "documents": [
       {
@@ -39986,7 +39986,7 @@
     "agenda_published": true,
     "agenda_status_note": "The items below were read automatically from the county's agenda PDF, which has no machine-readable structure. Numbering follows the PDF, but nesting and any item the extractor could not read are not shown. The PDF linked below is the complete document.",
     "agenda_derived_from_pdf": true,
-    "fetched_at": "2026-10-18T10:41:49-04:00",
+    "fetched_at": "2026-10-19T13:35:55-04:00",
     "content_hash": "edd09b7713e4db0bc3bd80984195959bc091b703551cbfb17772b26a8389e524",
     "documents": [
       {
@@ -40109,9 +40109,18 @@
     "agenda_published": true,
     "agenda_status_note": null,
     "agenda_derived_from_pdf": false,
-    "fetched_at": "2026-10-18T10:41:49-04:00",
-    "content_hash": "500f0edd208cc7883bac630f85f0ac88721ac6ec4308f87a86cd7daaf7887af3",
+    "fetched_at": "2026-10-19T13:35:55-04:00",
+    "content_hash": "7216a3187475e1fbd2988936bf8432cf1190a867154e41031d10f44e2bfe5e9b",
     "documents": [
+      {
+        "label": "Summary PDF",
+        "url": "https://www.forsythco.com/app/uploads/2026/07/Summary-10.15.2026-UA.pdf",
+        "kind": "other",
+        "source": "county",
+        "machine_readable": true,
+        "content_type": null,
+        "size_bytes": null
+      },
       {
         "label": "Agenda PDF",
         "url": "https://www.forsythco.com/app/uploads/2026/07/Agenda-10.15.2026-UA.pdf",
@@ -42344,7 +42353,7 @@
     "agenda_published": false,
     "agenda_status_note": "5 PM – Executive Session Public Portion begins at 6 PM. Agendas for Board of Education meetings are published on the district's Simbli portal, which is not mirrored here. Use the link below for the agenda.",
     "agenda_derived_from_pdf": false,
-    "fetched_at": "2026-10-18T10:41:49-04:00",
+    "fetched_at": "2026-10-19T13:35:55-04:00",
     "content_hash": "dc80dc1fd69e3aa79319db273691eb4c6cd34b3c6390bf0380e61d25257e3078",
     "documents": [
       {
@@ -42380,7 +42389,7 @@
     "agenda_published": true,
     "agenda_status_note": null,
     "agenda_derived_from_pdf": false,
-    "fetched_at": "2026-10-18T10:41:49-04:00",
+    "fetched_at": "2026-10-19T13:35:55-04:00",
     "content_hash": "e851c85c4bbebe5fdb7fde18f52f7628f551896cd4557b54e10eeaa7bc177e82",
     "documents": [
       {
@@ -43656,7 +43665,7 @@
     "agenda_published": true,
     "agenda_status_note": "The county published this agenda only as a PDF, and no numbered items could be read from it. Use the PDF link below.",
     "agenda_derived_from_pdf": false,
-    "fetched_at": "2026-10-18T10:41:49-04:00",
+    "fetched_at": "2026-10-19T13:35:55-04:00",
     "content_hash": "8150e274097b0887103d566c028368c44aa83930823b2aa63c2256fd268806bc",
     "documents": [
       {
@@ -43700,7 +43709,7 @@
     "agenda_published": true,
     "agenda_status_note": "The items below were read automatically from the county's agenda PDF, which has no machine-readable structure. Numbering follows the PDF, but nesting and any item the extractor could not read are not shown. The PDF linked below is the complete document.",
     "agenda_derived_from_pdf": true,
-    "fetched_at": "2026-10-18T10:41:49-04:00",
+    "fetched_at": "2026-10-19T13:35:55-04:00",
     "content_hash": "e370333c00d42c9b97b3faa103e44cae2db5ca8799e0ef122a244e8fa624dd3a",
     "documents": [
       {
@@ -44864,13 +44873,67 @@
     "county_meeting_id": 20098,
     "county_url": "https://www.forsythco.com/meetings/zoning-board-of-appeals-work-session-5/",
     "portal_url": null,
-    "agenda_published": false,
-    "agenda_status_note": null,
-    "agenda_derived_from_pdf": false,
-    "fetched_at": "2026-10-18T10:41:49-04:00",
-    "content_hash": "da73a6c02bf3fe7573a99c0c2f6b9166769ee9514bc536df7cf8d099a73a60f4",
-    "documents": [],
-    "items": []
+    "agenda_published": true,
+    "agenda_status_note": "The items below were read automatically from the county's agenda PDF, which has no machine-readable structure. Numbering follows the PDF, but nesting and any item the extractor could not read are not shown. The PDF linked below is the complete document.",
+    "agenda_derived_from_pdf": true,
+    "fetched_at": "2026-10-19T13:35:55-04:00",
+    "content_hash": "b917b595a5a78f0999d0e8124ce6542fc08987eb48956d6665e4c005d5860296",
+    "documents": [
+      {
+        "label": "Agenda PDF",
+        "url": "https://www.forsythco.com/app/uploads/2026/09/110326_work-session-agenda-1.pdf",
+        "kind": "agenda",
+        "source": "county",
+        "machine_readable": true,
+        "content_type": null,
+        "size_bytes": null
+      },
+      {
+        "label": "Public Notice PDF",
+        "url": "https://www.forsythco.com/app/uploads/2026/09/ZBA_Notice_110326_work-session-meeting.pdf",
+        "kind": "notice",
+        "source": "county",
+        "machine_readable": true,
+        "content_type": null,
+        "size_bytes": null
+      }
+    ],
+    "items": [
+      {
+        "number": "1",
+        "outline_path": "1",
+        "title": "Call Work Session to Order",
+        "level": 0,
+        "source_item_id": null,
+        "fiscal_impact": null,
+        "attachments": [],
+        "under_consent": false,
+        "consent_reason": null,
+        "dollar_amounts": [],
+        "large_dollar": false,
+        "long_term": false,
+        "long_term_reason": null,
+        "topics": [],
+        "children": []
+      },
+      {
+        "number": "2",
+        "outline_path": "2",
+        "title": "Review Regular Meeting Agenda Appeals of Administrative Decisions, Appeals of Water Fines, Variance applications.",
+        "level": 0,
+        "source_item_id": null,
+        "fiscal_impact": null,
+        "attachments": [],
+        "under_consent": false,
+        "consent_reason": null,
+        "dollar_amounts": [],
+        "large_dollar": false,
+        "long_term": false,
+        "long_term_reason": null,
+        "topics": [],
+        "children": []
+      }
+    ]
   },
   {
     "slug": "2026-11-03-board-of-voter-registrations-elections-special-called-meeting",
@@ -44892,7 +44955,7 @@
     "agenda_published": true,
     "agenda_status_note": "The items below were read automatically from the county's agenda PDF, which has no machine-readable structure. Numbering follows the PDF, but nesting and any item the extractor could not read are not shown. The PDF linked below is the complete document.",
     "agenda_derived_from_pdf": true,
-    "fetched_at": "2026-10-18T10:41:49-04:00",
+    "fetched_at": "2026-10-19T13:35:55-04:00",
     "content_hash": "7b9204462451ee887bc55294f63a1a1e0b7c8dc7463fa4483133aef3ed5fbbb7",
     "documents": [
       {
@@ -44985,13 +45048,186 @@
     "county_meeting_id": 20097,
     "county_url": "https://www.forsythco.com/meetings/zoning-board-of-appeals-regular-meeting-public-hearings-4/",
     "portal_url": null,
-    "agenda_published": false,
-    "agenda_status_note": null,
-    "agenda_derived_from_pdf": false,
-    "fetched_at": "2026-10-18T10:41:49-04:00",
-    "content_hash": "4f9c706217e98ba1488ab89f7f7e608c74c68b634e487fe6cfd6674d09401120",
-    "documents": [],
-    "items": []
+    "agenda_published": true,
+    "agenda_status_note": "The items below were read automatically from the county's agenda PDF, which has no machine-readable structure. Numbering follows the PDF, but nesting and any item the extractor could not read are not shown. The PDF linked below is the complete document.",
+    "agenda_derived_from_pdf": true,
+    "fetched_at": "2026-10-19T13:35:55-04:00",
+    "content_hash": "83e4a39129547309050c23b66f7df7d54309a08b6ac6a0f56aebaad2c61d5f87",
+    "documents": [
+      {
+        "label": "Agenda PDF",
+        "url": "https://www.forsythco.com/app/uploads/2026/09/PL_ZBA_Agenda-110326.pdf",
+        "kind": "agenda",
+        "source": "county",
+        "machine_readable": true,
+        "content_type": null,
+        "size_bytes": null
+      },
+      {
+        "label": "Public Notice PDF",
+        "url": "https://www.forsythco.com/app/uploads/2026/09/ZBA_Notice_110326_regular-meeting.pdf",
+        "kind": "notice",
+        "source": "county",
+        "machine_readable": true,
+        "content_type": null,
+        "size_bytes": null
+      }
+    ],
+    "items": [
+      {
+        "number": "1",
+        "outline_path": "1",
+        "title": "Call Work Session to Order",
+        "level": 0,
+        "source_item_id": null,
+        "fiscal_impact": null,
+        "attachments": [],
+        "under_consent": false,
+        "consent_reason": null,
+        "dollar_amounts": [],
+        "large_dollar": false,
+        "long_term": false,
+        "long_term_reason": null,
+        "topics": [],
+        "children": []
+      },
+      {
+        "number": "2",
+        "outline_path": "2",
+        "title": "Review Regular Meeting Agenda Appeals of Administrative Decisions, Appeals of Water Fines, Variance applications.",
+        "level": 0,
+        "source_item_id": null,
+        "fiscal_impact": null,
+        "attachments": [],
+        "under_consent": false,
+        "consent_reason": null,
+        "dollar_amounts": [],
+        "large_dollar": false,
+        "long_term": false,
+        "long_term_reason": null,
+        "topics": [],
+        "children": []
+      },
+      {
+        "number": "1",
+        "outline_path": "1",
+        "title": "Call Meeting to Order",
+        "level": 0,
+        "source_item_id": null,
+        "fiscal_impact": null,
+        "attachments": [],
+        "under_consent": false,
+        "consent_reason": null,
+        "dollar_amounts": [],
+        "large_dollar": false,
+        "long_term": false,
+        "long_term_reason": null,
+        "topics": [],
+        "children": []
+      },
+      {
+        "number": "2",
+        "outline_path": "2",
+        "title": "Adoption of Agenda",
+        "level": 0,
+        "source_item_id": null,
+        "fiscal_impact": null,
+        "attachments": [],
+        "under_consent": false,
+        "consent_reason": null,
+        "dollar_amounts": [],
+        "large_dollar": false,
+        "long_term": false,
+        "long_term_reason": null,
+        "topics": [],
+        "children": []
+      },
+      {
+        "number": "3",
+        "outline_path": "3",
+        "title": "Adopt or amend minutes of the prior meeting or meetings.",
+        "level": 0,
+        "source_item_id": null,
+        "fiscal_impact": null,
+        "attachments": [],
+        "under_consent": false,
+        "consent_reason": null,
+        "dollar_amounts": [],
+        "large_dollar": false,
+        "long_term": false,
+        "long_term_reason": null,
+        "topics": [],
+        "children": []
+      },
+      {
+        "number": "4",
+        "outline_path": "4",
+        "title": "Announcements",
+        "level": 0,
+        "source_item_id": null,
+        "fiscal_impact": null,
+        "attachments": [],
+        "under_consent": false,
+        "consent_reason": null,
+        "dollar_amounts": [],
+        "large_dollar": false,
+        "long_term": false,
+        "long_term_reason": null,
+        "topics": [],
+        "children": []
+      },
+      {
+        "number": "5",
+        "outline_path": "5",
+        "title": "Old Business",
+        "level": 0,
+        "source_item_id": null,
+        "fiscal_impact": null,
+        "attachments": [],
+        "under_consent": false,
+        "consent_reason": null,
+        "dollar_amounts": [],
+        "large_dollar": false,
+        "long_term": false,
+        "long_term_reason": null,
+        "topics": [],
+        "children": []
+      },
+      {
+        "number": "6",
+        "outline_path": "6",
+        "title": "New Business",
+        "level": 0,
+        "source_item_id": null,
+        "fiscal_impact": null,
+        "attachments": [],
+        "under_consent": false,
+        "consent_reason": null,
+        "dollar_amounts": [],
+        "large_dollar": false,
+        "long_term": false,
+        "long_term_reason": null,
+        "topics": [],
+        "children": []
+      },
+      {
+        "number": "6",
+        "outline_path": "6",
+        "title": "This request involves: An appeal of an administrative decision of the Engineering Department.",
+        "level": 0,
+        "source_item_id": null,
+        "fiscal_impact": null,
+        "attachments": [],
+        "under_consent": false,
+        "consent_reason": null,
+        "dollar_amounts": [],
+        "large_dollar": false,
+        "long_term": false,
+        "long_term_reason": null,
+        "topics": [],
+        "children": []
+      }
+    ]
   },
   {
     "slug": "2026-11-05-board-of-commissioners-regular-meeting-public-hearings",
@@ -45013,7 +45249,7 @@
     "agenda_published": false,
     "agenda_status_note": null,
     "agenda_derived_from_pdf": false,
-    "fetched_at": "2026-10-18T10:41:49-04:00",
+    "fetched_at": "2026-10-19T13:35:55-04:00",
     "content_hash": "376beb416150fffda86349fa9420337b99f085203082d5997f3713db25c9e0d4",
     "documents": [],
     "items": []
@@ -45038,7 +45274,7 @@
     "agenda_published": false,
     "agenda_status_note": null,
     "agenda_derived_from_pdf": false,
-    "fetched_at": "2026-10-18T10:41:49-04:00",
+    "fetched_at": "2026-10-19T13:35:55-04:00",
     "content_hash": "ff132d797311748de4094939503c6a18af6e76b55f19b3f9c1cc45d63b973503",
     "documents": [],
     "items": []
@@ -45063,7 +45299,7 @@
     "agenda_published": false,
     "agenda_status_note": null,
     "agenda_derived_from_pdf": false,
-    "fetched_at": "2026-10-18T10:41:49-04:00",
+    "fetched_at": "2026-10-19T13:35:55-04:00",
     "content_hash": "9c5b024a2c76c6525dd7cca59bb9d9008541e1d4c6662c3310af67fcef35b37b",
     "documents": [],
     "items": []
@@ -45088,7 +45324,7 @@
     "agenda_published": false,
     "agenda_status_note": "Agendas for Board of Education meetings are published on the district's Simbli portal, which is not mirrored here. Use the link below for the agenda.",
     "agenda_derived_from_pdf": false,
-    "fetched_at": "2026-10-18T10:41:49-04:00",
+    "fetched_at": "2026-10-19T13:35:55-04:00",
     "content_hash": "3318f20ad7f62090934f6658b2a20316ebf147276ad8f547c1f2735b15fdd342",
     "documents": [
       {
@@ -45123,7 +45359,7 @@
     "agenda_published": false,
     "agenda_status_note": null,
     "agenda_derived_from_pdf": false,
-    "fetched_at": "2026-10-18T10:41:49-04:00",
+    "fetched_at": "2026-10-19T13:35:55-04:00",
     "content_hash": "75ff8a54918759f84dc563b50e5ac30ac982e05ccf32567d44f1c1d5c2684a09",
     "documents": [],
     "items": []
@@ -45148,7 +45384,7 @@
     "agenda_published": false,
     "agenda_status_note": "5 PM – Executive Session Public Portion begins at 6 PM. Agendas for Board of Education meetings are published on the district's Simbli portal, which is not mirrored here. Use the link below for the agenda.",
     "agenda_derived_from_pdf": false,
-    "fetched_at": "2026-10-18T10:41:49-04:00",
+    "fetched_at": "2026-10-19T13:35:55-04:00",
     "content_hash": "27e0baf11673485dfc664f278d0746ad27814ca1f44b3993f00d0892e9dd829f",
     "documents": [
       {
@@ -45183,7 +45419,7 @@
     "agenda_published": false,
     "agenda_status_note": null,
     "agenda_derived_from_pdf": false,
-    "fetched_at": "2026-10-18T10:41:49-04:00",
+    "fetched_at": "2026-10-19T13:35:55-04:00",
     "content_hash": "e2c83ad9bfd2cbc95c6210488272be819aaf513d61fa507460c363fd80db42c2",
     "documents": [],
     "items": []
@@ -45208,7 +45444,7 @@
     "agenda_published": false,
     "agenda_status_note": null,
     "agenda_derived_from_pdf": false,
-    "fetched_at": "2026-10-18T10:41:49-04:00",
+    "fetched_at": "2026-10-19T13:35:55-04:00",
     "content_hash": "2b5f81336360ab142c478fe8bc4099f4f8ecb4fd94203af274f7841316bfe45b",
     "documents": [],
     "items": []
@@ -45233,7 +45469,7 @@
     "agenda_published": false,
     "agenda_status_note": null,
     "agenda_derived_from_pdf": false,
-    "fetched_at": "2026-10-18T10:41:49-04:00",
+    "fetched_at": "2026-10-19T13:35:55-04:00",
     "content_hash": "ae10deb888e22bfeb1752ab42ef15298e109aa7efd89119013b6eb4c6c728b94",
     "documents": [],
     "items": []
@@ -45258,7 +45494,7 @@
     "agenda_published": false,
     "agenda_status_note": "5 PM – Executive Session Public Portion begins at 6 PM. Agendas for Board of Education meetings are published on the district's Simbli portal, which is not mirrored here. Use the link below for the agenda.",
     "agenda_derived_from_pdf": false,
-    "fetched_at": "2026-10-18T10:41:49-04:00",
+    "fetched_at": "2026-10-19T13:35:55-04:00",
     "content_hash": "89f7bcfd6ed6b4a6e7120e89d47099fd021646a8abfbc9ff37c59a4c0a05961e",
     "documents": [
       {
@@ -45293,7 +45529,7 @@
     "agenda_published": false,
     "agenda_status_note": null,
     "agenda_derived_from_pdf": false,
-    "fetched_at": "2026-10-18T10:41:49-04:00",
+    "fetched_at": "2026-10-19T13:35:55-04:00",
     "content_hash": "50e31ddff59c78dc0edc55c6cfb9996bda443643d0d63ffa2e495c04bcf0d5ee",
     "documents": [],
     "items": []
@@ -45318,7 +45554,7 @@
     "agenda_published": false,
     "agenda_status_note": null,
     "agenda_derived_from_pdf": false,
-    "fetched_at": "2026-10-18T10:41:49-04:00",
+    "fetched_at": "2026-10-19T13:35:55-04:00",
     "content_hash": "1e5eaf11baada626ddf1338b84e98ac73ec6ad4859997f8472110289a87d0aa2",
     "documents": [],
     "items": []
