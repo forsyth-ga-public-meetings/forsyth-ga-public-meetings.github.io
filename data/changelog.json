@@ -1,5 +1,69 @@
 [
   {
+    "at": "2026-11-06T13:08:14-05:00",
+    "kind": "new",
+    "slug": "2026-12-01-zoning-board-of-appeals-regular-meeting-public-hearings",
+    "date": "2026-12-01",
+    "title": "Zoning Board of Appeals — Regular Meeting / Public Hearings",
+    "summary": "Added to the index. No agenda published yet."
+  },
+  {
+    "at": "2026-11-06T13:08:14-05:00",
+    "kind": "new",
+    "slug": "2026-12-01-zoning-board-of-appeals-work-session",
+    "date": "2026-12-01",
+    "title": "Zoning Board of Appeals — Work Session",
+    "summary": "Added to the index. No agenda published yet."
+  },
+  {
+    "at": "2026-11-06T13:08:14-05:00",
+    "kind": "changed",
+    "slug": "2026-10-20-cumming-city-council-regular-meeting",
+    "date": "2026-10-20",
+    "title": "Cumming City Council — Regular Meeting",
+    "summary": "1 document added; 1 document removed."
+  },
+  {
+    "at": "2026-11-06T13:08:14-05:00",
+    "kind": "changed",
+    "slug": "2026-11-03-zoning-board-of-appeals-regular-meeting-public-hearings",
+    "date": "2026-11-03",
+    "title": "Zoning Board of Appeals — Regular Meeting / Public Hearings",
+    "summary": "1 document added."
+  },
+  {
+    "at": "2026-11-06T13:08:14-05:00",
+    "kind": "changed",
+    "slug": "2026-11-03-cumming-city-council-work-session",
+    "date": "2026-11-03",
+    "title": "Cumming City Council — Work Session",
+    "summary": "1 document added."
+  },
+  {
+    "at": "2026-11-06T13:08:14-05:00",
+    "kind": "changed",
+    "slug": "2026-11-03-zoning-board-of-appeals-work-session",
+    "date": "2026-11-03",
+    "title": "Zoning Board of Appeals — Work Session",
+    "summary": "1 document added."
+  },
+  {
+    "at": "2026-11-06T13:08:14-05:00",
+    "kind": "changed",
+    "slug": "2026-11-05-board-of-commissioners-regular-meeting-public-hearings",
+    "date": "2026-11-05",
+    "title": "Board of Commissioners — Regular Meeting / Public Hearings",
+    "summary": "Agenda items changed: 59 to 58."
+  },
+  {
+    "at": "2026-11-06T13:08:14-05:00",
+    "kind": "changed",
+    "slug": "2026-11-12-board-of-assessors-regular-meeting",
+    "date": "2026-11-12",
+    "title": "Board of Assessors — Regular Meeting",
+    "summary": "Agenda published: 13 items; 2 documents added."
+  },
+  {
     "at": "2026-11-05T13:52:06-05:00",
     "kind": "changed",
     "slug": "2026-11-03-board-of-voter-registrations-elections-special-called-meeting",
