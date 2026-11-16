@@ -32125,7 +32125,7 @@
     "agenda_published": true,
     "agenda_status_note": null,
     "agenda_derived_from_pdf": false,
-    "fetched_at": "2026-11-15T12:52:19-05:00",
+    "fetched_at": "2026-11-16T16:07:55-05:00",
     "content_hash": "d31c9a880b92d826c8ff34deda283b7da4229c42d120b4e2f24770751a40d53f",
     "documents": [
       {
@@ -34129,7 +34129,7 @@
     "agenda_published": true,
     "agenda_status_note": null,
     "agenda_derived_from_pdf": false,
-    "fetched_at": "2026-11-15T12:52:19-05:00",
+    "fetched_at": "2026-11-16T16:07:55-05:00",
     "content_hash": "82d658c8d11eafba917ca9397c60eef70ff287154acc9cedb86a859d894f21a2",
     "documents": [
       {
@@ -34998,7 +34998,7 @@
     "agenda_published": true,
     "agenda_status_note": "The items below were read automatically from the county's agenda PDF, which has no machine-readable structure. Numbering follows the PDF, but nesting and any item the extractor could not read are not shown. The PDF linked below is the complete document.",
     "agenda_derived_from_pdf": true,
-    "fetched_at": "2026-11-15T12:52:19-05:00",
+    "fetched_at": "2026-11-16T16:07:55-05:00",
     "content_hash": "c3a4ec08092d9da7b54d4b7c0182c15ec881179b8bc04fb6e38ec94bd0d9cbf3",
     "documents": [
       {
@@ -36065,7 +36065,7 @@
     "agenda_published": true,
     "agenda_status_note": null,
     "agenda_derived_from_pdf": false,
-    "fetched_at": "2026-11-15T12:52:19-05:00",
+    "fetched_at": "2026-11-16T16:07:55-05:00",
     "content_hash": "1417492e1c7c2f31c04855ff71cceb987584029c88e4deca99d5fce6b7338ad9",
     "documents": [
       {
@@ -37479,7 +37479,7 @@
     "agenda_published": true,
     "agenda_status_note": "The items below were read automatically from the county's agenda PDF, which has no machine-readable structure. Numbering follows the PDF, but nesting and any item the extractor could not read are not shown. The PDF linked below is the complete document.",
     "agenda_derived_from_pdf": true,
-    "fetched_at": "2026-11-15T12:52:19-05:00",
+    "fetched_at": "2026-11-16T16:07:55-05:00",
     "content_hash": "7d55061ad325273ca7dc93ec1de889480f581ee1dd6504522f75af73ba2053b6",
     "documents": [
       {
@@ -37779,7 +37779,7 @@
     "agenda_published": true,
     "agenda_status_note": "The items below were read automatically from the county's agenda PDF, which has no machine-readable structure. Numbering follows the PDF, but nesting and any item the extractor could not read are not shown. The PDF linked below is the complete document.",
     "agenda_derived_from_pdf": true,
-    "fetched_at": "2026-11-15T12:52:19-05:00",
+    "fetched_at": "2026-11-16T16:07:55-05:00",
     "content_hash": "e112947c88b8d926c9ab519cd7f5ca0c1ae74fd9d7cdf8e4119e448ed3f57c30",
     "documents": [
       {
@@ -38144,7 +38144,7 @@
     "agenda_published": true,
     "agenda_status_note": null,
     "agenda_derived_from_pdf": false,
-    "fetched_at": "2026-11-15T12:52:19-05:00",
+    "fetched_at": "2026-11-16T16:07:55-05:00",
     "content_hash": "e19a33d22567d54bd4b042bfd0d2483ee8f8fba6c41bf684928a25be3b750bc5",
     "documents": [
       {
@@ -39045,7 +39045,7 @@
     "agenda_published": true,
     "agenda_status_note": "The items below were read automatically from the county's agenda PDF, which has no machine-readable structure. Numbering follows the PDF, but nesting and any item the extractor could not read are not shown. The PDF linked below is the complete document.",
     "agenda_derived_from_pdf": true,
-    "fetched_at": "2026-11-15T12:52:19-05:00",
+    "fetched_at": "2026-11-16T16:07:55-05:00",
     "content_hash": "4b54a68fe55e513851848b725faaf937497f0c9f93ea6ed4c54f0b3e6e77ab08",
     "documents": [
       {
@@ -39201,7 +39201,7 @@
     "agenda_published": false,
     "agenda_status_note": null,
     "agenda_derived_from_pdf": false,
-    "fetched_at": "2026-11-15T12:52:19-05:00",
+    "fetched_at": "2026-11-16T16:07:55-05:00",
     "content_hash": "7f764d128cb97238ea9c5130d0e214fbcd22f16aa7c067855fd4270aacfe5ac1",
     "documents": [
       {
@@ -39245,8 +39245,8 @@
     "agenda_published": true,
     "agenda_status_note": "The county published this agenda only as a PDF, and no numbered items could be read from it. Use the PDF link below.",
     "agenda_derived_from_pdf": false,
-    "fetched_at": "2026-11-15T12:52:19-05:00",
-    "content_hash": "cba6be695141e5dd7287436f246960e9186e6bcbbc3f2fb0eef8ca35d3210728",
+    "fetched_at": "2026-11-16T16:07:55-05:00",
+    "content_hash": "5305e3f5346d2ccac11250259a3fae865fbde0e56068e1071503918e41ed98b8",
     "documents": [
       {
         "label": "Summary PDF",
@@ -39270,6 +39270,15 @@
         "label": "Public Notice PDF",
         "url": "https://www.forsythco.com/app/uploads/2026/08/ZBA_Notice_100626_work-session-meeting.pdf",
         "kind": "notice",
+        "source": "county",
+        "machine_readable": true,
+        "content_type": null,
+        "size_bytes": null
+      },
+      {
+        "label": "Minutes PDF",
+        "url": "https://www.forsythco.com/app/uploads/2026/08/zbaworkmin_100626-UA.pdf",
+        "kind": "minutes",
         "source": "county",
         "machine_readable": true,
         "content_type": null,
@@ -39298,8 +39307,8 @@
     "agenda_published": true,
     "agenda_status_note": "The items below were read automatically from the county's agenda PDF, which has no machine-readable structure. Numbering follows the PDF, but nesting and any item the extractor could not read are not shown. The PDF linked below is the complete document.",
     "agenda_derived_from_pdf": true,
-    "fetched_at": "2026-11-15T12:52:19-05:00",
-    "content_hash": "d13c34df547da0148498fa98671759f0282174dc5633ff2a7a6858e0fe2f1a93",
+    "fetched_at": "2026-11-16T16:07:55-05:00",
+    "content_hash": "390fa38b74e5cde7f36e5605f12b57ff63f4641ad067c75e572b8cb8e561cc5d",
     "documents": [
       {
         "label": "Summary PDF",
@@ -39323,6 +39332,15 @@
         "label": "Public Notice PDF",
         "url": "https://www.forsythco.com/app/uploads/2026/08/ZBA_Notice_100626_regular-meeting.pdf",
         "kind": "notice",
+        "source": "county",
+        "machine_readable": true,
+        "content_type": null,
+        "size_bytes": null
+      },
+      {
+        "label": "Minutes PDF",
+        "url": "https://www.forsythco.com/app/uploads/2026/08/zbamin_100626-UA.pdf",
+        "kind": "minutes",
         "source": "county",
         "machine_readable": true,
         "content_type": null,
@@ -39488,7 +39506,7 @@
     "agenda_published": true,
     "agenda_status_note": "The items below were read automatically from the county's agenda PDF, which has no machine-readable structure. Numbering follows the PDF, but nesting and any item the extractor could not read are not shown. The PDF linked below is the complete document.",
     "agenda_derived_from_pdf": true,
-    "fetched_at": "2026-11-15T12:52:19-05:00",
+    "fetched_at": "2026-11-16T16:07:55-05:00",
     "content_hash": "00bbc0cd558e233206545cad8be7314581206cf90d428d86f9761c40f530cabc",
     "documents": [
       {
@@ -39678,7 +39696,7 @@
     "agenda_published": false,
     "agenda_status_note": null,
     "agenda_derived_from_pdf": false,
-    "fetched_at": "2026-11-15T12:52:19-05:00",
+    "fetched_at": "2026-11-16T16:07:55-05:00",
     "content_hash": "867fdfd3c1a7d502dd0980b383142c2fb51910ef8c552065f486df5999fa45b8",
     "documents": [],
     "items": []
@@ -39703,7 +39721,7 @@
     "agenda_published": true,
     "agenda_status_note": "The items below were read automatically from the county's agenda PDF, which has no machine-readable structure. Numbering follows the PDF, but nesting and any item the extractor could not read are not shown. The PDF linked below is the complete document.",
     "agenda_derived_from_pdf": true,
-    "fetched_at": "2026-11-15T12:52:19-05:00",
+    "fetched_at": "2026-11-16T16:07:55-05:00",
     "content_hash": "e9aa0718e3c4e6a923563e83d1ec51a759fd5876cebce3e17a6f08fd62984791",
     "documents": [
       {
@@ -40004,7 +40022,7 @@
     "agenda_published": true,
     "agenda_status_note": "The items below were read automatically from the county's agenda PDF, which has no machine-readable structure. Numbering follows the PDF, but nesting and any item the extractor could not read are not shown. The PDF linked below is the complete document.",
     "agenda_derived_from_pdf": true,
-    "fetched_at": "2026-11-15T12:52:19-05:00",
+    "fetched_at": "2026-11-16T16:07:55-05:00",
     "content_hash": "edd09b7713e4db0bc3bd80984195959bc091b703551cbfb17772b26a8389e524",
     "documents": [
       {
@@ -40127,7 +40145,7 @@
     "agenda_published": true,
     "agenda_status_note": null,
     "agenda_derived_from_pdf": false,
-    "fetched_at": "2026-11-15T12:52:19-05:00",
+    "fetched_at": "2026-11-16T16:07:55-05:00",
     "content_hash": "7216a3187475e1fbd2988936bf8432cf1190a867154e41031d10f44e2bfe5e9b",
     "documents": [
       {
@@ -42371,7 +42389,7 @@
     "agenda_published": true,
     "agenda_status_note": "The items below were read automatically from the county's agenda PDF, which has no machine-readable structure. Numbering follows the PDF, but nesting and any item the extractor could not read are not shown. The PDF linked below is the complete document.",
     "agenda_derived_from_pdf": true,
-    "fetched_at": "2026-11-15T12:52:19-05:00",
+    "fetched_at": "2026-11-16T16:07:55-05:00",
     "content_hash": "406d037a40958d6372830d835dbe6ad1c6523457d96e77c490bffc6eaa0a4ffe",
     "documents": [
       {
@@ -42841,7 +42859,7 @@
     "agenda_published": true,
     "agenda_status_note": "The county published this agenda only as a PDF, and no numbered items could be read from it. Use the PDF link below.",
     "agenda_derived_from_pdf": false,
-    "fetched_at": "2026-11-15T12:52:19-05:00",
+    "fetched_at": "2026-11-16T16:07:55-05:00",
     "content_hash": "f4e6dd8a01e2a17bf8ad1ce7f48780a56ab262b42251b4d0e96dc9ced8227d3c",
     "documents": [
       {
@@ -42921,7 +42939,7 @@
     "agenda_published": true,
     "agenda_status_note": null,
     "agenda_derived_from_pdf": false,
-    "fetched_at": "2026-11-15T12:52:19-05:00",
+    "fetched_at": "2026-11-16T16:07:55-05:00",
     "content_hash": "247815c282b501c2ac63cd52aa7ac178a36d5e6fc843027b72c419d0c29aff07",
     "documents": [
       {
@@ -44206,7 +44224,7 @@
     "agenda_published": true,
     "agenda_status_note": "The county published this agenda only as a PDF, and no numbered items could be read from it. Use the PDF link below.",
     "agenda_derived_from_pdf": false,
-    "fetched_at": "2026-11-15T12:52:19-05:00",
+    "fetched_at": "2026-11-16T16:07:55-05:00",
     "content_hash": "a3be125154f27711f30b4fe926c0d3253f442f5a6d3df842beb2f0c5f6310dbe",
     "documents": [
       {
@@ -44268,7 +44286,7 @@
     "agenda_published": true,
     "agenda_status_note": "The items below were read automatically from the county's agenda PDF, which has no machine-readable structure. Numbering follows the PDF, but nesting and any item the extractor could not read are not shown. The PDF linked below is the complete document.",
     "agenda_derived_from_pdf": true,
-    "fetched_at": "2026-11-15T12:52:19-05:00",
+    "fetched_at": "2026-11-16T16:07:55-05:00",
     "content_hash": "21fc37296c0675af870d8c7ef82e777a99e5ac7b967cb577f09699d5ed92e5ff",
     "documents": [
       {
@@ -44440,7 +44458,7 @@
     "agenda_published": true,
     "agenda_status_note": "The items below were read automatically from the county's agenda PDF, which has no machine-readable structure. Numbering follows the PDF, but nesting and any item the extractor could not read are not shown. The PDF linked below is the complete document.",
     "agenda_derived_from_pdf": true,
-    "fetched_at": "2026-11-15T12:52:19-05:00",
+    "fetched_at": "2026-11-16T16:07:55-05:00",
     "content_hash": "f17c1bb5567ec2e8dafc650999383bc077a43cda403e3219f8312f20d006a022",
     "documents": [
       {
@@ -45616,7 +45634,7 @@
     "agenda_published": true,
     "agenda_status_note": "The items below were read automatically from the county's agenda PDF, which has no machine-readable structure. Numbering follows the PDF, but nesting and any item the extractor could not read are not shown. The PDF linked below is the complete document.",
     "agenda_derived_from_pdf": true,
-    "fetched_at": "2026-11-15T12:52:19-05:00",
+    "fetched_at": "2026-11-16T16:07:55-05:00",
     "content_hash": "4648cf86e9938fc7e85b359de42ea5a49800688403531f10630e0a6e9bc1d66c",
     "documents": [
       {
@@ -45950,7 +45968,7 @@
     "agenda_published": true,
     "agenda_status_note": "The items below were read automatically from the county's agenda PDF, which has no machine-readable structure. Numbering follows the PDF, but nesting and any item the extractor could not read are not shown. The PDF linked below is the complete document.",
     "agenda_derived_from_pdf": true,
-    "fetched_at": "2026-11-15T12:52:19-05:00",
+    "fetched_at": "2026-11-16T16:07:55-05:00",
     "content_hash": "39ca23b04950731b374afccff2a81115026825389e185fa62fd65fb825872272",
     "documents": [
       {
@@ -46038,7 +46056,7 @@
     "agenda_published": true,
     "agenda_status_note": "The items below were read automatically from the county's agenda PDF, which has no machine-readable structure. Numbering follows the PDF, but nesting and any item the extractor could not read are not shown. The PDF linked below is the complete document.",
     "agenda_derived_from_pdf": true,
-    "fetched_at": "2026-11-15T12:52:19-05:00",
+    "fetched_at": "2026-11-16T16:07:55-05:00",
     "content_hash": "25ce2a22dbdb35072b335e6014823d8147da4d16849686fa5315d731db29b69a",
     "documents": [
       {
@@ -46143,7 +46161,7 @@
     "agenda_published": true,
     "agenda_status_note": "The items below were read automatically from the county's agenda PDF, which has no machine-readable structure. Numbering follows the PDF, but nesting and any item the extractor could not read are not shown. The PDF linked below is the complete document.",
     "agenda_derived_from_pdf": true,
-    "fetched_at": "2026-11-15T12:52:19-05:00",
+    "fetched_at": "2026-11-16T16:07:55-05:00",
     "content_hash": "2b9b21a038a21fd111e6736507406d8dfdb290e0484e719b61d18d858a3dd10b",
     "documents": [
       {
@@ -46350,7 +46368,7 @@
     "agenda_published": true,
     "agenda_status_note": "The items below were read automatically from the county's agenda PDF, which has no machine-readable structure. Numbering follows the PDF, but nesting and any item the extractor could not read are not shown. The PDF linked below is the complete document.",
     "agenda_derived_from_pdf": true,
-    "fetched_at": "2026-11-15T12:52:19-05:00",
+    "fetched_at": "2026-11-16T16:07:55-05:00",
     "content_hash": "f170f057c5242cad03a1a5b50d9642b6220d3f62f9f328b641f9a4b264abfe3b",
     "documents": [
       {
@@ -46558,7 +46576,7 @@
     "agenda_published": true,
     "agenda_status_note": null,
     "agenda_derived_from_pdf": false,
-    "fetched_at": "2026-11-15T12:52:19-05:00",
+    "fetched_at": "2026-11-16T16:07:55-05:00",
     "content_hash": "779689260a91e6413df6e2f1f69e3d277cd9a9c7094afff0e3ee872273eb7db5",
     "documents": [
       {
@@ -48617,7 +48635,7 @@
     "agenda_published": true,
     "agenda_status_note": "The items below were read automatically from the county's agenda PDF, which has no machine-readable structure. Numbering follows the PDF, but nesting and any item the extractor could not read are not shown. The PDF linked below is the complete document.",
     "agenda_derived_from_pdf": true,
-    "fetched_at": "2026-11-15T12:52:19-05:00",
+    "fetched_at": "2026-11-16T16:07:55-05:00",
     "content_hash": "053169e0830be31e8c191d514498a9febdb3b7f13206e9df10ffe89872f48cb7",
     "documents": [
       {
@@ -48860,7 +48878,7 @@
     "agenda_published": true,
     "agenda_status_note": "The items below were read automatically from the county's agenda PDF, which has no machine-readable structure. Numbering follows the PDF, but nesting and any item the extractor could not read are not shown. The PDF linked below is the complete document.",
     "agenda_derived_from_pdf": true,
-    "fetched_at": "2026-11-15T12:52:19-05:00",
+    "fetched_at": "2026-11-16T16:07:55-05:00",
     "content_hash": "8f3aeaf3223143422b06f8eec9e6b917a526c293217afc6c234f2c7afbb9a10a",
     "documents": [
       {
@@ -49312,7 +49330,7 @@
     "agenda_published": true,
     "agenda_status_note": null,
     "agenda_derived_from_pdf": false,
-    "fetched_at": "2026-11-15T12:52:19-05:00",
+    "fetched_at": "2026-11-16T16:07:55-05:00",
     "content_hash": "1c8827abdf43d88bd0d1a6493e6843e082b5ab1fe5cfe786d6b1c811a7aef24f",
     "documents": [
       {
@@ -50832,7 +50850,7 @@
     "agenda_published": true,
     "agenda_status_note": "The items below were read automatically from the county's agenda PDF, which has no machine-readable structure. Numbering follows the PDF, but nesting and any item the extractor could not read are not shown. The PDF linked below is the complete document.",
     "agenda_derived_from_pdf": true,
-    "fetched_at": "2026-11-15T12:52:19-05:00",
+    "fetched_at": "2026-11-16T16:07:55-05:00",
     "content_hash": "0bf94376f27f8cc3425f2a438a31fdc1e62b33638919a7af33ddecd99fa5f4fc",
     "documents": [
       {
@@ -51023,7 +51041,7 @@
     "agenda_published": false,
     "agenda_status_note": null,
     "agenda_derived_from_pdf": false,
-    "fetched_at": "2026-11-15T12:52:19-05:00",
+    "fetched_at": "2026-11-16T16:07:55-05:00",
     "content_hash": "75ff8a54918759f84dc563b50e5ac30ac982e05ccf32567d44f1c1d5c2684a09",
     "documents": [],
     "items": []
@@ -51048,7 +51066,7 @@
     "agenda_published": false,
     "agenda_status_note": null,
     "agenda_derived_from_pdf": false,
-    "fetched_at": "2026-11-15T12:52:19-05:00",
+    "fetched_at": "2026-11-16T16:07:55-05:00",
     "content_hash": "72db35da7f5411508f3d5dc0d51ef9deb79a0766f858114005b4fdccf4aae5de",
     "documents": [
       {
@@ -51083,7 +51101,7 @@
     "agenda_published": true,
     "agenda_status_note": "The items below were read automatically from the county's agenda PDF, which has no machine-readable structure. Numbering follows the PDF, but nesting and any item the extractor could not read are not shown. The PDF linked below is the complete document.",
     "agenda_derived_from_pdf": true,
-    "fetched_at": "2026-11-15T12:52:19-05:00",
+    "fetched_at": "2026-11-16T16:07:55-05:00",
     "content_hash": "7ecf289af47685c7c941e261ee84743f2daa77a17f849327c30632cee1c9bed7",
     "documents": [
       {
@@ -51349,7 +51367,7 @@
     "agenda_published": false,
     "agenda_status_note": null,
     "agenda_derived_from_pdf": false,
-    "fetched_at": "2026-11-15T12:52:19-05:00",
+    "fetched_at": "2026-11-16T16:07:55-05:00",
     "content_hash": "63052d6d6f56a42fcaca37c6e18d1933b8ef9c5fd046af600472267ebe6483b3",
     "documents": [
       {
@@ -51384,7 +51402,7 @@
     "agenda_published": true,
     "agenda_status_note": "The items below were read automatically from the county's agenda PDF, which has no machine-readable structure. Numbering follows the PDF, but nesting and any item the extractor could not read are not shown. The PDF linked below is the complete document.",
     "agenda_derived_from_pdf": true,
-    "fetched_at": "2026-11-15T12:52:19-05:00",
+    "fetched_at": "2026-11-16T16:07:55-05:00",
     "content_hash": "a257a9a27049c7afb84c87986416393c40fa8e33fc2136b5bf1e571839a4d392",
     "documents": [
       {
@@ -51562,7 +51580,7 @@
     "date": "2026-11-16",
     "start_time": "16:00",
     "start_iso": "2026-11-16T16:00:00-05:00",
-    "location": null,
+    "location": "Voter Registrations & Elections",
     "sources": [
       "county"
     ],
@@ -51574,8 +51592,8 @@
     "agenda_published": true,
     "agenda_status_note": "The items below were read automatically from the county's agenda PDF, which has no machine-readable structure. Numbering follows the PDF, but nesting and any item the extractor could not read are not shown. The PDF linked below is the complete document.",
     "agenda_derived_from_pdf": true,
-    "fetched_at": "2026-11-15T12:52:19-05:00",
-    "content_hash": "673652f5f54b191333e654e572fec7a8881a174b29f2d7d5483fc73680a39e45",
+    "fetched_at": "2026-11-16T16:07:55-05:00",
+    "content_hash": "8c4b944b13004289a1122160ca414727207bc9b7849d75f9ef0cdc4ba4944169",
     "documents": [
       {
         "label": "Public Notice 11.16.26 PDF",
@@ -51740,7 +51758,7 @@
     "agenda_published": true,
     "agenda_status_note": "The county published this agenda only as a PDF, and no numbered items could be read from it. Use the PDF link below.",
     "agenda_derived_from_pdf": false,
-    "fetched_at": "2026-11-15T12:52:19-05:00",
+    "fetched_at": "2026-11-16T16:07:55-05:00",
     "content_hash": "4804cdf71e3540337398ac197661b5c034f84b3d84ec674b6e9c73a6e8d49fe2",
     "documents": [
       {
@@ -51759,6 +51777,485 @@
         "source": "county",
         "machine_readable": true,
         "content_type": null,
+        "size_bytes": null
+      }
+    ],
+    "items": []
+  },
+  {
+    "slug": "2026-11-17-cumming-city-council-regular-meeting",
+    "body": "Cumming City Council",
+    "meeting_type": "Regular Meeting",
+    "title": "Cumming City Council Regular Meeting",
+    "date": "2026-11-17",
+    "start_time": null,
+    "start_iso": null,
+    "location": "Cumming City Hall",
+    "sources": [
+      "cumming"
+    ],
+    "civicclerk_event_id": null,
+    "civicclerk_agenda_id": null,
+    "county_meeting_id": null,
+    "county_url": "https://www.cityofcumming.net/city-council-agendas-and-meeting-minutes",
+    "portal_url": null,
+    "agenda_published": true,
+    "agenda_status_note": "The items below were read automatically from the county's agenda PDF, which has no machine-readable structure. Numbering follows the PDF, but nesting and any item the extractor could not read are not shown. The PDF linked below is the complete document.",
+    "agenda_derived_from_pdf": true,
+    "fetched_at": "2026-11-16T16:07:55-05:00",
+    "content_hash": "306ae7a8c8a6ccd07e31620f07aa398cc94d7f4f208d27d5acc83697a064a19f",
+    "documents": [
+      {
+        "label": "Agenda (2026-11-17)",
+        "url": "https://www.cityofcumming.net/wp-content/uploads/2026/11/Agenda-November-17-2026-Regular-meeting-1.pdf",
+        "kind": "agenda",
+        "source": "cumming",
+        "machine_readable": true,
+        "content_type": "application/pdf",
+        "size_bytes": null
+      }
+    ],
+    "items": [
+      {
+        "number": "I",
+        "outline_path": "I",
+        "title": "Call Meeting to Order – Troy Brumbalow, Mayor",
+        "level": 0,
+        "source_item_id": null,
+        "fiscal_impact": null,
+        "attachments": [],
+        "under_consent": false,
+        "consent_reason": null,
+        "dollar_amounts": [],
+        "large_dollar": false,
+        "long_term": false,
+        "long_term_reason": null,
+        "topics": [],
+        "children": []
+      },
+      {
+        "number": "III",
+        "outline_path": "III",
+        "title": "Pledge to the Flag",
+        "level": 0,
+        "source_item_id": null,
+        "fiscal_impact": null,
+        "attachments": [],
+        "under_consent": false,
+        "consent_reason": null,
+        "dollar_amounts": [],
+        "large_dollar": false,
+        "long_term": false,
+        "long_term_reason": null,
+        "topics": [],
+        "children": []
+      },
+      {
+        "number": "IV",
+        "outline_path": "IV",
+        "title": "Consider Agenda for Adoption",
+        "level": 0,
+        "source_item_id": null,
+        "fiscal_impact": null,
+        "attachments": [],
+        "under_consent": false,
+        "consent_reason": null,
+        "dollar_amounts": [],
+        "large_dollar": false,
+        "long_term": false,
+        "long_term_reason": null,
+        "topics": [],
+        "children": []
+      },
+      {
+        "number": "V",
+        "outline_path": "V",
+        "title": "Consider for Adoption the Following Meeting Minutes:",
+        "level": 0,
+        "source_item_id": null,
+        "fiscal_impact": null,
+        "attachments": [],
+        "under_consent": false,
+        "consent_reason": null,
+        "dollar_amounts": [],
+        "large_dollar": false,
+        "long_term": false,
+        "long_term_reason": null,
+        "topics": [],
+        "children": []
+      },
+      {
+        "number": "1",
+        "outline_path": "1",
+        "title": "Work Session Meeting of November 3, 2026.",
+        "level": 0,
+        "source_item_id": null,
+        "fiscal_impact": null,
+        "attachments": [],
+        "under_consent": false,
+        "consent_reason": null,
+        "dollar_amounts": [],
+        "large_dollar": false,
+        "long_term": false,
+        "long_term_reason": null,
+        "topics": [],
+        "children": []
+      },
+      {
+        "number": "VI",
+        "outline_path": "VI",
+        "title": "Acknowledgements, Proclamations, Resolutions, etc.",
+        "level": 0,
+        "source_item_id": null,
+        "fiscal_impact": null,
+        "attachments": [],
+        "under_consent": false,
+        "consent_reason": null,
+        "dollar_amounts": [],
+        "large_dollar": false,
+        "long_term": false,
+        "long_term_reason": null,
+        "topics": [],
+        "children": []
+      },
+      {
+        "number": "A",
+        "outline_path": "A",
+        "title": "National American Indian Heritage Month.",
+        "level": 0,
+        "source_item_id": null,
+        "fiscal_impact": null,
+        "attachments": [],
+        "under_consent": false,
+        "consent_reason": null,
+        "dollar_amounts": [],
+        "large_dollar": false,
+        "long_term": false,
+        "long_term_reason": null,
+        "topics": [],
+        "children": []
+      },
+      {
+        "number": "B",
+        "outline_path": "B",
+        "title": "Homeless Youth Outreach, Prevention and Education Month.",
+        "level": 0,
+        "source_item_id": null,
+        "fiscal_impact": null,
+        "attachments": [],
+        "under_consent": false,
+        "consent_reason": null,
+        "dollar_amounts": [],
+        "large_dollar": false,
+        "long_term": false,
+        "long_term_reason": null,
+        "topics": [],
+        "children": []
+      },
+      {
+        "number": "C",
+        "outline_path": "C",
+        "title": "Nourish Initiatives.",
+        "level": 0,
+        "source_item_id": null,
+        "fiscal_impact": null,
+        "attachments": [],
+        "under_consent": false,
+        "consent_reason": null,
+        "dollar_amounts": [],
+        "large_dollar": false,
+        "long_term": false,
+        "long_term_reason": null,
+        "topics": [],
+        "children": []
+      },
+      {
+        "number": "VII",
+        "outline_path": "VII",
+        "title": "Old Business",
+        "level": 0,
+        "source_item_id": null,
+        "fiscal_impact": null,
+        "attachments": [],
+        "under_consent": false,
+        "consent_reason": null,
+        "dollar_amounts": [],
+        "large_dollar": false,
+        "long_term": false,
+        "long_term_reason": null,
+        "topics": [],
+        "children": []
+      },
+      {
+        "number": "A",
+        "outline_path": "A",
+        "title": "Planning and Zoning",
+        "level": 0,
+        "source_item_id": null,
+        "fiscal_impact": null,
+        "attachments": [],
+        "under_consent": false,
+        "consent_reason": null,
+        "dollar_amounts": [],
+        "large_dollar": false,
+        "long_term": false,
+        "long_term_reason": null,
+        "topics": [],
+        "children": []
+      },
+      {
+        "number": "1",
+        "outline_path": "1",
+        "title": "Amendment to Zoning Ordinance (Public Hearing).",
+        "level": 0,
+        "source_item_id": null,
+        "fiscal_impact": null,
+        "attachments": [],
+        "under_consent": false,
+        "consent_reason": null,
+        "dollar_amounts": [],
+        "large_dollar": false,
+        "long_term": false,
+        "long_term_reason": null,
+        "topics": [],
+        "children": []
+      },
+      {
+        "number": "VIII",
+        "outline_path": "VIII",
+        "title": "New Business.",
+        "level": 0,
+        "source_item_id": null,
+        "fiscal_impact": null,
+        "attachments": [],
+        "under_consent": false,
+        "consent_reason": null,
+        "dollar_amounts": [],
+        "large_dollar": false,
+        "long_term": false,
+        "long_term_reason": null,
+        "topics": [],
+        "children": []
+      },
+      {
+        "number": "A",
+        "outline_path": "A",
+        "title": "Administration",
+        "level": 0,
+        "source_item_id": null,
+        "fiscal_impact": null,
+        "attachments": [],
+        "under_consent": false,
+        "consent_reason": null,
+        "dollar_amounts": [],
+        "large_dollar": false,
+        "long_term": false,
+        "long_term_reason": null,
+        "topics": [],
+        "children": []
+      },
+      {
+        "number": "1",
+        "outline_path": "1",
+        "title": "2027 Budget.",
+        "level": 0,
+        "source_item_id": null,
+        "fiscal_impact": null,
+        "attachments": [],
+        "under_consent": false,
+        "consent_reason": null,
+        "dollar_amounts": [],
+        "large_dollar": false,
+        "long_term": false,
+        "long_term_reason": null,
+        "topics": [],
+        "children": []
+      },
+      {
+        "number": "B",
+        "outline_path": "B",
+        "title": "Planning and Zoning",
+        "level": 0,
+        "source_item_id": null,
+        "fiscal_impact": null,
+        "attachments": [],
+        "under_consent": false,
+        "consent_reason": null,
+        "dollar_amounts": [],
+        "large_dollar": false,
+        "long_term": false,
+        "long_term_reason": null,
+        "topics": [],
+        "children": []
+      },
+      {
+        "number": "1",
+        "outline_path": "1",
+        "title": "Application for Zoning Condition Amendment #2019363 - DG Holdings, LLC. (Public Hearing).",
+        "level": 0,
+        "source_item_id": null,
+        "fiscal_impact": null,
+        "attachments": [],
+        "under_consent": false,
+        "consent_reason": null,
+        "dollar_amounts": [],
+        "large_dollar": false,
+        "long_term": false,
+        "long_term_reason": null,
+        "topics": [],
+        "children": []
+      },
+      {
+        "number": "2",
+        "outline_path": "2",
+        "title": "Amendment to Ordinance - Demolition Fee.",
+        "level": 0,
+        "source_item_id": null,
+        "fiscal_impact": null,
+        "attachments": [],
+        "under_consent": false,
+        "consent_reason": null,
+        "dollar_amounts": [],
+        "large_dollar": false,
+        "long_term": false,
+        "long_term_reason": null,
+        "topics": [],
+        "children": []
+      },
+      {
+        "number": "3",
+        "outline_path": "3",
+        "title": "2027 Alcohol License Renewals.",
+        "level": 0,
+        "source_item_id": null,
+        "fiscal_impact": null,
+        "attachments": [],
+        "under_consent": false,
+        "consent_reason": null,
+        "dollar_amounts": [],
+        "large_dollar": false,
+        "long_term": false,
+        "long_term_reason": null,
+        "topics": [],
+        "children": []
+      },
+      {
+        "number": "C",
+        "outline_path": "C",
+        "title": "Cumming Police Department",
+        "level": 0,
+        "source_item_id": null,
+        "fiscal_impact": null,
+        "attachments": [],
+        "under_consent": false,
+        "consent_reason": null,
+        "dollar_amounts": [],
+        "large_dollar": false,
+        "long_term": false,
+        "long_term_reason": null,
+        "topics": [],
+        "children": []
+      },
+      {
+        "number": "1",
+        "outline_path": "1",
+        "title": "Request to Purchase - Two Patrol Vehicles.",
+        "level": 0,
+        "source_item_id": null,
+        "fiscal_impact": null,
+        "attachments": [],
+        "under_consent": false,
+        "consent_reason": null,
+        "dollar_amounts": [],
+        "large_dollar": false,
+        "long_term": false,
+        "long_term_reason": null,
+        "topics": [],
+        "children": []
+      },
+      {
+        "number": "IX",
+        "outline_path": "IX",
+        "title": "Announcements",
+        "level": 0,
+        "source_item_id": null,
+        "fiscal_impact": null,
+        "attachments": [],
+        "under_consent": false,
+        "consent_reason": null,
+        "dollar_amounts": [],
+        "large_dollar": false,
+        "long_term": false,
+        "long_term_reason": null,
+        "topics": [],
+        "children": []
+      },
+      {
+        "number": "A",
+        "outline_path": "A",
+        "title": "All non-essential City of Cumming departments and facilities will be closed for Thanksgiving on",
+        "level": 0,
+        "source_item_id": null,
+        "fiscal_impact": null,
+        "attachments": [],
+        "under_consent": false,
+        "consent_reason": null,
+        "dollar_amounts": [],
+        "large_dollar": false,
+        "long_term": false,
+        "long_term_reason": null,
+        "topics": [],
+        "children": []
+      },
+      {
+        "number": "X",
+        "outline_path": "X",
+        "title": "Executive Session (If Needed)",
+        "level": 0,
+        "source_item_id": null,
+        "fiscal_impact": null,
+        "attachments": [],
+        "under_consent": false,
+        "consent_reason": null,
+        "dollar_amounts": [],
+        "large_dollar": false,
+        "long_term": false,
+        "long_term_reason": null,
+        "topics": [],
+        "children": []
+      }
+    ]
+  },
+  {
+    "slug": "2026-11-17-cumming-planning-board",
+    "body": "Cumming Planning Board",
+    "meeting_type": null,
+    "title": "Cumming Planning Board",
+    "date": "2026-11-17",
+    "start_time": null,
+    "start_iso": null,
+    "location": "Cumming City Hall",
+    "sources": [
+      "cumming"
+    ],
+    "civicclerk_event_id": null,
+    "civicclerk_agenda_id": null,
+    "county_meeting_id": null,
+    "county_url": "https://www.cityofcumming.net/planning-board-agendas-and-meeting-minutes",
+    "portal_url": null,
+    "agenda_published": true,
+    "agenda_status_note": "The county published this agenda only as a PDF, and no numbered items could be read from it. Use the PDF link below.",
+    "agenda_derived_from_pdf": false,
+    "fetched_at": "2026-11-16T16:07:55-05:00",
+    "content_hash": "2da9b331f8ba6631aba8bbd2d65f98eaf88021fffde447308c00746a13b19914",
+    "documents": [
+      {
+        "label": "Agenda (2026-11-17)",
+        "url": "https://www.cityofcumming.net/wp-content/uploads/2026/11/Planning-Agenda-Nov-17-26.pdf",
+        "kind": "agenda",
+        "source": "cumming",
+        "machine_readable": true,
+        "content_type": "application/pdf",
         "size_bytes": null
       }
     ],
@@ -51819,7 +52316,7 @@
     "agenda_published": true,
     "agenda_status_note": "The items below were read automatically from the county's agenda PDF, which has no machine-readable structure. Numbering follows the PDF, but nesting and any item the extractor could not read are not shown. The PDF linked below is the complete document.",
     "agenda_derived_from_pdf": true,
-    "fetched_at": "2026-11-15T12:52:19-05:00",
+    "fetched_at": "2026-11-16T16:07:55-05:00",
     "content_hash": "ae6c2df6a6e8e4665690f545030298c137b43ee73a1a03f5eed66cc99d1db0c6",
     "documents": [
       {
@@ -52782,12 +53279,12 @@
     "agenda_published": false,
     "agenda_status_note": null,
     "agenda_derived_from_pdf": false,
-    "fetched_at": "2026-11-15T12:52:19-05:00",
-    "content_hash": "131a2c712b4899c52c6d43ce2b43c71c7c5b2c8af54dedf3ce19864a43025c22",
+    "fetched_at": "2026-11-16T16:07:55-05:00",
+    "content_hash": "f2e293eb527b7ea43634e2791150d18ed783b715fb9361475fbb7a6aec381482",
     "documents": [
       {
         "label": "Public Notice PDF",
-        "url": "https://www.forsythco.com/app/uploads/2026/11/11.18.26_PublicNotice.pdf",
+        "url": "https://www.forsythco.com/app/uploads/2026/11/11.18.26_PublicNotice-1.pdf",
         "kind": "notice",
         "source": "county",
         "machine_readable": true,
@@ -52807,19 +53304,38 @@
     "start_iso": "2026-11-19T17:00:00-05:00",
     "location": "Board of Commissioners Building",
     "sources": [
+      "civicclerk",
       "county"
     ],
-    "civicclerk_event_id": null,
-    "civicclerk_agenda_id": null,
+    "civicclerk_event_id": 462,
+    "civicclerk_agenda_id": 396,
     "county_meeting_id": 17576,
     "county_url": "https://www.forsythco.com/meetings/board-of-commissioners-regular-meeting-public-hearings-9/",
-    "portal_url": null,
-    "agenda_published": false,
+    "portal_url": "https://forsythcoga.portal.civicclerk.com/event/462/files/agenda/5419",
+    "agenda_published": true,
     "agenda_status_note": null,
     "agenda_derived_from_pdf": false,
-    "fetched_at": "2026-11-15T12:52:19-05:00",
-    "content_hash": "dac96c56dfd4e32516b85408e2cb541a32bf376e9def5e0370aeb09add75333e",
+    "fetched_at": "2026-11-16T16:07:55-05:00",
+    "content_hash": "53b5f601f8a6a24446b5d81bc02d50f16e437efd958f2f42fb2073dcb445c7f5",
     "documents": [
+      {
+        "label": "Agenda PDF",
+        "url": "https://www.forsythco.com/app/uploads/2026/07/Agenda-11.19.2026-UA.pdf",
+        "kind": "agenda",
+        "source": "county",
+        "machine_readable": true,
+        "content_type": null,
+        "size_bytes": null
+      },
+      {
+        "label": "Agenda Packet LINK",
+        "url": "https://forsythcoga.portal.civicclerk.com/event/462/files/agenda/5419",
+        "kind": "portal",
+        "source": "county",
+        "machine_readable": false,
+        "content_type": null,
+        "size_bytes": null
+      },
       {
         "label": "Public Notice PDF",
         "url": "https://www.forsythco.com/app/uploads/2026/07/11.19.2026-Public-Notice-UA.pdf",
@@ -52828,9 +53344,2960 @@
         "machine_readable": true,
         "content_type": null,
         "size_bytes": null
+      },
+      {
+        "label": "CivicClerk portal page for this meeting",
+        "url": "https://forsythcoga.portal.civicclerk.com/event/462/files",
+        "kind": "portal",
+        "source": "civicclerk",
+        "machine_readable": false,
+        "content_type": null,
+        "size_bytes": null
+      },
+      {
+        "label": "Agenda 11.19.2026",
+        "url": "https://forsythcoga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=5419,plainText=false)",
+        "kind": "agenda",
+        "source": "civicclerk",
+        "machine_readable": true,
+        "content_type": "application/pdf",
+        "size_bytes": null
+      },
+      {
+        "label": "Agenda 11.19.2026 (plain text)",
+        "url": "https://forsythcoga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=5419,plainText=true)",
+        "kind": "transcript",
+        "source": "civicclerk",
+        "machine_readable": true,
+        "content_type": "text/plain",
+        "size_bytes": null
+      },
+      {
+        "label": "Agenda Packet 11.19.2026",
+        "url": "https://forsythcoga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=5423,plainText=false)",
+        "kind": "packet",
+        "source": "civicclerk",
+        "machine_readable": true,
+        "content_type": "application/pdf",
+        "size_bytes": null
       }
     ],
-    "items": []
+    "items": [
+      {
+        "number": "I",
+        "outline_path": "I",
+        "title": "Call Meeting to Order",
+        "level": 0,
+        "source_item_id": 18062,
+        "fiscal_impact": null,
+        "attachments": [],
+        "under_consent": false,
+        "consent_reason": null,
+        "dollar_amounts": [],
+        "large_dollar": false,
+        "long_term": false,
+        "long_term_reason": null,
+        "topics": [],
+        "children": []
+      },
+      {
+        "number": "II",
+        "outline_path": "II",
+        "title": "Invocation and Pledge of Allegiance",
+        "level": 0,
+        "source_item_id": 18063,
+        "fiscal_impact": null,
+        "attachments": [],
+        "under_consent": false,
+        "consent_reason": null,
+        "dollar_amounts": [],
+        "large_dollar": false,
+        "long_term": false,
+        "long_term_reason": null,
+        "topics": [],
+        "children": []
+      },
+      {
+        "number": "III",
+        "outline_path": "III",
+        "title": "Adoption of Agenda",
+        "level": 0,
+        "source_item_id": 18064,
+        "fiscal_impact": null,
+        "attachments": [],
+        "under_consent": false,
+        "consent_reason": null,
+        "dollar_amounts": [],
+        "large_dollar": false,
+        "long_term": false,
+        "long_term_reason": null,
+        "topics": [],
+        "children": []
+      },
+      {
+        "number": "IV",
+        "outline_path": "IV",
+        "title": "Announcements and Reports",
+        "level": 0,
+        "source_item_id": 18065,
+        "fiscal_impact": null,
+        "attachments": [],
+        "under_consent": false,
+        "consent_reason": null,
+        "dollar_amounts": [],
+        "large_dollar": false,
+        "long_term": false,
+        "long_term_reason": null,
+        "topics": [],
+        "children": [
+          {
+            "number": "1",
+            "outline_path": "IV.1",
+            "title": "Board recognition of the Forsyth County Parks and Recreation Department 2026 Georgia Recreation & Parks District 7 Agency of the Year for population 80,000+ award - Director, Department of Parks and Recreation",
+            "level": 1,
+            "source_item_id": 21297,
+            "fiscal_impact": null,
+            "attachments": [],
+            "under_consent": false,
+            "consent_reason": null,
+            "dollar_amounts": [],
+            "large_dollar": false,
+            "long_term": false,
+            "long_term_reason": null,
+            "topics": [],
+            "children": []
+          },
+          {
+            "number": "2",
+            "outline_path": "IV.2",
+            "title": "Board presentation of a Proclamation recognizing the Forsyth County Public Library System's 30th anniversary - Moore / Semanson",
+            "level": 1,
+            "source_item_id": 21303,
+            "fiscal_impact": null,
+            "attachments": [
+              {
+                "label": "11.19.26 FCPL 30th Anniversary",
+                "url": "https://forsythcoga.api.civicclerk.com/v1/Meetings/GetAttachmentFile(fileId=38329)",
+                "kind": "attachment",
+                "source": "civicclerk",
+                "machine_readable": true,
+                "content_type": "application/pdf",
+                "size_bytes": 105991
+              }
+            ],
+            "under_consent": false,
+            "consent_reason": null,
+            "dollar_amounts": [],
+            "large_dollar": false,
+            "long_term": false,
+            "long_term_reason": null,
+            "topics": [],
+            "children": []
+          }
+        ]
+      },
+      {
+        "number": "V",
+        "outline_path": "V",
+        "title": "Public Comments",
+        "level": 0,
+        "source_item_id": 18059,
+        "fiscal_impact": null,
+        "attachments": [],
+        "under_consent": false,
+        "consent_reason": null,
+        "dollar_amounts": [],
+        "large_dollar": false,
+        "long_term": false,
+        "long_term_reason": null,
+        "topics": [],
+        "children": []
+      },
+      {
+        "number": "VI",
+        "outline_path": "VI",
+        "title": "Adoption of Minutes",
+        "level": 0,
+        "source_item_id": 18066,
+        "fiscal_impact": null,
+        "attachments": [],
+        "under_consent": false,
+        "consent_reason": null,
+        "dollar_amounts": [],
+        "large_dollar": false,
+        "long_term": false,
+        "long_term_reason": null,
+        "topics": [],
+        "children": [
+          {
+            "number": "1",
+            "outline_path": "VI.1",
+            "title": "Regular Meeting / Public Hearings of November 5, 2026 - County Clerk",
+            "level": 1,
+            "source_item_id": 21364,
+            "fiscal_impact": null,
+            "attachments": [],
+            "under_consent": false,
+            "consent_reason": null,
+            "dollar_amounts": [],
+            "large_dollar": false,
+            "long_term": false,
+            "long_term_reason": null,
+            "topics": [],
+            "children": []
+          },
+          {
+            "number": "2",
+            "outline_path": "VI.2",
+            "title": "Work Session and Executive Session of November 10, 2026 - County Clerk",
+            "level": 1,
+            "source_item_id": 21365,
+            "fiscal_impact": null,
+            "attachments": [],
+            "under_consent": false,
+            "consent_reason": null,
+            "dollar_amounts": [],
+            "large_dollar": false,
+            "long_term": false,
+            "long_term_reason": null,
+            "topics": [],
+            "children": []
+          }
+        ]
+      },
+      {
+        "number": "VII",
+        "outline_path": "VII",
+        "title": "Consent Agenda",
+        "level": 0,
+        "source_item_id": 18067,
+        "fiscal_impact": null,
+        "attachments": [],
+        "under_consent": false,
+        "consent_reason": null,
+        "dollar_amounts": [],
+        "large_dollar": false,
+        "long_term": false,
+        "long_term_reason": null,
+        "topics": [],
+        "children": [
+          {
+            "number": "1",
+            "outline_path": "VII.1",
+            "title": "Board acceptance of Right of Way as County-maintained with a speed limit of 25MPH on Santiago Blvd., Maggiore Lane and all other property and property rights as shown on the Subdivision Plat for Hemingway Farm Phase 3A, recorded in Plat Book 227, Pages 75-85, Forsyth County, Georgia records - District 4 - Director Department of Engineering",
+            "level": 1,
+            "source_item_id": 21315,
+            "fiscal_impact": null,
+            "attachments": [
+              {
+                "label": "Hemingway Farm Ph3A",
+                "url": "https://forsythcoga.api.civicclerk.com/v1/Meetings/GetAttachmentFile(fileId=37956)",
+                "kind": "attachment",
+                "source": "civicclerk",
+                "machine_readable": true,
+                "content_type": "application/pdf",
+                "size_bytes": 62692
+              }
+            ],
+            "under_consent": true,
+            "consent_reason": "Consent Agenda",
+            "dollar_amounts": [],
+            "large_dollar": false,
+            "long_term": false,
+            "long_term_reason": null,
+            "topics": [],
+            "children": []
+          },
+          {
+            "number": "2",
+            "outline_path": "VII.2",
+            "title": "Board adoption of a Proclamation recognizing the Forsyth County Public Library System's 30th anniversary - Moore / Semanson",
+            "level": 1,
+            "source_item_id": 21304,
+            "fiscal_impact": null,
+            "attachments": [],
+            "under_consent": true,
+            "consent_reason": "Consent Agenda",
+            "dollar_amounts": [],
+            "large_dollar": false,
+            "long_term": false,
+            "long_term_reason": null,
+            "topics": [],
+            "children": []
+          },
+          {
+            "number": "3",
+            "outline_path": "VII.3",
+            "title": "Board adoption of a Proclamation recognizing Deputy Anderson John for service to be presented on November 21, 2026 - Moore / Semanson",
+            "level": 1,
+            "source_item_id": 21349,
+            "fiscal_impact": null,
+            "attachments": [
+              {
+                "label": "11.21.26 Deputy Anderson John",
+                "url": "https://forsythcoga.api.civicclerk.com/v1/Meetings/GetAttachmentFile(fileId=38322)",
+                "kind": "attachment",
+                "source": "civicclerk",
+                "machine_readable": true,
+                "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                "size_bytes": 29073
+              }
+            ],
+            "under_consent": true,
+            "consent_reason": "Consent Agenda",
+            "dollar_amounts": [],
+            "large_dollar": false,
+            "long_term": false,
+            "long_term_reason": null,
+            "topics": [],
+            "children": []
+          },
+          {
+            "number": "4",
+            "outline_path": "VII.4",
+            "title": "Board Ratification of the following items that were discussed and voted on at the Work Session held on November 10, 2026 (as anticipated by Board Rule 1.07.01):",
+            "level": 1,
+            "source_item_id": 21362,
+            "fiscal_impact": null,
+            "attachments": [],
+            "under_consent": true,
+            "consent_reason": "Consent Agenda",
+            "dollar_amounts": [],
+            "large_dollar": false,
+            "long_term": false,
+            "long_term_reason": null,
+            "topics": [],
+            "children": [
+              {
+                "number": "A",
+                "outline_path": "VII.4.A",
+                "title": "Board approval to ratify an application for the United States Tennis Association (USTA) Adapted Tennis Program Grant in the amount of $1,500.00 with no match required to support the Therapeutic Recreation Adaptive Tennis Program – Director, Department of Parks and Recreation",
+                "level": 2,
+                "source_item_id": 21377,
+                "fiscal_impact": null,
+                "attachments": [
+                  {
+                    "label": "Grant Synopsis-FY27 USTA Adapted Tennis",
+                    "url": "https://forsythcoga.api.civicclerk.com/v1/Meetings/GetAttachmentFile(fileId=38245)",
+                    "kind": "attachment",
+                    "source": "civicclerk",
+                    "machine_readable": true,
+                    "content_type": "application/pdf",
+                    "size_bytes": 795647
+                  }
+                ],
+                "under_consent": true,
+                "consent_reason": "Consent Agenda",
+                "dollar_amounts": [
+                  1500
+                ],
+                "large_dollar": false,
+                "long_term": false,
+                "long_term_reason": null,
+                "topics": [],
+                "children": []
+              },
+              {
+                "number": "B",
+                "outline_path": "VII.4.B",
+                "title": "Board approval of a Task Order with United Pump and Controls, Inc. in the amount of $109,664.25 to provide services for the installation and implementation of FM Live under the Fuel Site Repairs As-Needed Agreement (26-41-3180) - Director, Department of Fleet and Environmental Services",
+                "level": 2,
+                "source_item_id": 21378,
+                "fiscal_impact": null,
+                "attachments": [
+                  {
+                    "label": "Forsyth County Fleet FM Live 2027 Task Order 10.30.26 - UPC Signed",
+                    "url": "https://forsythcoga.api.civicclerk.com/v1/Meetings/GetAttachmentFile(fileId=38246)",
+                    "kind": "attachment",
+                    "source": "civicclerk",
+                    "machine_readable": true,
+                    "content_type": "application/pdf",
+                    "size_bytes": 365946
+                  }
+                ],
+                "under_consent": true,
+                "consent_reason": "Consent Agenda",
+                "dollar_amounts": [
+                  109664
+                ],
+                "large_dollar": true,
+                "long_term": false,
+                "long_term_reason": null,
+                "topics": [],
+                "children": []
+              },
+              {
+                "number": "C",
+                "outline_path": "VII.4.C",
+                "title": "Board approval of the 5-Year Renewal Professional Services Agreement in the amount of $293,990.00 with Medical Priority Consultants, Inc. d/b/a Priority Dispatch - Director, Emergency Management Agency",
+                "level": 2,
+                "source_item_id": 21379,
+                "fiscal_impact": null,
+                "attachments": [
+                  {
+                    "label": "Medical Priority Services Agreement_2026 (final)",
+                    "url": "https://forsythcoga.api.civicclerk.com/v1/Meetings/GetAttachmentFile(fileId=38247)",
+                    "kind": "attachment",
+                    "source": "civicclerk",
+                    "machine_readable": true,
+                    "content_type": "application/pdf",
+                    "size_bytes": 1777491
+                  }
+                ],
+                "under_consent": true,
+                "consent_reason": "Consent Agenda",
+                "dollar_amounts": [
+                  293990
+                ],
+                "large_dollar": true,
+                "long_term": true,
+                "long_term_reason": "5-Year",
+                "topics": [],
+                "children": []
+              },
+              {
+                "number": "D",
+                "outline_path": "VII.4.D",
+                "title": "Board approval of Addendum No. 1 to the End User License Agreement between Everbridge, Inc. and Forsyth County in the amount of $141,280.08 - Director, Emergency Management Agency",
+                "level": 2,
+                "source_item_id": 21380,
+                "fiscal_impact": null,
+                "attachments": [
+                  {
+                    "label": "FoCo_Everbridge_Addendum and Exhibits - signed - signed",
+                    "url": "https://forsythcoga.api.civicclerk.com/v1/Meetings/GetAttachmentFile(fileId=38248)",
+                    "kind": "attachment",
+                    "source": "civicclerk",
+                    "machine_readable": true,
+                    "content_type": "application/pdf",
+                    "size_bytes": 1000490
+                  }
+                ],
+                "under_consent": true,
+                "consent_reason": "Consent Agenda",
+                "dollar_amounts": [
+                  141280
+                ],
+                "large_dollar": true,
+                "long_term": false,
+                "long_term_reason": null,
+                "topics": [],
+                "children": []
+              },
+              {
+                "number": "E",
+                "outline_path": "VII.4.E",
+                "title": "Board approval of the closeout for the Georgia Emergency Management and Homeland Security Agency's (GEMA/HS) #6 Grant for the Community Emergency Response Team (CERT), #39 and #49 for the Explosive Ordinance Disposal (EOD) Grant in the total amount of $85,466.96 – Chief of Staff, Sheriff’s Office",
+                "level": 2,
+                "source_item_id": 21381,
+                "fiscal_impact": null,
+                "attachments": [
+                  {
+                    "label": "Project #6 Closeout Forms",
+                    "url": "https://forsythcoga.api.civicclerk.com/v1/Meetings/GetAttachmentFile(fileId=38252)",
+                    "kind": "attachment",
+                    "source": "civicclerk",
+                    "machine_readable": true,
+                    "content_type": "application/pdf",
+                    "size_bytes": 302518
+                  },
+                  {
+                    "label": "Project #49 Closeout Forms",
+                    "url": "https://forsythcoga.api.civicclerk.com/v1/Meetings/GetAttachmentFile(fileId=38253)",
+                    "kind": "attachment",
+                    "source": "civicclerk",
+                    "machine_readable": true,
+                    "content_type": "application/pdf",
+                    "size_bytes": 339792
+                  },
+                  {
+                    "label": "Project #39 Closeout Forms",
+                    "url": "https://forsythcoga.api.civicclerk.com/v1/Meetings/GetAttachmentFile(fileId=38254)",
+                    "kind": "attachment",
+                    "source": "civicclerk",
+                    "machine_readable": true,
+                    "content_type": "application/pdf",
+                    "size_bytes": 534794
+                  }
+                ],
+                "under_consent": true,
+                "consent_reason": "Consent Agenda",
+                "dollar_amounts": [
+                  85467
+                ],
+                "large_dollar": false,
+                "long_term": false,
+                "long_term_reason": null,
+                "topics": [
+                  "policing"
+                ],
+                "children": []
+              },
+              {
+                "number": "F",
+                "outline_path": "VII.4.F",
+                "title": "Board approval of a request to the Georgia Department of Transportation (GDOT) for a Traffic Signal on SR 400 Express Lanes at Union Hill Road - Deputy Director, Department of Engineering",
+                "level": 2,
+                "source_item_id": 21382,
+                "fiscal_impact": null,
+                "attachments": [
+                  {
+                    "label": "SR 400 EL @ Union Hill Rd Signal App Form",
+                    "url": "https://forsythcoga.api.civicclerk.com/v1/Meetings/GetAttachmentFile(fileId=38255)",
+                    "kind": "attachment",
+                    "source": "civicclerk",
+                    "machine_readable": true,
+                    "content_type": "application/pdf",
+                    "size_bytes": 89713
+                  },
+                  {
+                    "label": "0001757_SR400EL_D1_Signals comments",
+                    "url": "https://forsythcoga.api.civicclerk.com/v1/Meetings/GetAttachmentFile(fileId=38256)",
+                    "kind": "attachment",
+                    "source": "civicclerk",
+                    "machine_readable": true,
+                    "content_type": "application/pdf",
+                    "size_bytes": 1170521
+                  },
+                  {
+                    "label": "TE_Report_UnionHillRd_SR400EL_DAR_wApndcs D1 comments",
+                    "url": "https://forsythcoga.api.civicclerk.com/v1/Meetings/GetAttachmentFile(fileId=38257)",
+                    "kind": "attachment",
+                    "source": "civicclerk",
+                    "machine_readable": true,
+                    "content_type": "application/pdf",
+                    "size_bytes": 2828781
+                  }
+                ],
+                "under_consent": true,
+                "consent_reason": "Consent Agenda",
+                "dollar_amounts": [],
+                "large_dollar": false,
+                "long_term": false,
+                "long_term_reason": null,
+                "topics": [],
+                "children": []
+              },
+              {
+                "number": "G",
+                "outline_path": "VII.4.G",
+                "title": "Board approval of a Professional Services Agreement with Spicer Group, Inc. in the not to exceed amount of $69,400.00 for the Trammel Road Bridge Deck Replacement Project - Deputy Director, Department of Engineering",
+                "level": 2,
+                "source_item_id": 21383,
+                "fiscal_impact": null,
+                "attachments": [
+                  {
+                    "label": "Spicer Group Trammel Road Bridge Agreement Signed",
+                    "url": "https://forsythcoga.api.civicclerk.com/v1/Meetings/GetAttachmentFile(fileId=38258)",
+                    "kind": "attachment",
+                    "source": "civicclerk",
+                    "machine_readable": true,
+                    "content_type": "application/pdf",
+                    "size_bytes": 759617
+                  }
+                ],
+                "under_consent": true,
+                "consent_reason": "Consent Agenda",
+                "dollar_amounts": [
+                  69400
+                ],
+                "large_dollar": false,
+                "long_term": false,
+                "long_term_reason": null,
+                "topics": [],
+                "children": []
+              },
+              {
+                "number": "H",
+                "outline_path": "VII.4.H",
+                "title": "Board approval of a Task Order with Curbco, Inc. in the amount of $98,235.00 to provide services under the Concrete Repairs As-Needed Agreement (Contract 1202300026) for the Riverstone Plantation project – Deputy Director, Department of Engineering",
+                "level": 2,
+                "source_item_id": 21384,
+                "fiscal_impact": null,
+                "attachments": [
+                  {
+                    "label": "Curbco Task Order Riverstone Plantation Signed",
+                    "url": "https://forsythcoga.api.civicclerk.com/v1/Meetings/GetAttachmentFile(fileId=38259)",
+                    "kind": "attachment",
+                    "source": "civicclerk",
+                    "machine_readable": true,
+                    "content_type": "application/pdf",
+                    "size_bytes": 161737
+                  }
+                ],
+                "under_consent": true,
+                "consent_reason": "Consent Agenda",
+                "dollar_amounts": [
+                  98235
+                ],
+                "large_dollar": false,
+                "long_term": false,
+                "long_term_reason": null,
+                "topics": [],
+                "children": []
+              },
+              {
+                "number": "I",
+                "outline_path": "VII.4.I",
+                "title": "Board ratification of an Emergency Sinkhole Repair at 6500 Industrial Way with Townley Construction Company, Inc. in the amount of $138,327.62 - Deputy Director, Department of Engineering",
+                "level": 2,
+                "source_item_id": 21385,
+                "fiscal_impact": null,
+                "attachments": [
+                  {
+                    "label": "Townley Construction Repair Estimate 6500 Industrial Way",
+                    "url": "https://forsythcoga.api.civicclerk.com/v1/Meetings/GetAttachmentFile(fileId=38260)",
+                    "kind": "attachment",
+                    "source": "civicclerk",
+                    "machine_readable": true,
+                    "content_type": "application/pdf",
+                    "size_bytes": 48282
+                  }
+                ],
+                "under_consent": true,
+                "consent_reason": "Consent Agenda",
+                "dollar_amounts": [
+                  138328
+                ],
+                "large_dollar": true,
+                "long_term": false,
+                "long_term_reason": null,
+                "topics": [],
+                "children": []
+              },
+              {
+                "number": "J",
+                "outline_path": "VII.4.J",
+                "title": "Board approval of an agreement between Forsyth County and the South Forsyth County Community Improvement District (CID) regarding consent to install artwork - Assistant County Manager (Lucas)",
+                "level": 2,
+                "source_item_id": 21386,
+                "fiscal_impact": null,
+                "attachments": [
+                  {
+                    "label": "FC - SFCCID - County - Agreement - Murals - SFCID Signed",
+                    "url": "https://forsythcoga.api.civicclerk.com/v1/Meetings/GetAttachmentFile(fileId=38261)",
+                    "kind": "attachment",
+                    "source": "civicclerk",
+                    "machine_readable": true,
+                    "content_type": "application/pdf",
+                    "size_bytes": 2799983
+                  },
+                  {
+                    "label": "IMG_1198",
+                    "url": "https://forsythcoga.api.civicclerk.com/v1/Meetings/GetAttachmentFile(fileId=38262)",
+                    "kind": "attachment",
+                    "source": "civicclerk",
+                    "machine_readable": true,
+                    "content_type": "image/jpeg",
+                    "size_bytes": 368185
+                  },
+                  {
+                    "label": "IMG_1199",
+                    "url": "https://forsythcoga.api.civicclerk.com/v1/Meetings/GetAttachmentFile(fileId=38263)",
+                    "kind": "attachment",
+                    "source": "civicclerk",
+                    "machine_readable": true,
+                    "content_type": "image/jpeg",
+                    "size_bytes": 402965
+                  },
+                  {
+                    "label": "Gateway_South_Forsyth_Mural_Presentation",
+                    "url": "https://forsythcoga.api.civicclerk.com/v1/Meetings/GetAttachmentFile(fileId=38264)",
+                    "kind": "attachment",
+                    "source": "civicclerk",
+                    "machine_readable": true,
+                    "content_type": "application/pdf",
+                    "size_bytes": 7144272
+                  }
+                ],
+                "under_consent": true,
+                "consent_reason": "Consent Agenda",
+                "dollar_amounts": [],
+                "large_dollar": false,
+                "long_term": false,
+                "long_term_reason": null,
+                "topics": [],
+                "children": []
+              },
+              {
+                "number": "K",
+                "outline_path": "VII.4.K",
+                "title": "Board approval of an Intergovernmental Agreement (IGA) between Forsyth County and Georgia Department of Transportation (GDOT) regarding stockpile storage at Antioch Water Treatment Plant - Assistant County Manager (Lucas)",
+                "level": 2,
+                "source_item_id": 21387,
+                "fiscal_impact": null,
+                "attachments": [
+                  {
+                    "label": "FC and GDOT IGA_Stockpile Storage_Antioch_Final",
+                    "url": "https://forsythcoga.api.civicclerk.com/v1/Meetings/GetAttachmentFile(fileId=38265)",
+                    "kind": "attachment",
+                    "source": "civicclerk",
+                    "machine_readable": true,
+                    "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                    "size_bytes": 1753522
+                  }
+                ],
+                "under_consent": true,
+                "consent_reason": "Consent Agenda",
+                "dollar_amounts": [],
+                "large_dollar": false,
+                "long_term": false,
+                "long_term_reason": null,
+                "topics": [],
+                "children": []
+              },
+              {
+                "number": "L",
+                "outline_path": "VII.4.L",
+                "title": "Board approval of the Annual Software Subscription for Trimble Unity Maintain with Trimble, Inc. in the amount of $65,839.69 for Fiscal Year 2027, $140,464.80 for Fiscal Year 2028, and $147,488.04 for Fiscal Year 2029, with approval of the associated software agreement - Director, Department of Water and Sewer",
+                "level": 2,
+                "source_item_id": 21388,
+                "fiscal_impact": null,
+                "attachments": [
+                  {
+                    "label": "Trimble Unity Maintain Software Agreement",
+                    "url": "https://forsythcoga.api.civicclerk.com/v1/Meetings/GetAttachmentFile(fileId=38266)",
+                    "kind": "attachment",
+                    "source": "civicclerk",
+                    "machine_readable": true,
+                    "content_type": "application/pdf",
+                    "size_bytes": 1713011
+                  }
+                ],
+                "under_consent": true,
+                "consent_reason": "Consent Agenda",
+                "dollar_amounts": [
+                  147488,
+                  140465,
+                  65840
+                ],
+                "large_dollar": true,
+                "long_term": false,
+                "long_term_reason": null,
+                "topics": [],
+                "children": []
+              },
+              {
+                "number": "M",
+                "outline_path": "VII.4.M",
+                "title": "Board approval of Supplemental Maintenance and Support Services with Timmons Group, Inc. under the Professional Services Agreement for Asset Management - Computerized Maintenance Management System Software Solution (RFP 16-73-3340) in the amount of $394,034.00 for the Trimble Unity Upgrade Project - Director, Department of Water and Sewer",
+                "level": 2,
+                "source_item_id": 21389,
+                "fiscal_impact": null,
+                "attachments": [
+                  {
+                    "label": "Forsyth_TUMUpgrade_Timmons_Execution_Version",
+                    "url": "https://forsythcoga.api.civicclerk.com/v1/Meetings/GetAttachmentFile(fileId=38267)",
+                    "kind": "attachment",
+                    "source": "civicclerk",
+                    "machine_readable": true,
+                    "content_type": "application/pdf",
+                    "size_bytes": 317192
+                  },
+                  {
+                    "label": "Timmons Agreement RFP 16-73-3340 CMMS Software Solution (Online Only)",
+                    "url": "https://forsythcoga.api.civicclerk.com/v1/Meetings/GetAttachmentFile(fileId=38268)",
+                    "kind": "attachment",
+                    "source": "civicclerk",
+                    "machine_readable": true,
+                    "content_type": "application/pdf",
+                    "size_bytes": 24158616
+                  }
+                ],
+                "under_consent": true,
+                "consent_reason": "Consent Agenda",
+                "dollar_amounts": [
+                  394034
+                ],
+                "large_dollar": true,
+                "long_term": false,
+                "long_term_reason": null,
+                "topics": [],
+                "children": []
+              },
+              {
+                "number": "N",
+                "outline_path": "VII.4.N",
+                "title": "Board approval of Task Order No. 4 with Black & Veatch Corporation under the Standard Services Agreement for Water and Sewer Engineering Services As-Needed (Contract No. 1202300004) in the amount of $279,655.00 for the Trimble Unity Maintain Migration Advisory Support Project - Director, Department of Water and Sewer",
+                "level": 2,
+                "source_item_id": 21391,
+                "fiscal_impact": null,
+                "attachments": [
+                  {
+                    "label": "Task Order No. 4 Trimble Unity Maintain Migration Advisory Support",
+                    "url": "https://forsythcoga.api.civicclerk.com/v1/Meetings/GetAttachmentFile(fileId=38273)",
+                    "kind": "attachment",
+                    "source": "civicclerk",
+                    "machine_readable": true,
+                    "content_type": "application/pdf",
+                    "size_bytes": 410579
+                  },
+                  {
+                    "label": "BV Water & Sewer Engineering Services As Needed Contract (Online Only)",
+                    "url": "https://forsythcoga.api.civicclerk.com/v1/Meetings/GetAttachmentFile(fileId=38274)",
+                    "kind": "attachment",
+                    "source": "civicclerk",
+                    "machine_readable": true,
+                    "content_type": "application/pdf",
+                    "size_bytes": 951176
+                  },
+                  {
+                    "label": "2027 BV Contract Renewal and Rates (Online Only)",
+                    "url": "https://forsythcoga.api.civicclerk.com/v1/Meetings/GetAttachmentFile(fileId=38275)",
+                    "kind": "attachment",
+                    "source": "civicclerk",
+                    "machine_readable": true,
+                    "content_type": "application/pdf",
+                    "size_bytes": 499168
+                  }
+                ],
+                "under_consent": true,
+                "consent_reason": "Consent Agenda",
+                "dollar_amounts": [
+                  279655
+                ],
+                "large_dollar": true,
+                "long_term": false,
+                "long_term_reason": null,
+                "topics": [],
+                "children": []
+              },
+              {
+                "number": "O",
+                "outline_path": "VII.4.O",
+                "title": "Board approval of Amendment No. 1 to the CIPP Lining of Sewer Pipes and Laterals As-Needed Agreement with Southeast Pipe Survey, Inc. (Contract No. 1202500008) to add additional bid line items to Exhibit \"B\" (Compensation of Services) - Deputy Director, Department of Water and Sewer",
+                "level": 2,
+                "source_item_id": 21392,
+                "fiscal_impact": null,
+                "attachments": [
+                  {
+                    "label": "Southeast Pipe Survey Amendment 1 Contract 1202500008 Rev",
+                    "url": "https://forsythcoga.api.civicclerk.com/v1/Meetings/GetAttachmentFile(fileId=38278)",
+                    "kind": "attachment",
+                    "source": "civicclerk",
+                    "machine_readable": true,
+                    "content_type": "application/pdf",
+                    "size_bytes": 625246
+                  }
+                ],
+                "under_consent": true,
+                "consent_reason": "Consent Agenda",
+                "dollar_amounts": [],
+                "large_dollar": false,
+                "long_term": false,
+                "long_term_reason": null,
+                "topics": [],
+                "children": []
+              },
+              {
+                "number": "P",
+                "outline_path": "VII.4.P",
+                "title": "Board approval of Client Acknowledgment and Novation of Existing Agreements from TranSystems Corporation to GFT Infrastructure Inc. for RFQ 25-55-1514 State Route 369 Passing Lanes Engineering and Design Services and RFP 26-32-1514 Transportation Program Management and Construction Engineering and Inspection Services As-Needed, including all amendments, renewals, modifications, work authorizations, and all task orders issued under these Agreements - Director, Department of Capital Projects",
+                "level": 2,
+                "source_item_id": 21393,
+                "fiscal_impact": null,
+                "attachments": [
+                  {
+                    "label": "Forsyth_County_TranSystems_to_GFT_Novation",
+                    "url": "https://forsythcoga.api.civicclerk.com/v1/Meetings/GetAttachmentFile(fileId=38279)",
+                    "kind": "attachment",
+                    "source": "civicclerk",
+                    "machine_readable": true,
+                    "content_type": "application/pdf",
+                    "size_bytes": 244273
+                  }
+                ],
+                "under_consent": true,
+                "consent_reason": "Consent Agenda",
+                "dollar_amounts": [],
+                "large_dollar": false,
+                "long_term": false,
+                "long_term_reason": null,
+                "topics": [],
+                "children": []
+              },
+              {
+                "number": "Q",
+                "outline_path": "VII.4.Q",
+                "title": "Board ratification of a deductive Change Order #40 with Vertical Earth, Inc. (Contract # 1202000030) in the amount of $11,285.95 for a ride quality penalty assessed by the Georgia Department of Transportation for the SR 369/SR 400 Bridge (PEW29) - Director, Department of Capital Projects",
+                "level": 2,
+                "source_item_id": 21394,
+                "fiscal_impact": null,
+                "attachments": [
+                  {
+                    "label": "Change Order No. 40 - Pay Reduction for Bridge Approach Ride Quality - Executed",
+                    "url": "https://forsythcoga.api.civicclerk.com/v1/Meetings/GetAttachmentFile(fileId=38280)",
+                    "kind": "attachment",
+                    "source": "civicclerk",
+                    "machine_readable": true,
+                    "content_type": "application/pdf",
+                    "size_bytes": 331557
+                  },
+                  {
+                    "label": "PI 0013369 Pay Reduction Bridge Approach Ride Quality Letter - Forsyth County",
+                    "url": "https://forsythcoga.api.civicclerk.com/v1/Meetings/GetAttachmentFile(fileId=38282)",
+                    "kind": "attachment",
+                    "source": "civicclerk",
+                    "machine_readable": true,
+                    "content_type": "application/pdf",
+                    "size_bytes": 181332
+                  },
+                  {
+                    "label": "Pay Reduction - Profilograph Ride Waiver - 0013369 Forsyth (03272026)",
+                    "url": "https://forsythcoga.api.civicclerk.com/v1/Meetings/GetAttachmentFile(fileId=38283)",
+                    "kind": "attachment",
+                    "source": "civicclerk",
+                    "machine_readable": true,
+                    "content_type": "application/pdf",
+                    "size_bytes": 432629
+                  }
+                ],
+                "under_consent": true,
+                "consent_reason": "Consent Agenda",
+                "dollar_amounts": [
+                  11286
+                ],
+                "large_dollar": false,
+                "long_term": false,
+                "long_term_reason": null,
+                "topics": [],
+                "children": []
+              },
+              {
+                "number": "R",
+                "outline_path": "VII.4.R",
+                "title": "Board approval of Commitment Change Order #002 to Contract #1202600019 with MAPP, LLC for the Sharon Springs Park Campus Renovations in the amount of $0 - Senior Capital Projects Manager (Madsen), Department of Capital Projects",
+                "level": 2,
+                "source_item_id": 21395,
+                "fiscal_impact": null,
+                "attachments": [
+                  {
+                    "label": "Sharon Springs Park Campus Construction Additions_Deducts_Signed",
+                    "url": "https://forsythcoga.api.civicclerk.com/v1/Meetings/GetAttachmentFile(fileId=38285)",
+                    "kind": "attachment",
+                    "source": "civicclerk",
+                    "machine_readable": true,
+                    "content_type": "application/pdf",
+                    "size_bytes": 236915
+                  }
+                ],
+                "under_consent": true,
+                "consent_reason": "Consent Agenda",
+                "dollar_amounts": [
+                  0
+                ],
+                "large_dollar": false,
+                "long_term": false,
+                "long_term_reason": null,
+                "topics": [],
+                "children": []
+              },
+              {
+                "number": "S",
+                "outline_path": "VII.4.S",
+                "title": "Board approval of a Water Easement for Forsyth County Water and Sewer at the Bennett Park Redevelopment Project - Senior Project Manager (Madsen), Department of Capital Projects",
+                "level": 2,
+                "source_item_id": 21396,
+                "fiscal_impact": null,
+                "attachments": [
+                  {
+                    "label": "1026107665-WTR ESMT(10-27-26)",
+                    "url": "https://forsythcoga.api.civicclerk.com/v1/Meetings/GetAttachmentFile(fileId=38286)",
+                    "kind": "attachment",
+                    "source": "civicclerk",
+                    "machine_readable": true,
+                    "content_type": "application/pdf",
+                    "size_bytes": 426177
+                  },
+                  {
+                    "label": "Bennett Park Wtr Esmt Legal",
+                    "url": "https://forsythcoga.api.civicclerk.com/v1/Meetings/GetAttachmentFile(fileId=38287)",
+                    "kind": "attachment",
+                    "source": "civicclerk",
+                    "machine_readable": true,
+                    "content_type": "application/pdf",
+                    "size_bytes": 11111
+                  },
+                  {
+                    "label": "2026-11-2 Bennett Water Easement Agreement",
+                    "url": "https://forsythcoga.api.civicclerk.com/v1/Meetings/GetAttachmentFile(fileId=38288)",
+                    "kind": "attachment",
+                    "source": "civicclerk",
+                    "machine_readable": true,
+                    "content_type": "application/pdf",
+                    "size_bytes": 275605
+                  }
+                ],
+                "under_consent": true,
+                "consent_reason": "Consent Agenda",
+                "dollar_amounts": [],
+                "large_dollar": false,
+                "long_term": true,
+                "long_term_reason": "Easement",
+                "topics": [],
+                "children": []
+              },
+              {
+                "number": "T",
+                "outline_path": "VII.4.T",
+                "title": "Board approval of Change Order #002 to Contract #1202500016 with Townley Construction Company for a time extension (no associated cost) for the Coal Mountain Park Sewer Improvements (P18CM) - Project Manager (Wilson), Department of Capital Projects",
+                "level": 2,
+                "source_item_id": 21397,
+                "fiscal_impact": null,
+                "attachments": [
+                  {
+                    "label": "Final Change Order - Time Extension Only",
+                    "url": "https://forsythcoga.api.civicclerk.com/v1/Meetings/GetAttachmentFile(fileId=38289)",
+                    "kind": "attachment",
+                    "source": "civicclerk",
+                    "machine_readable": true,
+                    "content_type": "application/pdf",
+                    "size_bytes": 199034
+                  },
+                  {
+                    "label": "Additional Work Performed with No Additional Time",
+                    "url": "https://forsythcoga.api.civicclerk.com/v1/Meetings/GetAttachmentFile(fileId=38290)",
+                    "kind": "attachment",
+                    "source": "civicclerk",
+                    "machine_readable": true,
+                    "content_type": "application/pdf",
+                    "size_bytes": 48727
+                  }
+                ],
+                "under_consent": true,
+                "consent_reason": "Consent Agenda",
+                "dollar_amounts": [],
+                "large_dollar": false,
+                "long_term": false,
+                "long_term_reason": null,
+                "topics": [],
+                "children": []
+              },
+              {
+                "number": "U",
+                "outline_path": "VII.4.U",
+                "title": "Board to award quote 27-09-1620 to Kept Companies of NJ, Inc. d/b/a Fleetwash in the amount of $31,372.73 for Kitchen Exhaust Systems Inspection, Cleaning, and Maintenance at various County locations for the Department of Public Facilities with the approval of the associated General Services Agreement - Director, Department of Public Facilities",
+                "level": 2,
+                "source_item_id": 21398,
+                "fiscal_impact": null,
+                "attachments": [
+                  {
+                    "label": "Quote Tab 27-09-1620",
+                    "url": "https://forsythcoga.api.civicclerk.com/v1/Meetings/GetAttachmentFile(fileId=38291)",
+                    "kind": "attachment",
+                    "source": "civicclerk",
+                    "machine_readable": true,
+                    "content_type": "application/pdf",
+                    "size_bytes": 624069
+                  },
+                  {
+                    "label": "Kept Companies signed agreement",
+                    "url": "https://forsythcoga.api.civicclerk.com/v1/Meetings/GetAttachmentFile(fileId=38292)",
+                    "kind": "attachment",
+                    "source": "civicclerk",
+                    "machine_readable": true,
+                    "content_type": "application/pdf",
+                    "size_bytes": 1252476
+                  },
+                  {
+                    "label": "Kept Companies Signatory Letter",
+                    "url": "https://forsythcoga.api.civicclerk.com/v1/Meetings/GetAttachmentFile(fileId=38293)",
+                    "kind": "attachment",
+                    "source": "civicclerk",
+                    "machine_readable": true,
+                    "content_type": "application/pdf",
+                    "size_bytes": 273361
+                  }
+                ],
+                "under_consent": true,
+                "consent_reason": "Consent Agenda",
+                "dollar_amounts": [
+                  31373
+                ],
+                "large_dollar": false,
+                "long_term": false,
+                "long_term_reason": null,
+                "topics": [],
+                "children": []
+              },
+              {
+                "number": "V",
+                "outline_path": "VII.4.V",
+                "title": "Board approval of a Task Order with Hussey, Gay, Bell & DeYoung in the amount of $172,720.00 for Design Services at the Hightower Road Landfill for the Driver Training Facility with approval of the associated General Services Agreement - Director, Department of Public Facilities",
+                "level": 2,
+                "source_item_id": 21399,
+                "fiscal_impact": null,
+                "attachments": [
+                  {
+                    "label": "2026-10-29 HGB Civil Services Proposal - Forsyth Co Public Services Civil",
+                    "url": "https://forsythcoga.api.civicclerk.com/v1/Meetings/GetAttachmentFile(fileId=38295)",
+                    "kind": "attachment",
+                    "source": "civicclerk",
+                    "machine_readable": true,
+                    "content_type": "application/pdf",
+                    "size_bytes": 675312
+                  }
+                ],
+                "under_consent": true,
+                "consent_reason": "Consent Agenda",
+                "dollar_amounts": [
+                  172720
+                ],
+                "large_dollar": true,
+                "long_term": false,
+                "long_term_reason": null,
+                "topics": [],
+                "children": []
+              },
+              {
+                "number": "W",
+                "outline_path": "VII.4.W",
+                "title": "Board to award Bid 26-77-1620 to EOLA Power, LLC in the amount of $104,434.63 for the UPS (Uninterruptible Power Supply) Unit & Battery Replacement at the Public Safety Complex for the Department of Public Facilities with approval of the associated General Services Agreement - Director, Department of Public Facilities",
+                "level": 2,
+                "source_item_id": 21400,
+                "fiscal_impact": null,
+                "attachments": [
+                  {
+                    "label": "Bid Tab 26-77-1620",
+                    "url": "https://forsythcoga.api.civicclerk.com/v1/Meetings/GetAttachmentFile(fileId=38296)",
+                    "kind": "attachment",
+                    "source": "civicclerk",
+                    "machine_readable": true,
+                    "content_type": "application/pdf",
+                    "size_bytes": 116367
+                  },
+                  {
+                    "label": "EOLA General Services Agreement",
+                    "url": "https://forsythcoga.api.civicclerk.com/v1/Meetings/GetAttachmentFile(fileId=38297)",
+                    "kind": "attachment",
+                    "source": "civicclerk",
+                    "machine_readable": true,
+                    "content_type": "application/pdf",
+                    "size_bytes": 2389361
+                  }
+                ],
+                "under_consent": true,
+                "consent_reason": "Consent Agenda",
+                "dollar_amounts": [
+                  104435
+                ],
+                "large_dollar": true,
+                "long_term": false,
+                "long_term_reason": null,
+                "topics": [],
+                "children": []
+              },
+              {
+                "number": "X",
+                "outline_path": "VII.4.X",
+                "title": "Board approval to enter into an agreement with SCANA Energy Marketing, LLC via Georgia State Contract Number 99999-001-SPD0000153-0001, for Natural Gas service in 2027 for County Facilities with approval of the associated contract – Director, Department of Public Facilities",
+                "level": 2,
+                "source_item_id": 21401,
+                "fiscal_impact": null,
+                "attachments": [
+                  {
+                    "label": "FORSYTH COUNTY-AGL-Jan 27 T1 0015",
+                    "url": "https://forsythcoga.api.civicclerk.com/v1/Meetings/GetAttachmentFile(fileId=38298)",
+                    "kind": "attachment",
+                    "source": "civicclerk",
+                    "machine_readable": true,
+                    "content_type": "application/pdf",
+                    "size_bytes": 347718
+                  }
+                ],
+                "under_consent": true,
+                "consent_reason": "Consent Agenda",
+                "dollar_amounts": [],
+                "large_dollar": false,
+                "long_term": false,
+                "long_term_reason": null,
+                "topics": [],
+                "children": []
+              },
+              {
+                "number": "Y",
+                "outline_path": "VII.4.Y",
+                "title": "Board to award ITQ 27-04-1500 to A1 Shredding and Recycling, Inc. for Document & Record Destruction Services As-Needed for the Department of Public Facilities with approval of the associated General Services Agreement – Director, Department of Public Facilities",
+                "level": 2,
+                "source_item_id": 21402,
+                "fiscal_impact": null,
+                "attachments": [
+                  {
+                    "label": "27-04-1500 Document & Record Destruction Services Agreement",
+                    "url": "https://forsythcoga.api.civicclerk.com/v1/Meetings/GetAttachmentFile(fileId=38299)",
+                    "kind": "attachment",
+                    "source": "civicclerk",
+                    "machine_readable": true,
+                    "content_type": "application/pdf",
+                    "size_bytes": 809958
+                  }
+                ],
+                "under_consent": true,
+                "consent_reason": "Consent Agenda",
+                "dollar_amounts": [],
+                "large_dollar": false,
+                "long_term": false,
+                "long_term_reason": null,
+                "topics": [],
+                "children": []
+              },
+              {
+                "number": "Z",
+                "outline_path": "VII.4.Z",
+                "title": "Board approval of a Services Agreement with CPL Architects, Engineers and Landscape Architect, D.P.C. (P.C.) for Architectural Design Review Services for the Department of Planning and Community Development – Director, Department of Planning and Community Development",
+                "level": 2,
+                "source_item_id": 21403,
+                "fiscal_impact": null,
+                "attachments": [
+                  {
+                    "label": "CPL Services Agreement - Architectural Design Review Services (CPL signed)",
+                    "url": "https://forsythcoga.api.civicclerk.com/v1/Meetings/GetAttachmentFile(fileId=38300)",
+                    "kind": "attachment",
+                    "source": "civicclerk",
+                    "machine_readable": true,
+                    "content_type": "application/pdf",
+                    "size_bytes": 312288
+                  }
+                ],
+                "under_consent": true,
+                "consent_reason": "Consent Agenda",
+                "dollar_amounts": [],
+                "large_dollar": false,
+                "long_term": false,
+                "long_term_reason": null,
+                "topics": [],
+                "children": []
+              },
+              {
+                "number": "AA",
+                "outline_path": "VII.4.AA",
+                "title": "Board approval to postpone a Board generated rezoning for ZA4108, Vijay Garlapati, for 18 months. In accordance with UDC 8-5.5(I), if an application for a land disturbance permit has not been submitted within 18 months of zoning approval, the Board may consider rezoning to a constitutional zoning designation - District 1 – Director, Department of Planning and Community Development (Postponed from the April 8, 2025, October 6, 2026 and October 20, 2026 Agendas)",
+                "level": 2,
+                "source_item_id": 21404,
+                "fiscal_impact": null,
+                "attachments": [
+                  {
+                    "label": "location_map_za4108",
+                    "url": "https://forsythcoga.api.civicclerk.com/v1/Meetings/GetAttachmentFile(fileId=38301)",
+                    "kind": "attachment",
+                    "source": "civicclerk",
+                    "machine_readable": true,
+                    "content_type": "application/pdf",
+                    "size_bytes": 1167453
+                  },
+                  {
+                    "label": "concept_plan_za4108",
+                    "url": "https://forsythcoga.api.civicclerk.com/v1/Meetings/GetAttachmentFile(fileId=38302)",
+                    "kind": "attachment",
+                    "source": "civicclerk",
+                    "machine_readable": true,
+                    "content_type": "application/pdf",
+                    "size_bytes": 11489942
+                  },
+                  {
+                    "label": "boc_decision_za4108_rev_070623",
+                    "url": "https://forsythcoga.api.civicclerk.com/v1/Meetings/GetAttachmentFile(fileId=38303)",
+                    "kind": "attachment",
+                    "source": "civicclerk",
+                    "machine_readable": true,
+                    "content_type": "application/pdf",
+                    "size_bytes": 198510
+                  }
+                ],
+                "under_consent": true,
+                "consent_reason": "Consent Agenda",
+                "dollar_amounts": [],
+                "large_dollar": false,
+                "long_term": false,
+                "long_term_reason": null,
+                "topics": [],
+                "children": []
+              },
+              {
+                "number": "BB",
+                "outline_path": "VII.4.BB",
+                "title": "Board approval for staff to commence with the Public Hearing process regarding a County-Initiated Conditional Use Permit (CUP) to build a new dance studio on property zoned Commercial Business District (CBD) with a variance to 1. Reduce the buffer abutting Georgia Highway 400 adjacent to the existing drainage easement only from 40 ft. to 0 ft. (UDC 10-1.10(A)(1), parcel 218-040 - District 1 - Hill / Moore",
+                "level": 2,
+                "source_item_id": 21405,
+                "fiscal_impact": null,
+                "attachments": [
+                  {
+                    "label": "CDA Prelim Design Package",
+                    "url": "https://forsythcoga.api.civicclerk.com/v1/Meetings/GetAttachmentFile(fileId=38304)",
+                    "kind": "attachment",
+                    "source": "civicclerk",
+                    "machine_readable": true,
+                    "content_type": "application/pdf",
+                    "size_bytes": 6177471
+                  },
+                  {
+                    "label": "location_map_cup_B0C CI_cda",
+                    "url": "https://forsythcoga.api.civicclerk.com/v1/Meetings/GetAttachmentFile(fileId=38305)",
+                    "kind": "attachment",
+                    "source": "civicclerk",
+                    "machine_readable": true,
+                    "content_type": "application/pdf",
+                    "size_bytes": 891689
+                  }
+                ],
+                "under_consent": true,
+                "consent_reason": "Consent Agenda",
+                "dollar_amounts": [],
+                "large_dollar": false,
+                "long_term": true,
+                "long_term_reason": "easement",
+                "topics": [],
+                "children": []
+              },
+              {
+                "number": "CC",
+                "outline_path": "VII.4.CC",
+                "title": "Board approval for staff to commence with the Public Hearing process regarding a proposed Unified Development Code (UDC) amendment, amending UDC Chapter 10, to terminate any short-term rental property continuing to operate under a claim of legal nonconforming status, irrespective of the merits or lack of merits of such claim of nonconforming status, by May 1, 2027 - County Attorney",
+                "level": 2,
+                "source_item_id": 21406,
+                "fiscal_impact": null,
+                "attachments": [
+                  {
+                    "label": "Forsyth UDC 10-2.4 Proposed Amendment Redline",
+                    "url": "https://forsythcoga.api.civicclerk.com/v1/Meetings/GetAttachmentFile(fileId=38306)",
+                    "kind": "attachment",
+                    "source": "civicclerk",
+                    "machine_readable": true,
+                    "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                    "size_bytes": 33868
+                  }
+                ],
+                "under_consent": true,
+                "consent_reason": "Consent Agenda",
+                "dollar_amounts": [],
+                "large_dollar": false,
+                "long_term": false,
+                "long_term_reason": null,
+                "topics": [],
+                "children": []
+              },
+              {
+                "number": "DD",
+                "outline_path": "VII.4.DD",
+                "title": "Board approval and direction for the County Manager to conduct a survey identifying the footprint of the building vs. the footprint of the remainder of the property at Freedom Park - Hill / Moore",
+                "level": 2,
+                "source_item_id": 21407,
+                "fiscal_impact": null,
+                "attachments": [],
+                "under_consent": true,
+                "consent_reason": "Consent Agenda",
+                "dollar_amounts": [],
+                "large_dollar": false,
+                "long_term": false,
+                "long_term_reason": null,
+                "topics": [],
+                "children": []
+              },
+              {
+                "number": "EE",
+                "outline_path": "VII.4.EE",
+                "title": "Board authorization for staff to present proposed modifications to Ordinance and Unified Development Code regarding paramedical tattooing and tattoo shops at a future Board of Commissioners meeting - Semanson / Hill",
+                "level": 2,
+                "source_item_id": 21408,
+                "fiscal_impact": null,
+                "attachments": [],
+                "under_consent": true,
+                "consent_reason": "Consent Agenda",
+                "dollar_amounts": [],
+                "large_dollar": false,
+                "long_term": false,
+                "long_term_reason": null,
+                "topics": [],
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "number": "VIII",
+        "outline_path": "VIII",
+        "title": "Public Hearings",
+        "level": 0,
+        "source_item_id": 18068,
+        "fiscal_impact": null,
+        "attachments": [],
+        "under_consent": false,
+        "consent_reason": null,
+        "dollar_amounts": [],
+        "large_dollar": false,
+        "long_term": false,
+        "long_term_reason": null,
+        "topics": [],
+        "children": [
+          {
+            "number": "1",
+            "outline_path": "VIII.1",
+            "title": "Public Hearing and possible vote regarding an Alternate Design for SVS Retail Real Estate LLC - Parcel 053-038 - AD260018 - District 1 - Director, Department of Planning and Community Development (Postponed from the October 1, 2026 Agenda)",
+            "level": 1,
+            "source_item_id": 21172,
+            "fiscal_impact": null,
+            "attachments": [
+              {
+                "label": "application_ad260018_rev_080726",
+                "url": "https://forsythcoga.api.civicclerk.com/v1/Meetings/GetAttachmentFile(fileId=37609)",
+                "kind": "attachment",
+                "source": "civicclerk",
+                "machine_readable": true,
+                "content_type": "application/pdf",
+                "size_bytes": 2362578
+              },
+              {
+                "label": "location_map_ad260018",
+                "url": "https://forsythcoga.api.civicclerk.com/v1/Meetings/GetAttachmentFile(fileId=37610)",
+                "kind": "attachment",
+                "source": "civicclerk",
+                "machine_readable": true,
+                "content_type": "application/pdf",
+                "size_bytes": 1647604
+              },
+              {
+                "label": "survey_ad260018",
+                "url": "https://forsythcoga.api.civicclerk.com/v1/Meetings/GetAttachmentFile(fileId=37611)",
+                "kind": "attachment",
+                "source": "civicclerk",
+                "machine_readable": true,
+                "content_type": "application/pdf",
+                "size_bytes": 2199684
+              },
+              {
+                "label": "elevation_ad260018_rev_080726",
+                "url": "https://forsythcoga.api.civicclerk.com/v1/Meetings/GetAttachmentFile(fileId=37612)",
+                "kind": "attachment",
+                "source": "civicclerk",
+                "machine_readable": true,
+                "content_type": "application/pdf",
+                "size_bytes": 1860151
+              },
+              {
+                "label": "sign_affidavit_ad260018_102026",
+                "url": "https://forsythcoga.api.civicclerk.com/v1/Meetings/GetAttachmentFile(fileId=38083)",
+                "kind": "attachment",
+                "source": "civicclerk",
+                "machine_readable": true,
+                "content_type": "application/pdf",
+                "size_bytes": 1065375
+              },
+              {
+                "label": "legal_ad_ad260018",
+                "url": "https://forsythcoga.api.civicclerk.com/v1/Meetings/GetAttachmentFile(fileId=38085)",
+                "kind": "attachment",
+                "source": "civicclerk",
+                "machine_readable": true,
+                "content_type": "application/pdf",
+                "size_bytes": 65021
+              }
+            ],
+            "under_consent": false,
+            "consent_reason": null,
+            "dollar_amounts": [],
+            "large_dollar": false,
+            "long_term": false,
+            "long_term_reason": null,
+            "topics": [],
+            "children": []
+          },
+          {
+            "number": "2",
+            "outline_path": "VIII.2",
+            "title": "Public Hearing and possible vote regarding the request for an Amendment of Zoning Conditions on ZA4234 (SVS Traders LLC) by SVS Retail Real Estate LLC with a variance to: 1. Reduce the required number of off-street loading spaces from 4 to 3 (UDC 17-3.3) - Parcel 053-038 - AZ260021 - District 1 - Director, Department of Planning and Community Development (Postponed from the October 1, 2026 Agenda)",
+            "level": 1,
+            "source_item_id": 21173,
+            "fiscal_impact": null,
+            "attachments": [
+              {
+                "label": "application_az260021_rev_090926_redacted",
+                "url": "https://forsythcoga.api.civicclerk.com/v1/Meetings/GetAttachmentFile(fileId=38103)",
+                "kind": "attachment",
+                "source": "civicclerk",
+                "machine_readable": true,
+                "content_type": "application/pdf",
+                "size_bytes": 5797247
+              },
+              {
+                "label": "location_map_az260021",
+                "url": "https://forsythcoga.api.civicclerk.com/v1/Meetings/GetAttachmentFile(fileId=38100)",
+                "kind": "attachment",
+                "source": "civicclerk",
+                "machine_readable": true,
+                "content_type": "application/pdf",
+                "size_bytes": 1392103
+              },
+              {
+                "label": "concept_plan_az260021_rev_080726",
+                "url": "https://forsythcoga.api.civicclerk.com/v1/Meetings/GetAttachmentFile(fileId=37621)",
+                "kind": "attachment",
+                "source": "civicclerk",
+                "machine_readable": true,
+                "content_type": "application/pdf",
+                "size_bytes": 1202168
+              },
+              {
+                "label": "staff_report_az260021",
+                "url": "https://forsythcoga.api.civicclerk.com/v1/Meetings/GetAttachmentFile(fileId=37622)",
+                "kind": "attachment",
+                "source": "civicclerk",
+                "machine_readable": true,
+                "content_type": "application/pdf",
+                "size_bytes": 248258
+              },
+              {
+                "label": "sign_affidavit_az260021_102026",
+                "url": "https://forsythcoga.api.civicclerk.com/v1/Meetings/GetAttachmentFile(fileId=38087)",
+                "kind": "attachment",
+                "source": "civicclerk",
+                "machine_readable": true,
+                "content_type": "application/pdf",
+                "size_bytes": 986711
+              },
+              {
+                "label": "legal_ad_az260021",
+                "url": "https://forsythcoga.api.civicclerk.com/v1/Meetings/GetAttachmentFile(fileId=38138)",
+                "kind": "attachment",
+                "source": "civicclerk",
+                "machine_readable": true,
+                "content_type": "application/pdf",
+                "size_bytes": 106626
+              }
+            ],
+            "under_consent": false,
+            "consent_reason": null,
+            "dollar_amounts": [],
+            "large_dollar": false,
+            "long_term": false,
+            "long_term_reason": null,
+            "topics": [],
+            "children": []
+          },
+          {
+            "number": "3",
+            "outline_path": "VIII.3",
+            "title": "Public Hearing and possible vote regarding the County-Initiated request to rezone from Single Family Residential District (RES3) to Single Family Residential District (RES1) – Parcel 118-200 - ZA4290 - District 1 - Director, Department of Planning and Community Development (Postponed from the June 18, 2026, August 6, 2026, September 3, 2026 and October 15, 2026 Agendas)",
+            "level": 1,
+            "source_item_id": 21337,
+            "fiscal_impact": null,
+            "attachments": [
+              {
+                "label": "location_map_za4290",
+                "url": "https://forsythcoga.api.civicclerk.com/v1/Meetings/GetAttachmentFile(fileId=38063)",
+                "kind": "attachment",
+                "source": "civicclerk",
+                "machine_readable": true,
+                "content_type": "application/pdf",
+                "size_bytes": 1513237
+              },
+              {
+                "label": "notice of objective_za4290",
+                "url": "https://forsythcoga.api.civicclerk.com/v1/Meetings/GetAttachmentFile(fileId=38099)",
+                "kind": "attachment",
+                "source": "civicclerk",
+                "machine_readable": true,
+                "content_type": "application/pdf",
+                "size_bytes": 293451
+              },
+              {
+                "label": "sign_za4290_102326",
+                "url": "https://forsythcoga.api.civicclerk.com/v1/Meetings/GetAttachmentFile(fileId=38088)",
+                "kind": "attachment",
+                "source": "civicclerk",
+                "machine_readable": true,
+                "content_type": "application/pdf",
+                "size_bytes": 7747015
+              },
+              {
+                "label": "legal_ad_za4290",
+                "url": "https://forsythcoga.api.civicclerk.com/v1/Meetings/GetAttachmentFile(fileId=38137)",
+                "kind": "attachment",
+                "source": "civicclerk",
+                "machine_readable": true,
+                "content_type": "application/pdf",
+                "size_bytes": 104764
+              }
+            ],
+            "under_consent": false,
+            "consent_reason": null,
+            "dollar_amounts": [],
+            "large_dollar": false,
+            "long_term": false,
+            "long_term_reason": null,
+            "topics": [],
+            "children": []
+          },
+          {
+            "number": "4",
+            "outline_path": "VIII.4",
+            "title": "Public Hearing and possible vote regarding the request to operate an open storage yard with an overall site including a contractor's establishment/warehouse/wholesale in existing buildings totaling 17,638 sq. ft. with 19 parking spaces on 6.70 acres zoned Restricted Industrial District (M1) with the following variance to: 1. Reduce the front landscape strip adjacent to existing easement, asphalt and gravel only from 15 ft. to 0 ft. (UDC Table 21.6); 2. Reduce the required open space from 25% to 6% (UDC Table 21.6); 3. Reduce the landscape strip along all side and rear lot or lease lines adjacent to existing easements and gravel only from 10 ft to 0 ft. (UDC 21-6.5(A)(2)) - Parcel 041-099 - CP260013 (SRS Distribution, Inc.) - District 3 - Director, Department of Planning and Community Development (Postponed from the July 23, 2026 and August 20, 2026 Agendas. At the October 15, 2026 Regular Meeting / Public Hearings, the Board voted to postpone for an additional Public Hearing; the first Public Hearing was held before the Planning Commission on June 23, 2026)",
+            "level": 1,
+            "source_item_id": 21234,
+            "fiscal_impact": null,
+            "attachments": [
+              {
+                "label": "application_cp260013_rev_051526_redacted",
+                "url": "https://forsythcoga.api.civicclerk.com/v1/Meetings/GetAttachmentFile(fileId=37743)",
+                "kind": "attachment",
+                "source": "civicclerk",
+                "machine_readable": true,
+                "content_type": "application/pdf",
+                "size_bytes": 12318515
+              },
+              {
+                "label": "minutes_cp260013",
+                "url": "https://forsythcoga.api.civicclerk.com/v1/Meetings/GetAttachmentFile(fileId=37744)",
+                "kind": "attachment",
+                "source": "civicclerk",
+                "machine_readable": true,
+                "content_type": "application/pdf",
+                "size_bytes": 108972
+              },
+              {
+                "label": "ph_transcription_cp260013",
+                "url": "https://forsythcoga.api.civicclerk.com/v1/Meetings/GetAttachmentFile(fileId=37745)",
+                "kind": "attachment",
+                "source": "civicclerk",
+                "machine_readable": true,
+                "content_type": "application/pdf",
+                "size_bytes": 84346
+              },
+              {
+                "label": "pc_rec_cp260013",
+                "url": "https://forsythcoga.api.civicclerk.com/v1/Meetings/GetAttachmentFile(fileId=37746)",
+                "kind": "attachment",
+                "source": "civicclerk",
+                "machine_readable": true,
+                "content_type": "application/pdf",
+                "size_bytes": 278190
+              },
+              {
+                "label": "staff_report_cp260013",
+                "url": "https://forsythcoga.api.civicclerk.com/v1/Meetings/GetAttachmentFile(fileId=37747)",
+                "kind": "attachment",
+                "source": "civicclerk",
+                "machine_readable": true,
+                "content_type": "application/pdf",
+                "size_bytes": 484693
+              },
+              {
+                "label": "concept_plan_cp260013_rev_051526",
+                "url": "https://forsythcoga.api.civicclerk.com/v1/Meetings/GetAttachmentFile(fileId=37748)",
+                "kind": "attachment",
+                "source": "civicclerk",
+                "machine_readable": true,
+                "content_type": "application/pdf",
+                "size_bytes": 2666970
+              },
+              {
+                "label": "location_map_cp260013",
+                "url": "https://forsythcoga.api.civicclerk.com/v1/Meetings/GetAttachmentFile(fileId=37749)",
+                "kind": "attachment",
+                "source": "civicclerk",
+                "machine_readable": true,
+                "content_type": "application/pdf",
+                "size_bytes": 1261596
+              },
+              {
+                "label": "sign_affidavit_cp260013_102026",
+                "url": "https://forsythcoga.api.civicclerk.com/v1/Meetings/GetAttachmentFile(fileId=38108)",
+                "kind": "attachment",
+                "source": "civicclerk",
+                "machine_readable": true,
+                "content_type": "application/pdf",
+                "size_bytes": 2161207
+              },
+              {
+                "label": "legal_ad_cp260013",
+                "url": "https://forsythcoga.api.civicclerk.com/v1/Meetings/GetAttachmentFile(fileId=38140)",
+                "kind": "attachment",
+                "source": "civicclerk",
+                "machine_readable": true,
+                "content_type": "application/pdf",
+                "size_bytes": 139305
+              }
+            ],
+            "under_consent": false,
+            "consent_reason": null,
+            "dollar_amounts": [],
+            "large_dollar": false,
+            "long_term": true,
+            "long_term_reason": "easement",
+            "topics": [],
+            "children": []
+          },
+          {
+            "number": "5",
+            "outline_path": "VIII.5",
+            "title": "Public Hearing and possible vote regarding the request for an Amendment of Zoning Conditions on CP200001 (Forsyth County Board of Commissioners) by SRS Distribution, Inc. - Parcel 041-099 - AZ260012 - District 3 - Director, Department of Planning and Community Development (Postponed from the July 23, 2026, August 20, 2026 and October 15, 2026 Agendas)",
+            "level": 1,
+            "source_item_id": 21336,
+            "fiscal_impact": null,
+            "attachments": [
+              {
+                "label": "application_az260012_rev_100126",
+                "url": "https://forsythcoga.api.civicclerk.com/v1/Meetings/GetAttachmentFile(fileId=38125)",
+                "kind": "attachment",
+                "source": "civicclerk",
+                "machine_readable": true,
+                "content_type": "application/pdf",
+                "size_bytes": 6688783
+              },
+              {
+                "label": "location_map_az260012",
+                "url": "https://forsythcoga.api.civicclerk.com/v1/Meetings/GetAttachmentFile(fileId=38053)",
+                "kind": "attachment",
+                "source": "civicclerk",
+                "machine_readable": true,
+                "content_type": "application/pdf",
+                "size_bytes": 1765110
+              },
+              {
+                "label": "survey_az260012",
+                "url": "https://forsythcoga.api.civicclerk.com/v1/Meetings/GetAttachmentFile(fileId=38054)",
+                "kind": "attachment",
+                "source": "civicclerk",
+                "machine_readable": true,
+                "content_type": "application/pdf",
+                "size_bytes": 734023
+              },
+              {
+                "label": "sign_affidavit_az260012_102026",
+                "url": "https://forsythcoga.api.civicclerk.com/v1/Meetings/GetAttachmentFile(fileId=38123)",
+                "kind": "attachment",
+                "source": "civicclerk",
+                "machine_readable": true,
+                "content_type": "application/pdf",
+                "size_bytes": 1140757
+              },
+              {
+                "label": "legal_ad_az260012",
+                "url": "https://forsythcoga.api.civicclerk.com/v1/Meetings/GetAttachmentFile(fileId=38136)",
+                "kind": "attachment",
+                "source": "civicclerk",
+                "machine_readable": true,
+                "content_type": "application/pdf",
+                "size_bytes": 92531
+              }
+            ],
+            "under_consent": false,
+            "consent_reason": null,
+            "dollar_amounts": [],
+            "large_dollar": false,
+            "long_term": false,
+            "long_term_reason": null,
+            "topics": [],
+            "children": []
+          },
+          {
+            "number": "6",
+            "outline_path": "VIII.6",
+            "title": "Public Hearing and possible vote regarding the request to rezone from Commercial Business District (CBD) to Restricted Industrial District (M1) on 3.39 acres for a 44,936 sq. ft. warehouse/office/showroom with 38 parking spaces with the following variance to: 1. Reduce the sides and rear zoning buffers from 20 ft. to 0 ft. (UDC Table 14.2); 2. Reduce the required number of parking spaces from 56 to 38 (UDC 21-6.5(D)(1)); 3. Reduce the front landscape strip from 15 ft. to 0 ft. (UDC Table 21.6) - Parcel 018-105 - ZA4288 (Mazi, Inc.) - District 3 - Director, Department of Planning and Community Development (Postponed from October 15, 2026 Agenda for an additional Public Hearing; the first Public Hearing was held before the Planning Commission on September 22, 2026)",
+            "level": 1,
+            "source_item_id": 21235,
+            "fiscal_impact": null,
+            "attachments": [
+              {
+                "label": "application_za4288_rev_060526_redacted",
+                "url": "https://forsythcoga.api.civicclerk.com/v1/Meetings/GetAttachmentFile(fileId=37751)",
+                "kind": "attachment",
+                "source": "civicclerk",
+                "machine_readable": true,
+                "content_type": "application/pdf",
+                "size_bytes": 11880026
+              },
+              {
+                "label": "minutes_za4288",
+                "url": "https://forsythcoga.api.civicclerk.com/v1/Meetings/GetAttachmentFile(fileId=37752)",
+                "kind": "attachment",
+                "source": "civicclerk",
+                "machine_readable": true,
+                "content_type": "application/pdf",
+                "size_bytes": 172991
+              },
+              {
+                "label": "ph_transcription_za4288",
+                "url": "https://forsythcoga.api.civicclerk.com/v1/Meetings/GetAttachmentFile(fileId=37753)",
+                "kind": "attachment",
+                "source": "civicclerk",
+                "machine_readable": true,
+                "content_type": "application/pdf",
+                "size_bytes": 32152
+              },
+              {
+                "label": "pc_rec_za4288",
+                "url": "https://forsythcoga.api.civicclerk.com/v1/Meetings/GetAttachmentFile(fileId=37754)",
+                "kind": "attachment",
+                "source": "civicclerk",
+                "machine_readable": true,
+                "content_type": "application/pdf",
+                "size_bytes": 183589
+              },
+              {
+                "label": "staff_report_za4288",
+                "url": "https://forsythcoga.api.civicclerk.com/v1/Meetings/GetAttachmentFile(fileId=37755)",
+                "kind": "attachment",
+                "source": "civicclerk",
+                "machine_readable": true,
+                "content_type": "application/pdf",
+                "size_bytes": 460827
+              },
+              {
+                "label": "concept_plan_za4288_rev_082126",
+                "url": "https://forsythcoga.api.civicclerk.com/v1/Meetings/GetAttachmentFile(fileId=37756)",
+                "kind": "attachment",
+                "source": "civicclerk",
+                "machine_readable": true,
+                "content_type": "application/pdf",
+                "size_bytes": 930906
+              },
+              {
+                "label": "location_map_za4288",
+                "url": "https://forsythcoga.api.civicclerk.com/v1/Meetings/GetAttachmentFile(fileId=37757)",
+                "kind": "attachment",
+                "source": "civicclerk",
+                "machine_readable": true,
+                "content_type": "application/pdf",
+                "size_bytes": 1008805
+              },
+              {
+                "label": "sign_affidavit_za4288_102726",
+                "url": "https://forsythcoga.api.civicclerk.com/v1/Meetings/GetAttachmentFile(fileId=38107)",
+                "kind": "attachment",
+                "source": "civicclerk",
+                "machine_readable": true,
+                "content_type": "application/pdf",
+                "size_bytes": 7825702
+              },
+              {
+                "label": "legal_ad_za4288",
+                "url": "https://forsythcoga.api.civicclerk.com/v1/Meetings/GetAttachmentFile(fileId=38139)",
+                "kind": "attachment",
+                "source": "civicclerk",
+                "machine_readable": true,
+                "content_type": "application/pdf",
+                "size_bytes": 124115
+              }
+            ],
+            "under_consent": false,
+            "consent_reason": null,
+            "dollar_amounts": [],
+            "large_dollar": false,
+            "long_term": false,
+            "long_term_reason": null,
+            "topics": [],
+            "children": []
+          }
+        ]
+      },
+      {
+        "number": "IX",
+        "outline_path": "IX",
+        "title": "Public Comments",
+        "level": 0,
+        "source_item_id": 18069,
+        "fiscal_impact": null,
+        "attachments": [],
+        "under_consent": false,
+        "consent_reason": null,
+        "dollar_amounts": [],
+        "large_dollar": false,
+        "long_term": false,
+        "long_term_reason": null,
+        "topics": [],
+        "children": []
+      },
+      {
+        "number": "X",
+        "outline_path": "X",
+        "title": "Old Business",
+        "level": 0,
+        "source_item_id": 18060,
+        "fiscal_impact": null,
+        "attachments": [],
+        "under_consent": false,
+        "consent_reason": null,
+        "dollar_amounts": [],
+        "large_dollar": false,
+        "long_term": false,
+        "long_term_reason": null,
+        "topics": [],
+        "children": []
+      },
+      {
+        "number": "XI",
+        "outline_path": "XI",
+        "title": "New Business",
+        "level": 0,
+        "source_item_id": 18070,
+        "fiscal_impact": null,
+        "attachments": [],
+        "under_consent": false,
+        "consent_reason": null,
+        "dollar_amounts": [],
+        "large_dollar": false,
+        "long_term": false,
+        "long_term_reason": null,
+        "topics": [],
+        "children": [
+          {
+            "number": "1",
+            "outline_path": "XI.1",
+            "title": "Kira DeRosa - ZA4285 - to rezone from Commercial Business District (CBD) to Agricultural District (A1) on 5.213 acres with a Conditional Use Permit (CUP) for a commercial horse stable in an existing 14,352 sq. ft. building with 12 parking spaces with the following variance to: 1. Reduce the front setback adjacent to the existing structure only from 50 ft. to 37 ft. (UDC Table 15.2); 2. Reduce the side and rear buffers from 25 ft. to 0 ft. (UDC Table 15.2); 3. Remove the standard dust-free pavement requirement to allow for millings and gravel parking area (UDC 17-5.3); 4. Reduce the required number of parking spaces from 58 to 12 (UDC Table 17.1); 5. Reduce the landscape strip between the front property line and any vehicular use area from 10 ft. to 0 ft. (UDC 17-5.7) - Parcel 193-127 - District 1 - Director, Department of Planning and Community Development",
+            "level": 1,
+            "source_item_id": 21311,
+            "fiscal_impact": null,
+            "attachments": [
+              {
+                "label": "application_za4285_rev_091826_redacted",
+                "url": "https://forsythcoga.api.civicclerk.com/v1/Meetings/GetAttachmentFile(fileId=37945)",
+                "kind": "attachment",
+                "source": "civicclerk",
+                "machine_readable": true,
+                "content_type": "application/pdf",
+                "size_bytes": 3393274
+              },
+              {
+                "label": "minutes_za4282",
+                "url": "https://forsythcoga.api.civicclerk.com/v1/Meetings/GetAttachmentFile(fileId=38130)",
+                "kind": "attachment",
+                "source": "civicclerk",
+                "machine_readable": true,
+                "content_type": "application/pdf",
+                "size_bytes": 156901
+              },
+              {
+                "label": "ph_transcription_za4285",
+                "url": "https://forsythcoga.api.civicclerk.com/v1/Meetings/GetAttachmentFile(fileId=37946)",
+                "kind": "attachment",
+                "source": "civicclerk",
+                "machine_readable": true,
+                "content_type": "application/pdf",
+                "size_bytes": 33243
+              },
+              {
+                "label": "pc_rec_za4285",
+                "url": "https://forsythcoga.api.civicclerk.com/v1/Meetings/GetAttachmentFile(fileId=38013)",
+                "kind": "attachment",
+                "source": "civicclerk",
+                "machine_readable": true,
+                "content_type": "application/pdf",
+                "size_bytes": 153121
+              },
+              {
+                "label": "staff_report_za4285",
+                "url": "https://forsythcoga.api.civicclerk.com/v1/Meetings/GetAttachmentFile(fileId=37947)",
+                "kind": "attachment",
+                "source": "civicclerk",
+                "machine_readable": true,
+                "content_type": "application/pdf",
+                "size_bytes": 437359
+              },
+              {
+                "label": "concept_plan_za4285_rev_091726",
+                "url": "https://forsythcoga.api.civicclerk.com/v1/Meetings/GetAttachmentFile(fileId=37948)",
+                "kind": "attachment",
+                "source": "civicclerk",
+                "machine_readable": true,
+                "content_type": "application/pdf",
+                "size_bytes": 1386565
+              },
+              {
+                "label": "location_map_za4285",
+                "url": "https://forsythcoga.api.civicclerk.com/v1/Meetings/GetAttachmentFile(fileId=37949)",
+                "kind": "attachment",
+                "source": "civicclerk",
+                "machine_readable": true,
+                "content_type": "application/pdf",
+                "size_bytes": 929029
+              }
+            ],
+            "under_consent": false,
+            "consent_reason": null,
+            "dollar_amounts": [],
+            "large_dollar": false,
+            "long_term": false,
+            "long_term_reason": null,
+            "topics": [],
+            "children": []
+          },
+          {
+            "number": "2",
+            "outline_path": "XI.2",
+            "title": "Venky Gollu - ZA4289 - to rezone from Commercial Business District (CBD) to Neighborhood Shopping District (NS) on 1.005 acres for a retail/office/restaurant in an existing 1,680 sq. ft. building with a 560 sq. ft. addition with 9 parking spaces with the following variance to: 1. Reduce the zoning buffer from 20 ft. to 0 ft. as shown on the site plan (UDC Table 12.2); 2. Reduce the zoning setback from 30 ft. to 10 ft. as shown on site plan (UDC Table 12.2); 3. Reduce the landscape strip along the western property boundary from 10 ft. to 0 ft. as shown on site plan (UDC 12-10.15); 4. Reduce the distance from an access drive to the side property lines from 40 ft. to 28 ft. (UDC 12-10.5) - Parcel 076-117 - District 1 - Director, Department of Planning and Community Development (Postponed from the October 15, 2026 Agenda)",
+            "level": 1,
+            "source_item_id": 21233,
+            "fiscal_impact": null,
+            "attachments": [
+              {
+                "label": "application_za4289_rev_083126_redacted",
+                "url": "https://forsythcoga.api.civicclerk.com/v1/Meetings/GetAttachmentFile(fileId=37735)",
+                "kind": "attachment",
+                "source": "civicclerk",
+                "machine_readable": true,
+                "content_type": "application/pdf",
+                "size_bytes": 4988649
+              },
+              {
+                "label": "minutes_za4289",
+                "url": "https://forsythcoga.api.civicclerk.com/v1/Meetings/GetAttachmentFile(fileId=37736)",
+                "kind": "attachment",
+                "source": "civicclerk",
+                "machine_readable": true,
+                "content_type": "application/pdf",
+                "size_bytes": 139764
+              },
+              {
+                "label": "ph_transcription_za4289",
+                "url": "https://forsythcoga.api.civicclerk.com/v1/Meetings/GetAttachmentFile(fileId=37737)",
+                "kind": "attachment",
+                "source": "civicclerk",
+                "machine_readable": true,
+                "content_type": "application/pdf",
+                "size_bytes": 122781
+              },
+              {
+                "label": "pc_rec_za4289",
+                "url": "https://forsythcoga.api.civicclerk.com/v1/Meetings/GetAttachmentFile(fileId=37738)",
+                "kind": "attachment",
+                "source": "civicclerk",
+                "machine_readable": true,
+                "content_type": "application/pdf",
+                "size_bytes": 131351
+              },
+              {
+                "label": "staff_report_za4289",
+                "url": "https://forsythcoga.api.civicclerk.com/v1/Meetings/GetAttachmentFile(fileId=37739)",
+                "kind": "attachment",
+                "source": "civicclerk",
+                "machine_readable": true,
+                "content_type": "application/pdf",
+                "size_bytes": 434382
+              },
+              {
+                "label": "concept_plan_za4289_rev_072126",
+                "url": "https://forsythcoga.api.civicclerk.com/v1/Meetings/GetAttachmentFile(fileId=37740)",
+                "kind": "attachment",
+                "source": "civicclerk",
+                "machine_readable": true,
+                "content_type": "application/pdf",
+                "size_bytes": 479955
+              },
+              {
+                "label": "location_map_za4289",
+                "url": "https://forsythcoga.api.civicclerk.com/v1/Meetings/GetAttachmentFile(fileId=37741)",
+                "kind": "attachment",
+                "source": "civicclerk",
+                "machine_readable": true,
+                "content_type": "application/pdf",
+                "size_bytes": 1085242
+              }
+            ],
+            "under_consent": false,
+            "consent_reason": null,
+            "dollar_amounts": [],
+            "large_dollar": false,
+            "long_term": false,
+            "long_term_reason": null,
+            "topics": [],
+            "children": []
+          },
+          {
+            "number": "3",
+            "outline_path": "XI.3",
+            "title": "AEC, INC. - ZA4301 - to rezone from Agricultural District (A1) to Mixed Residential District (MRD) on 134.39 acres for 201 residential lots with a density of 1.49 units per acre with the following variance to: 1. Eliminate the requirement for interconnection between the subject property and any adjoining properties (UDC 20B-3.3(A)(6)); 2. Reduce the percentage that community parks must be bounded by streets from 50% to 20% (UDC Table 20B.3); 3. Reduce the minimum area of community parks from 20,000 sq. ft. to 5,000 sq. ft. (UDC Table 20B.3); 4. Eliminate the requirement that plazas have orthogonal shapes that are parallel to a bounded street, lane, or building (UDC Table 20B.3) - Parcels 052-043, 052-039, 052-032, 029-145, 052-006, 029-040, 029-039, 029-093, 029-122, 030-066 - District 1 - Director, Department of Planning and Community Development",
+            "level": 1,
+            "source_item_id": 21327,
+            "fiscal_impact": null,
+            "attachments": [
+              {
+                "label": "application_za4301_rev_083126_redacted",
+                "url": "https://forsythcoga.api.civicclerk.com/v1/Meetings/GetAttachmentFile(fileId=38022)",
+                "kind": "attachment",
+                "source": "civicclerk",
+                "machine_readable": true,
+                "content_type": "application/pdf",
+                "size_bytes": 9914941
+              },
+              {
+                "label": "master_development_handbook_za4301_rev_092426",
+                "url": "https://forsythcoga.api.civicclerk.com/v1/Meetings/GetAttachmentFile(fileId=38047)",
+                "kind": "attachment",
+                "source": "civicclerk",
+                "machine_readable": true,
+                "content_type": "application/pdf",
+                "size_bytes": 93796854
+              },
+              {
+                "label": "minutes_za4301",
+                "url": "https://forsythcoga.api.civicclerk.com/v1/Meetings/GetAttachmentFile(fileId=38128)",
+                "kind": "attachment",
+                "source": "civicclerk",
+                "machine_readable": true,
+                "content_type": "application/pdf",
+                "size_bytes": 107467
+              },
+              {
+                "label": "ph_transcription_za4301",
+                "url": "https://forsythcoga.api.civicclerk.com/v1/Meetings/GetAttachmentFile(fileId=38000)",
+                "kind": "attachment",
+                "source": "civicclerk",
+                "machine_readable": true,
+                "content_type": "application/pdf",
+                "size_bytes": 61515
+              },
+              {
+                "label": "pc_rec_za4301",
+                "url": "https://forsythcoga.api.civicclerk.com/v1/Meetings/GetAttachmentFile(fileId=38001)",
+                "kind": "attachment",
+                "source": "civicclerk",
+                "machine_readable": true,
+                "content_type": "application/pdf",
+                "size_bytes": 238090
+              },
+              {
+                "label": "staff_report_za4301",
+                "url": "https://forsythcoga.api.civicclerk.com/v1/Meetings/GetAttachmentFile(fileId=38002)",
+                "kind": "attachment",
+                "source": "civicclerk",
+                "machine_readable": true,
+                "content_type": "application/pdf",
+                "size_bytes": 529139
+              },
+              {
+                "label": "concept_plan_za4301_rev_092426",
+                "url": "https://forsythcoga.api.civicclerk.com/v1/Meetings/GetAttachmentFile(fileId=38003)",
+                "kind": "attachment",
+                "source": "civicclerk",
+                "machine_readable": true,
+                "content_type": "application/pdf",
+                "size_bytes": 3177756
+              },
+              {
+                "label": "location_map_za4301",
+                "url": "https://forsythcoga.api.civicclerk.com/v1/Meetings/GetAttachmentFile(fileId=38004)",
+                "kind": "attachment",
+                "source": "civicclerk",
+                "machine_readable": true,
+                "content_type": "application/pdf",
+                "size_bytes": 1268218
+              }
+            ],
+            "under_consent": false,
+            "consent_reason": null,
+            "dollar_amounts": [],
+            "large_dollar": false,
+            "long_term": false,
+            "long_term_reason": null,
+            "topics": [],
+            "children": []
+          },
+          {
+            "number": "4",
+            "outline_path": "XI.4",
+            "title": "Atlanta Imports, Inc. - CP260050 - to operate an open storage yard with an overall site including a 23,350 sq. ft. retail/restaurant with 144 parking spaces on 2.67 acres zoned Commercial Business District (CBD) with the following variance to: 1. Reduce the landscape strip abutting Peachtree Parkway from 25 ft. to 10 ft. (UDC 21-8.5(D)(3)); 2. Reduce the zoning setback from 50 ft. to 10 ft. (UDC Table 12.2); 3. Reduce the zoning buffer from 40 ft. to 0 ft. (UDC Table 12.2); 4. Reduce the landscape strip along all side and rear lot or lease lines from 10 ft. to 0 ft. (UDC 12-10.15) - Parcel 139-004 - District 2 - Director, Department of Planning and Community Development",
+            "level": 1,
+            "source_item_id": 21309,
+            "fiscal_impact": null,
+            "attachments": [
+              {
+                "label": "application_cp260050_rev_090426_redacted",
+                "url": "https://forsythcoga.api.civicclerk.com/v1/Meetings/GetAttachmentFile(fileId=38111)",
+                "kind": "attachment",
+                "source": "civicclerk",
+                "machine_readable": true,
+                "content_type": "application/pdf",
+                "size_bytes": 2256126
+              },
+              {
+                "label": "minutes_cp260050",
+                "url": "https://forsythcoga.api.civicclerk.com/v1/Meetings/GetAttachmentFile(fileId=38112)",
+                "kind": "attachment",
+                "source": "civicclerk",
+                "machine_readable": true,
+                "content_type": "application/pdf",
+                "size_bytes": 72375
+              },
+              {
+                "label": "ph_transcription_cp260050",
+                "url": "https://forsythcoga.api.civicclerk.com/v1/Meetings/GetAttachmentFile(fileId=37933)",
+                "kind": "attachment",
+                "source": "civicclerk",
+                "machine_readable": true,
+                "content_type": "application/pdf",
+                "size_bytes": 30043
+              },
+              {
+                "label": "pc_rec_cp260050",
+                "url": "https://forsythcoga.api.civicclerk.com/v1/Meetings/GetAttachmentFile(fileId=38010)",
+                "kind": "attachment",
+                "source": "civicclerk",
+                "machine_readable": true,
+                "content_type": "application/pdf",
+                "size_bytes": 131429
+              },
+              {
+                "label": "staff_report_cp260050",
+                "url": "https://forsythcoga.api.civicclerk.com/v1/Meetings/GetAttachmentFile(fileId=37934)",
+                "kind": "attachment",
+                "source": "civicclerk",
+                "machine_readable": true,
+                "content_type": "application/pdf",
+                "size_bytes": 503716
+              },
+              {
+                "label": "concept_plan_cp260050_rev_091826",
+                "url": "https://forsythcoga.api.civicclerk.com/v1/Meetings/GetAttachmentFile(fileId=37935)",
+                "kind": "attachment",
+                "source": "civicclerk",
+                "machine_readable": true,
+                "content_type": "application/pdf",
+                "size_bytes": 488101
+              },
+              {
+                "label": "location_map_cp260050",
+                "url": "https://forsythcoga.api.civicclerk.com/v1/Meetings/GetAttachmentFile(fileId=37936)",
+                "kind": "attachment",
+                "source": "civicclerk",
+                "machine_readable": true,
+                "content_type": "application/pdf",
+                "size_bytes": 1542341
+              }
+            ],
+            "under_consent": false,
+            "consent_reason": null,
+            "dollar_amounts": [],
+            "large_dollar": false,
+            "long_term": false,
+            "long_term_reason": null,
+            "topics": [],
+            "children": []
+          },
+          {
+            "number": "5",
+            "outline_path": "XI.5",
+            "title": "Paul Herzwurm - ZA4299 - to rezone from Agricultural District (A1) to Neighborhood Shopping District (NS) on 2.119 acres for a 9,100 sq. ft. retail/office/restaurant with 50 parking spaces - Parcel 159-515 - District 2 - Director, Department of Planning and Community Development",
+            "level": 1,
+            "source_item_id": 21331,
+            "fiscal_impact": null,
+            "attachments": [
+              {
+                "label": "application_za4299_rev_083126_redacted",
+                "url": "https://forsythcoga.api.civicclerk.com/v1/Meetings/GetAttachmentFile(fileId=38027)",
+                "kind": "attachment",
+                "source": "civicclerk",
+                "machine_readable": true,
+                "content_type": "application/pdf",
+                "size_bytes": 3004584
+              },
+              {
+                "label": "minutes_za4299",
+                "url": "https://forsythcoga.api.civicclerk.com/v1/Meetings/GetAttachmentFile(fileId=38118)",
+                "kind": "attachment",
+                "source": "civicclerk",
+                "machine_readable": true,
+                "content_type": "application/pdf",
+                "size_bytes": 111226
+              },
+              {
+                "label": "ph_transcription_za4299",
+                "url": "https://forsythcoga.api.civicclerk.com/v1/Meetings/GetAttachmentFile(fileId=38029)",
+                "kind": "attachment",
+                "source": "civicclerk",
+                "machine_readable": true,
+                "content_type": "application/pdf",
+                "size_bytes": 44459
+              },
+              {
+                "label": "pc_rec_za4299",
+                "url": "https://forsythcoga.api.civicclerk.com/v1/Meetings/GetAttachmentFile(fileId=38030)",
+                "kind": "attachment",
+                "source": "civicclerk",
+                "machine_readable": true,
+                "content_type": "application/pdf",
+                "size_bytes": 199885
+              },
+              {
+                "label": "staff_report_za4299",
+                "url": "https://forsythcoga.api.civicclerk.com/v1/Meetings/GetAttachmentFile(fileId=38031)",
+                "kind": "attachment",
+                "source": "civicclerk",
+                "machine_readable": true,
+                "content_type": "application/pdf",
+                "size_bytes": 455559
+              },
+              {
+                "label": "concept_plan_za4299_rev_082126",
+                "url": "https://forsythcoga.api.civicclerk.com/v1/Meetings/GetAttachmentFile(fileId=38032)",
+                "kind": "attachment",
+                "source": "civicclerk",
+                "machine_readable": true,
+                "content_type": "application/pdf",
+                "size_bytes": 603708
+              },
+              {
+                "label": "location_map_za4299",
+                "url": "https://forsythcoga.api.civicclerk.com/v1/Meetings/GetAttachmentFile(fileId=38033)",
+                "kind": "attachment",
+                "source": "civicclerk",
+                "machine_readable": true,
+                "content_type": "application/pdf",
+                "size_bytes": 1295524
+              }
+            ],
+            "under_consent": false,
+            "consent_reason": null,
+            "dollar_amounts": [],
+            "large_dollar": false,
+            "long_term": false,
+            "long_term_reason": null,
+            "topics": [],
+            "children": []
+          },
+          {
+            "number": "6",
+            "outline_path": "XI.6",
+            "title": "Christopher Flaugh - CP260023 - to operate a 1,250 sq. ft. vehicle sales dealership in an existing building with 2 parking spaces on 10.31 acres zoned Restricted Industrial District (M1) with the following variance to: 1. Reduce the required paved surface for the display of used vehicles from 1 acre to 0 acres (UDC 16-4.37(G)(1)) - Parcel 018-215 - District 3 - Director, Department of Planning and Community Development (Postponed from the July 23, 2026, August 20, 2026, September 17, 2026 and November 5, 2026 Agendas)",
+            "level": 1,
+            "source_item_id": 20586,
+            "fiscal_impact": null,
+            "attachments": [
+              {
+                "label": "application_cp260023_rev_050126_redacted",
+                "url": "https://forsythcoga.api.civicclerk.com/v1/Meetings/GetAttachmentFile(fileId=37424)",
+                "kind": "attachment",
+                "source": "civicclerk",
+                "machine_readable": true,
+                "content_type": "application/pdf",
+                "size_bytes": 2238411
+              },
+              {
+                "label": "minutes_cp260023",
+                "url": "https://forsythcoga.api.civicclerk.com/v1/Meetings/GetAttachmentFile(fileId=37425)",
+                "kind": "attachment",
+                "source": "civicclerk",
+                "machine_readable": true,
+                "content_type": "application/pdf",
+                "size_bytes": 79530
+              },
+              {
+                "label": "ph_transcription_cp260023",
+                "url": "https://forsythcoga.api.civicclerk.com/v1/Meetings/GetAttachmentFile(fileId=37426)",
+                "kind": "attachment",
+                "source": "civicclerk",
+                "machine_readable": true,
+                "content_type": "application/pdf",
+                "size_bytes": 74758
+              },
+              {
+                "label": "pc_rec_cp260023",
+                "url": "https://forsythcoga.api.civicclerk.com/v1/Meetings/GetAttachmentFile(fileId=37427)",
+                "kind": "attachment",
+                "source": "civicclerk",
+                "machine_readable": true,
+                "content_type": "application/pdf",
+                "size_bytes": 251898
+              },
+              {
+                "label": "staff_report_cp260023",
+                "url": "https://forsythcoga.api.civicclerk.com/v1/Meetings/GetAttachmentFile(fileId=37428)",
+                "kind": "attachment",
+                "source": "civicclerk",
+                "machine_readable": true,
+                "content_type": "application/pdf",
+                "size_bytes": 429377
+              },
+              {
+                "label": "concept_plan_cp260023_rev_051326",
+                "url": "https://forsythcoga.api.civicclerk.com/v1/Meetings/GetAttachmentFile(fileId=37429)",
+                "kind": "attachment",
+                "source": "civicclerk",
+                "machine_readable": true,
+                "content_type": "application/pdf",
+                "size_bytes": 364523
+              },
+              {
+                "label": "location_map_cp260023",
+                "url": "https://forsythcoga.api.civicclerk.com/v1/Meetings/GetAttachmentFile(fileId=37430)",
+                "kind": "attachment",
+                "source": "civicclerk",
+                "machine_readable": true,
+                "content_type": "application/pdf",
+                "size_bytes": 1159634
+              }
+            ],
+            "under_consent": false,
+            "consent_reason": null,
+            "dollar_amounts": [],
+            "large_dollar": false,
+            "long_term": false,
+            "long_term_reason": null,
+            "topics": [],
+            "children": []
+          },
+          {
+            "number": "7",
+            "outline_path": "XI.7",
+            "title": "Matt 3970, LLC - ZA4282 - to rezone from Agricultural District (A1) to Commercial Business District (CBD) on 5.401 acres for retail/office/restaurant/day care center in buildings totaling 35,000 sq. ft. with 140 parking spaces with the following variance to: 1. Reduce the zoning setbacks from 50 ft. to 10 ft. as shown on the site plan (UDC Table 12.2); 2. Reduce the zoning buffers from 40 ft. to 0 ft. as shown on the site plan (UDC Table 12.2); 3. Reduce the landscape strips along the northern and eastern property boundaries from 10 ft. to 0 ft. (UDC 12-10.15); 4. Reduce the buffer where non-residential development abuts residential development along the northern property boundary from 40 ft. to 0 ft. as shown on the site plan (UDC 21-13.4(A)(12)) - Parcel 190-004 - District 4 - Director, Department of Planning and Community Development",
+            "level": 1,
+            "source_item_id": 21310,
+            "fiscal_impact": null,
+            "attachments": [
+              {
+                "label": "application_za4282_rev_083126_redacted",
+                "url": "https://forsythcoga.api.civicclerk.com/v1/Meetings/GetAttachmentFile(fileId=38115)",
+                "kind": "attachment",
+                "source": "civicclerk",
+                "machine_readable": true,
+                "content_type": "application/pdf",
+                "size_bytes": 1795972
+              },
+              {
+                "label": "minutes_za4282",
+                "url": "https://forsythcoga.api.civicclerk.com/v1/Meetings/GetAttachmentFile(fileId=38131)",
+                "kind": "attachment",
+                "source": "civicclerk",
+                "machine_readable": true,
+                "content_type": "application/pdf",
+                "size_bytes": 156901
+              },
+              {
+                "label": "ph_transcription_za4282",
+                "url": "https://forsythcoga.api.civicclerk.com/v1/Meetings/GetAttachmentFile(fileId=37939)",
+                "kind": "attachment",
+                "source": "civicclerk",
+                "machine_readable": true,
+                "content_type": "application/pdf",
+                "size_bytes": 32371
+              },
+              {
+                "label": "pc_rec_za4282",
+                "url": "https://forsythcoga.api.civicclerk.com/v1/Meetings/GetAttachmentFile(fileId=38011)",
+                "kind": "attachment",
+                "source": "civicclerk",
+                "machine_readable": true,
+                "content_type": "application/pdf",
+                "size_bytes": 265637
+              },
+              {
+                "label": "staff_report_za4282",
+                "url": "https://forsythcoga.api.civicclerk.com/v1/Meetings/GetAttachmentFile(fileId=37940)",
+                "kind": "attachment",
+                "source": "civicclerk",
+                "machine_readable": true,
+                "content_type": "application/pdf",
+                "size_bytes": 441284
+              },
+              {
+                "label": "concept_plan_za4282_rev_051526",
+                "url": "https://forsythcoga.api.civicclerk.com/v1/Meetings/GetAttachmentFile(fileId=37941)",
+                "kind": "attachment",
+                "source": "civicclerk",
+                "machine_readable": true,
+                "content_type": "application/pdf",
+                "size_bytes": 1218885
+              },
+              {
+                "label": "elevations_za4282",
+                "url": "https://forsythcoga.api.civicclerk.com/v1/Meetings/GetAttachmentFile(fileId=37942)",
+                "kind": "attachment",
+                "source": "civicclerk",
+                "machine_readable": true,
+                "content_type": "application/pdf",
+                "size_bytes": 4205094
+              },
+              {
+                "label": "location_map_za4282",
+                "url": "https://forsythcoga.api.civicclerk.com/v1/Meetings/GetAttachmentFile(fileId=37943)",
+                "kind": "attachment",
+                "source": "civicclerk",
+                "machine_readable": true,
+                "content_type": "application/pdf",
+                "size_bytes": 1342788
+              }
+            ],
+            "under_consent": false,
+            "consent_reason": null,
+            "dollar_amounts": [],
+            "large_dollar": false,
+            "long_term": false,
+            "long_term_reason": null,
+            "topics": [],
+            "children": []
+          },
+          {
+            "number": "8",
+            "outline_path": "XI.8",
+            "title": "Ramesh Kumar Velchuri - ZA4294 - to rezone from Agricultural District (A1) to Neighborhood Shopping District (NS) on 2.795 acres for a 17,500 sq. ft. retail/office/restaurant with 85 parking spaces with the following variance to: 1. Reduce the exterior buffer along the eastern property boundary from 40 ft. to 0 ft. (UDC 21-13.4(A)(12)); 2. Reduce the zoning buffer along the eastern and western property boundaries from 20 ft. to 0 ft. (UDC Table 12.2); 3. Reduce the zoning setback along the eastern and western property boundaries from 30 ft. to 10 ft. as shown on the site plan (UDC Table 12.2); 4. Reduce the front landscape strip adjacent to the existing easement only from 20 ft. to 0 ft. (UDC 21-12.5(B)(2)) - Parcel 190-048 - District 4 - Director, Department of Planning and Community Development",
+            "level": 1,
+            "source_item_id": 21325,
+            "fiscal_impact": null,
+            "attachments": [
+              {
+                "label": "application_za4294_rev_083126_redacted",
+                "url": "https://forsythcoga.api.civicclerk.com/v1/Meetings/GetAttachmentFile(fileId=37980)",
+                "kind": "attachment",
+                "source": "civicclerk",
+                "machine_readable": true,
+                "content_type": "application/pdf",
+                "size_bytes": 4873126
+              },
+              {
+                "label": "minutes_za4294",
+                "url": "https://forsythcoga.api.civicclerk.com/v1/Meetings/GetAttachmentFile(fileId=38117)",
+                "kind": "attachment",
+                "source": "civicclerk",
+                "machine_readable": true,
+                "content_type": "application/pdf",
+                "size_bytes": 143874
+              },
+              {
+                "label": "ph_transcription_za4294",
+                "url": "https://forsythcoga.api.civicclerk.com/v1/Meetings/GetAttachmentFile(fileId=37983)",
+                "kind": "attachment",
+                "source": "civicclerk",
+                "machine_readable": true,
+                "content_type": "application/pdf",
+                "size_bytes": 35104
+              },
+              {
+                "label": "pc_rec_za4294",
+                "url": "https://forsythcoga.api.civicclerk.com/v1/Meetings/GetAttachmentFile(fileId=38020)",
+                "kind": "attachment",
+                "source": "civicclerk",
+                "machine_readable": true,
+                "content_type": "application/pdf",
+                "size_bytes": 2460727
+              },
+              {
+                "label": "staff_report_za4294",
+                "url": "https://forsythcoga.api.civicclerk.com/v1/Meetings/GetAttachmentFile(fileId=37985)",
+                "kind": "attachment",
+                "source": "civicclerk",
+                "machine_readable": true,
+                "content_type": "application/pdf",
+                "size_bytes": 445897
+              },
+              {
+                "label": "concept_plan_za4294_rev_072326",
+                "url": "https://forsythcoga.api.civicclerk.com/v1/Meetings/GetAttachmentFile(fileId=37986)",
+                "kind": "attachment",
+                "source": "civicclerk",
+                "machine_readable": true,
+                "content_type": "application/pdf",
+                "size_bytes": 17594655
+              },
+              {
+                "label": "elevations_za4294",
+                "url": "https://forsythcoga.api.civicclerk.com/v1/Meetings/GetAttachmentFile(fileId=37987)",
+                "kind": "attachment",
+                "source": "civicclerk",
+                "machine_readable": true,
+                "content_type": "application/pdf",
+                "size_bytes": 6163439
+              },
+              {
+                "label": "location_map_za4294",
+                "url": "https://forsythcoga.api.civicclerk.com/v1/Meetings/GetAttachmentFile(fileId=37988)",
+                "kind": "attachment",
+                "source": "civicclerk",
+                "machine_readable": true,
+                "content_type": "application/pdf",
+                "size_bytes": 1194432
+              }
+            ],
+            "under_consent": false,
+            "consent_reason": null,
+            "dollar_amounts": [],
+            "large_dollar": false,
+            "long_term": true,
+            "long_term_reason": "easement",
+            "topics": [],
+            "children": []
+          },
+          {
+            "number": "9",
+            "outline_path": "XI.9",
+            "title": "Swamynathan Annamalai - CP250062 - to operate a 2,192 sq. ft. short-term rental in an existing building with 4 parking spaces with an overall site including an existing 1,842 sq. ft. accessory structure on 4.99 acres zoned Agricultural District (A1) - Parcel 314-172 - District 4 - Director, Department of Planning and Community Development",
+            "level": 1,
+            "source_item_id": 21306,
+            "fiscal_impact": null,
+            "attachments": [
+              {
+                "label": "application_cp250062_redacted",
+                "url": "https://forsythcoga.api.civicclerk.com/v1/Meetings/GetAttachmentFile(fileId=37920)",
+                "kind": "attachment",
+                "source": "civicclerk",
+                "machine_readable": true,
+                "content_type": "application/pdf",
+                "size_bytes": 9173226
+              },
+              {
+                "label": "minutes_cp250062",
+                "url": "https://forsythcoga.api.civicclerk.com/v1/Meetings/GetAttachmentFile(fileId=38109)",
+                "kind": "attachment",
+                "source": "civicclerk",
+                "machine_readable": true,
+                "content_type": "application/pdf",
+                "size_bytes": 55842
+              },
+              {
+                "label": "pc_rec_cp250062",
+                "url": "https://forsythcoga.api.civicclerk.com/v1/Meetings/GetAttachmentFile(fileId=38005)",
+                "kind": "attachment",
+                "source": "civicclerk",
+                "machine_readable": true,
+                "content_type": "application/pdf",
+                "size_bytes": 131079
+              },
+              {
+                "label": "staff_report_cp250062",
+                "url": "https://forsythcoga.api.civicclerk.com/v1/Meetings/GetAttachmentFile(fileId=37922)",
+                "kind": "attachment",
+                "source": "civicclerk",
+                "machine_readable": true,
+                "content_type": "application/pdf",
+                "size_bytes": 436749
+              },
+              {
+                "label": "concept_plan_cp250062_rev_072126",
+                "url": "https://forsythcoga.api.civicclerk.com/v1/Meetings/GetAttachmentFile(fileId=37923)",
+                "kind": "attachment",
+                "source": "civicclerk",
+                "machine_readable": true,
+                "content_type": "application/pdf",
+                "size_bytes": 224431
+              },
+              {
+                "label": "location_map_cp250062",
+                "url": "https://forsythcoga.api.civicclerk.com/v1/Meetings/GetAttachmentFile(fileId=37924)",
+                "kind": "attachment",
+                "source": "civicclerk",
+                "machine_readable": true,
+                "content_type": "application/pdf",
+                "size_bytes": 1991401
+              }
+            ],
+            "under_consent": false,
+            "consent_reason": null,
+            "dollar_amounts": [],
+            "large_dollar": false,
+            "long_term": false,
+            "long_term_reason": null,
+            "topics": [],
+            "children": []
+          },
+          {
+            "number": "10",
+            "outline_path": "XI.10",
+            "title": "Board consideration of the request by Shawn McLendon and Ethan Underwood of Underwood & Beard, LLC for a Public Hearing regarding an appeal of the Zoning Board of Appeals’ decision on VA260046. The variance was denied on October 6, 2026 – AV260003 – District 4 – Director, Department of Planning and Community Development (Postponed from the November 5, 2026 Agenda.)",
+            "level": 1,
+            "source_item_id": 21351,
+            "fiscal_impact": null,
+            "attachments": [
+              {
+                "label": "ZBA Appeal Application",
+                "url": "https://forsythcoga.api.civicclerk.com/v1/Meetings/GetAttachmentFile(fileId=38143)",
+                "kind": "attachment",
+                "source": "civicclerk",
+                "machine_readable": true,
+                "content_type": "application/pdf",
+                "size_bytes": 2377250
+              },
+              {
+                "label": "Concept Plan",
+                "url": "https://forsythcoga.api.civicclerk.com/v1/Meetings/GetAttachmentFile(fileId=38144)",
+                "kind": "attachment",
+                "source": "civicclerk",
+                "machine_readable": true,
+                "content_type": "application/pdf",
+                "size_bytes": 617238
+              },
+              {
+                "label": "Location Map",
+                "url": "https://forsythcoga.api.civicclerk.com/v1/Meetings/GetAttachmentFile(fileId=38145)",
+                "kind": "attachment",
+                "source": "civicclerk",
+                "machine_readable": true,
+                "content_type": "application/pdf",
+                "size_bytes": 744000
+              },
+              {
+                "label": "Associated Material - VA260046 ZBA Application",
+                "url": "https://forsythcoga.api.civicclerk.com/v1/Meetings/GetAttachmentFile(fileId=38146)",
+                "kind": "attachment",
+                "source": "civicclerk",
+                "machine_readable": true,
+                "content_type": "application/pdf",
+                "size_bytes": 1751332
+              },
+              {
+                "label": "Associated Material - VA260046 ZBA Decision Letter",
+                "url": "https://forsythcoga.api.civicclerk.com/v1/Meetings/GetAttachmentFile(fileId=38147)",
+                "kind": "attachment",
+                "source": "civicclerk",
+                "machine_readable": true,
+                "content_type": "application/pdf",
+                "size_bytes": 1037553
+              }
+            ],
+            "under_consent": false,
+            "consent_reason": null,
+            "dollar_amounts": [],
+            "large_dollar": false,
+            "long_term": false,
+            "long_term_reason": null,
+            "topics": [],
+            "children": []
+          },
+          {
+            "number": "11",
+            "outline_path": "XI.11",
+            "title": "SDP Acquisitions, LLC - ZA4300 - to rezone from Restricted Industrial District (M1), Agricultural District (A1) and Single Family Residential District (RES4) to Restricted Industrial District (M1) on 25.797 acres for a 281,000 sq. ft. warehouse with 221 parking spaces and 42 semi-tractor trailer spaces with the following variance to: 1. Reduce the required number of parking spaces from 281 to 221 (UDC Table 17.1) - Parcels 088-271, 088-015, 088-012, 088-187, 088-013, 088-053, 088-014 and 088-011 - District 5 - Director, Department of Planning and Community Development (Postponed from the October 15, 2026 Agenda)",
+            "level": 1,
+            "source_item_id": 21236,
+            "fiscal_impact": null,
+            "attachments": [
+              {
+                "label": "application_za4300_rev_083126_redacted",
+                "url": "https://forsythcoga.api.civicclerk.com/v1/Meetings/GetAttachmentFile(fileId=37759)",
+                "kind": "attachment",
+                "source": "civicclerk",
+                "machine_readable": true,
+                "content_type": "application/pdf",
+                "size_bytes": 24254245
+              },
+              {
+                "label": "minutes_za4300",
+                "url": "https://forsythcoga.api.civicclerk.com/v1/Meetings/GetAttachmentFile(fileId=37760)",
+                "kind": "attachment",
+                "source": "civicclerk",
+                "machine_readable": true,
+                "content_type": "application/pdf",
+                "size_bytes": 195932
+              },
+              {
+                "label": "ph_transcription_za4300",
+                "url": "https://forsythcoga.api.civicclerk.com/v1/Meetings/GetAttachmentFile(fileId=37762)",
+                "kind": "attachment",
+                "source": "civicclerk",
+                "machine_readable": true,
+                "content_type": "application/pdf",
+                "size_bytes": 47264
+              },
+              {
+                "label": "pc_rec_za4300",
+                "url": "https://forsythcoga.api.civicclerk.com/v1/Meetings/GetAttachmentFile(fileId=37763)",
+                "kind": "attachment",
+                "source": "civicclerk",
+                "machine_readable": true,
+                "content_type": "application/pdf",
+                "size_bytes": 197274
+              },
+              {
+                "label": "staff_report_za4300",
+                "url": "https://forsythcoga.api.civicclerk.com/v1/Meetings/GetAttachmentFile(fileId=37764)",
+                "kind": "attachment",
+                "source": "civicclerk",
+                "machine_readable": true,
+                "content_type": "application/pdf",
+                "size_bytes": 437028
+              },
+              {
+                "label": "concept_plan_za4300_rev_082126",
+                "url": "https://forsythcoga.api.civicclerk.com/v1/Meetings/GetAttachmentFile(fileId=37765)",
+                "kind": "attachment",
+                "source": "civicclerk",
+                "machine_readable": true,
+                "content_type": "application/pdf",
+                "size_bytes": 1257426
+              },
+              {
+                "label": "location_map_za4300",
+                "url": "https://forsythcoga.api.civicclerk.com/v1/Meetings/GetAttachmentFile(fileId=37766)",
+                "kind": "attachment",
+                "source": "civicclerk",
+                "machine_readable": true,
+                "content_type": "application/pdf",
+                "size_bytes": 1559391
+              }
+            ],
+            "under_consent": false,
+            "consent_reason": null,
+            "dollar_amounts": [],
+            "large_dollar": false,
+            "long_term": false,
+            "long_term_reason": null,
+            "topics": [],
+            "children": []
+          },
+          {
+            "number": "12",
+            "outline_path": "XI.12",
+            "title": "Shree Real Estate Developers, LLC - ZA4304 - to rezone from Agricultural District (A1) and Highway Business District (HB) to Commercial Business District (CBD) on 24.24 acres for retail/office/restaurant/day care center in buildings totaling 187,608 sq. ft. with 850 parking spaces with the following variance to: 1. Reduce the zoning buffer along the northern property boundary adjacent to the existing sewer easement only from 40 ft. to 12 ft. (UDC Table 12.2); 2. Reduce the sides of the building exterior that parking is distributed on from 2 sides to 1 side and increase the percentage of parking that fronts the main building entrances from 60% to 100% (UDC 21-8.5(A)) - Parcels 110-025, 110-399, 110-400, 110-024 - District 5 - Director, Department of Planning and Community Development",
+            "level": 1,
+            "source_item_id": 21333,
+            "fiscal_impact": null,
+            "attachments": [
+              {
+                "label": "application_za4304_rev_081926_redacted",
+                "url": "https://forsythcoga.api.civicclerk.com/v1/Meetings/GetAttachmentFile(fileId=38039)",
+                "kind": "attachment",
+                "source": "civicclerk",
+                "machine_readable": true,
+                "content_type": "application/pdf",
+                "size_bytes": 2644832
+              },
+              {
+                "label": "minutes_za4304",
+                "url": "https://forsythcoga.api.civicclerk.com/v1/Meetings/GetAttachmentFile(fileId=38129)",
+                "kind": "attachment",
+                "source": "civicclerk",
+                "machine_readable": true,
+                "content_type": "application/pdf",
+                "size_bytes": 97359
+              },
+              {
+                "label": "ph_transcription_za4304",
+                "url": "https://forsythcoga.api.civicclerk.com/v1/Meetings/GetAttachmentFile(fileId=38041)",
+                "kind": "attachment",
+                "source": "civicclerk",
+                "machine_readable": true,
+                "content_type": "application/pdf",
+                "size_bytes": 28166
+              },
+              {
+                "label": "pc_rec_za4304",
+                "url": "https://forsythcoga.api.civicclerk.com/v1/Meetings/GetAttachmentFile(fileId=38081)",
+                "kind": "attachment",
+                "source": "civicclerk",
+                "machine_readable": true,
+                "content_type": "application/pdf",
+                "size_bytes": 229884
+              },
+              {
+                "label": "staff_report_za4304",
+                "url": "https://forsythcoga.api.civicclerk.com/v1/Meetings/GetAttachmentFile(fileId=38043)",
+                "kind": "attachment",
+                "source": "civicclerk",
+                "machine_readable": true,
+                "content_type": "application/pdf",
+                "size_bytes": 440805
+              },
+              {
+                "label": "concept_plan_za4304_rev_091826",
+                "url": "https://forsythcoga.api.civicclerk.com/v1/Meetings/GetAttachmentFile(fileId=38044)",
+                "kind": "attachment",
+                "source": "civicclerk",
+                "machine_readable": true,
+                "content_type": "application/pdf",
+                "size_bytes": 6755005
+              },
+              {
+                "label": "location_map_za4304",
+                "url": "https://forsythcoga.api.civicclerk.com/v1/Meetings/GetAttachmentFile(fileId=38045)",
+                "kind": "attachment",
+                "source": "civicclerk",
+                "machine_readable": true,
+                "content_type": "application/pdf",
+                "size_bytes": 2003595
+              }
+            ],
+            "under_consent": false,
+            "consent_reason": null,
+            "dollar_amounts": [],
+            "large_dollar": false,
+            "long_term": true,
+            "long_term_reason": "easement",
+            "topics": [],
+            "children": []
+          },
+          {
+            "number": "13",
+            "outline_path": "XI.13",
+            "title": "Board consideration of “Claim, Request and Demand for [Tax] Refund” requested by David and Kelly Douglas concerning ad valorem (property) taxes with regard to property located at 8980 Beaver Trl, Gainesville, Georgia 30506, designated Parcel Number 319 046, for Tax Years 2022-2026, in the amount of $8,719.59 plus future interest at the rate of 11.5% per annum - County Attorney",
+            "level": 1,
+            "source_item_id": 21347,
+            "fiscal_impact": null,
+            "attachments": [
+              {
+                "label": "Douglas Refund",
+                "url": "https://forsythcoga.api.civicclerk.com/v1/Meetings/GetAttachmentFile(fileId=38307)",
+                "kind": "attachment",
+                "source": "civicclerk",
+                "machine_readable": true,
+                "content_type": "application/pdf",
+                "size_bytes": 15051291
+              }
+            ],
+            "under_consent": false,
+            "consent_reason": null,
+            "dollar_amounts": [
+              8720
+            ],
+            "large_dollar": false,
+            "long_term": false,
+            "long_term_reason": null,
+            "topics": [
+              "taxes"
+            ],
+            "children": []
+          }
+        ]
+      },
+      {
+        "number": "XII",
+        "outline_path": "XII",
+        "title": "Recess Regular Meeting",
+        "level": 0,
+        "source_item_id": 18061,
+        "fiscal_impact": null,
+        "attachments": [],
+        "under_consent": false,
+        "consent_reason": null,
+        "dollar_amounts": [],
+        "large_dollar": false,
+        "long_term": false,
+        "long_term_reason": null,
+        "topics": [],
+        "children": []
+      },
+      {
+        "number": "XIII",
+        "outline_path": "XIII",
+        "title": "Executive Session (if needed)",
+        "level": 0,
+        "source_item_id": 18071,
+        "fiscal_impact": null,
+        "attachments": [],
+        "under_consent": false,
+        "consent_reason": null,
+        "dollar_amounts": [],
+        "large_dollar": false,
+        "long_term": false,
+        "long_term_reason": null,
+        "topics": [],
+        "children": []
+      },
+      {
+        "number": "XIV",
+        "outline_path": "XIV",
+        "title": "Adjournment",
+        "level": 0,
+        "source_item_id": 18072,
+        "fiscal_impact": null,
+        "attachments": [],
+        "under_consent": false,
+        "consent_reason": null,
+        "dollar_amounts": [],
+        "large_dollar": false,
+        "long_term": false,
+        "long_term_reason": null,
+        "topics": [],
+        "children": []
+      }
+    ]
   },
   {
     "slug": "2026-11-19-animal-control-board-called-meeting",
@@ -52887,7 +56354,7 @@
     "agenda_published": false,
     "agenda_status_note": null,
     "agenda_derived_from_pdf": false,
-    "fetched_at": "2026-11-15T12:52:19-05:00",
+    "fetched_at": "2026-11-16T16:07:55-05:00",
     "content_hash": "2b5f81336360ab142c478fe8bc4099f4f8ecb4fd94203af274f7841316bfe45b",
     "documents": [],
     "items": []
@@ -52912,7 +56379,7 @@
     "agenda_published": false,
     "agenda_status_note": null,
     "agenda_derived_from_pdf": false,
-    "fetched_at": "2026-11-15T12:52:19-05:00",
+    "fetched_at": "2026-11-16T16:07:55-05:00",
     "content_hash": "7d054cf6fa248d2717d6f3a48680dd539c443820d3d9cb52f8683a69f41814d4",
     "documents": [],
     "items": []
@@ -52937,7 +56404,7 @@
     "agenda_published": false,
     "agenda_status_note": null,
     "agenda_derived_from_pdf": false,
-    "fetched_at": "2026-11-15T12:52:19-05:00",
+    "fetched_at": "2026-11-16T16:07:55-05:00",
     "content_hash": "a4a977346c1f2f91fce3a452ab484b8fed6d7c821da70d85d5fd5ddc644d2a66",
     "documents": [],
     "items": []
@@ -52962,7 +56429,7 @@
     "agenda_published": false,
     "agenda_status_note": null,
     "agenda_derived_from_pdf": false,
-    "fetched_at": "2026-11-15T12:52:19-05:00",
+    "fetched_at": "2026-11-16T16:07:55-05:00",
     "content_hash": "ae10deb888e22bfeb1752ab42ef15298e109aa7efd89119013b6eb4c6c728b94",
     "documents": [],
     "items": []
@@ -52987,7 +56454,7 @@
     "agenda_published": false,
     "agenda_status_note": null,
     "agenda_derived_from_pdf": false,
-    "fetched_at": "2026-11-15T12:52:19-05:00",
+    "fetched_at": "2026-11-16T16:07:55-05:00",
     "content_hash": "b10ba7943e9a40da9813a87807c52a102e7c106c8a7d089998a462439a572e47",
     "documents": [
       {
@@ -53022,12 +56489,12 @@
     "agenda_published": false,
     "agenda_status_note": null,
     "agenda_derived_from_pdf": false,
-    "fetched_at": "2026-11-15T12:52:19-05:00",
-    "content_hash": "f99dec71085ef7ac8439ea4816f79067926b5be920aa375dcca942405532472c",
+    "fetched_at": "2026-11-16T16:07:55-05:00",
+    "content_hash": "6a6630d000a58da32d8282e9cd972a4a4994a388ad0807f0db42b66df1ffd3a9",
     "documents": [
       {
         "label": "Public Notice PDF",
-        "url": "https://www.forsythco.com/app/uploads/2026/11/12.7.26_PublicNotice.pdf",
+        "url": "https://www.forsythco.com/app/uploads/2026/11/12.7.26_PublicNotice-1.pdf",
         "kind": "notice",
         "source": "county",
         "machine_readable": true,
@@ -53092,7 +56559,7 @@
     "agenda_published": false,
     "agenda_status_note": null,
     "agenda_derived_from_pdf": false,
-    "fetched_at": "2026-11-15T12:52:19-05:00",
+    "fetched_at": "2026-11-16T16:07:55-05:00",
     "content_hash": "50e31ddff59c78dc0edc55c6cfb9996bda443643d0d63ffa2e495c04bcf0d5ee",
     "documents": [],
     "items": []
@@ -53117,12 +56584,12 @@
     "agenda_published": false,
     "agenda_status_note": null,
     "agenda_derived_from_pdf": false,
-    "fetched_at": "2026-11-15T12:52:19-05:00",
-    "content_hash": "df30e755954b879902979f9752403cd89ff9eac5d7703a2d5a61a076202700f6",
+    "fetched_at": "2026-11-16T16:07:55-05:00",
+    "content_hash": "9cdd7433f8ce7757585631d4b7548b91cbeca43f76c351e069d2cd8933baf7a1",
     "documents": [
       {
         "label": "Public Notice PDF",
-        "url": "https://www.forsythco.com/app/uploads/2026/11/12.9.26_PublicNotice.pdf",
+        "url": "https://www.forsythco.com/app/uploads/2026/11/12.9.26_PublicNotice-1.pdf",
         "kind": "notice",
         "source": "county",
         "machine_readable": true,
@@ -53152,12 +56619,12 @@
     "agenda_published": false,
     "agenda_status_note": null,
     "agenda_derived_from_pdf": false,
-    "fetched_at": "2026-11-15T12:52:19-05:00",
-    "content_hash": "3d26962adfe6505379913b3107aa07ce8fba099420e94fabc9b4d0f1d09a094b",
+    "fetched_at": "2026-11-16T16:07:55-05:00",
+    "content_hash": "56d346c3de7bd5060e64005baa7f7f0f4911f330f10288e4f49b29ed04b7e743",
     "documents": [
       {
         "label": "Public Notice PDF",
-        "url": "https://www.forsythco.com/app/uploads/2026/11/12.14.26_PublicNotice.pdf",
+        "url": "https://www.forsythco.com/app/uploads/2026/11/12.14.26_PublicNotice-1.pdf",
         "kind": "notice",
         "source": "county",
         "machine_readable": true,
@@ -53187,16 +56654,16 @@
     "agenda_published": false,
     "agenda_status_note": null,
     "agenda_derived_from_pdf": false,
-    "fetched_at": "2026-11-15T12:52:19-05:00",
+    "fetched_at": "2026-11-16T16:07:55-05:00",
     "content_hash": "1e5eaf11baada626ddf1338b84e98ac73ec6ad4859997f8472110289a87d0aa2",
     "documents": [],
     "items": []
   },
   {
     "slug": "2027-01-06-parks-rec-advisory-board-meeting-schedule-2027-regular-meeting",
-    "body": "Parks & Rec Advisory Board Meeting Schedule 2027",
-    "meeting_type": "Regular Meeting",
-    "title": "Parks & Rec Advisory Board Meeting Schedule 2027",
+    "body": "Parks & Rec Advisory Board",
+    "meeting_type": "Meeting",
+    "title": "Parks & Rec Advisory Board Meeting",
     "date": "2027-01-06",
     "start_time": "18:30",
     "start_iso": "2027-01-06T18:30:00-05:00",
@@ -53212,19 +56679,9 @@
     "agenda_published": false,
     "agenda_status_note": null,
     "agenda_derived_from_pdf": false,
-    "fetched_at": "2026-11-15T12:52:19-05:00",
-    "content_hash": "c638d322ff0639cfff66042bcd802b7464d8f2e8c5068fe79acbd87dd9a77743",
-    "documents": [
-      {
-        "label": "Parks and Rec Advisory Board Meeting Schedule 2027 PDF",
-        "url": "https://www.forsythco.com/app/uploads/2026/11/2027-PR-Board-Meeting-Schedule-UA.pdf",
-        "kind": "other",
-        "source": "county",
-        "machine_readable": true,
-        "content_type": null,
-        "size_bytes": null
-      }
-    ],
+    "fetched_at": "2026-11-16T16:07:55-05:00",
+    "content_hash": "67607489ca374d0a9eae39934f40680c7034d1606bbb65a3efddd8ee0a291833",
+    "documents": [],
     "items": []
   }
 ]
