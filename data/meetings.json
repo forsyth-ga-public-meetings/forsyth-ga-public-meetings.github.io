@@ -34129,7 +34129,7 @@
     "agenda_published": true,
     "agenda_status_note": null,
     "agenda_derived_from_pdf": false,
-    "fetched_at": "2026-11-18T14:28:06-05:00",
+    "fetched_at": "2026-11-19T14:32:31-05:00",
     "content_hash": "82d658c8d11eafba917ca9397c60eef70ff287154acc9cedb86a859d894f21a2",
     "documents": [
       {
@@ -34998,7 +34998,7 @@
     "agenda_published": true,
     "agenda_status_note": "The items below were read automatically from the county's agenda PDF, which has no machine-readable structure. Numbering follows the PDF, but nesting and any item the extractor could not read are not shown. The PDF linked below is the complete document.",
     "agenda_derived_from_pdf": true,
-    "fetched_at": "2026-11-18T14:28:06-05:00",
+    "fetched_at": "2026-11-19T14:32:31-05:00",
     "content_hash": "c3a4ec08092d9da7b54d4b7c0182c15ec881179b8bc04fb6e38ec94bd0d9cbf3",
     "documents": [
       {
@@ -36065,12 +36065,12 @@
     "agenda_published": true,
     "agenda_status_note": null,
     "agenda_derived_from_pdf": false,
-    "fetched_at": "2026-11-18T14:28:06-05:00",
-    "content_hash": "1417492e1c7c2f31c04855ff71cceb987584029c88e4deca99d5fce6b7338ad9",
+    "fetched_at": "2026-11-19T14:32:31-05:00",
+    "content_hash": "4da92eb1277f6bc486ad7be9619c18b060ad61224d5267a2a99e59a4195df9f2",
     "documents": [
       {
         "label": "Minutes PDF",
-        "url": "https://www.forsythco.com/app/uploads/2026/07/Official_Minutes_10.1.2026.pdf",
+        "url": "https://www.forsythco.com/app/uploads/2026/07/Official_Minutes_10.1.2026-UA.pdf",
         "kind": "minutes",
         "source": "county",
         "machine_readable": true,
@@ -37479,7 +37479,7 @@
     "agenda_published": true,
     "agenda_status_note": "The items below were read automatically from the county's agenda PDF, which has no machine-readable structure. Numbering follows the PDF, but nesting and any item the extractor could not read are not shown. The PDF linked below is the complete document.",
     "agenda_derived_from_pdf": true,
-    "fetched_at": "2026-11-18T14:28:06-05:00",
+    "fetched_at": "2026-11-19T14:32:31-05:00",
     "content_hash": "7d55061ad325273ca7dc93ec1de889480f581ee1dd6504522f75af73ba2053b6",
     "documents": [
       {
@@ -37779,7 +37779,7 @@
     "agenda_published": true,
     "agenda_status_note": "The items below were read automatically from the county's agenda PDF, which has no machine-readable structure. Numbering follows the PDF, but nesting and any item the extractor could not read are not shown. The PDF linked below is the complete document.",
     "agenda_derived_from_pdf": true,
-    "fetched_at": "2026-11-18T14:28:06-05:00",
+    "fetched_at": "2026-11-19T14:32:31-05:00",
     "content_hash": "530cbb1ded86c0564f54f7eb00d521a43baf19d50897935090b1db7ea1d0944d",
     "documents": [
       {
@@ -38153,7 +38153,7 @@
     "agenda_published": true,
     "agenda_status_note": null,
     "agenda_derived_from_pdf": false,
-    "fetched_at": "2026-11-18T14:28:06-05:00",
+    "fetched_at": "2026-11-19T14:32:31-05:00",
     "content_hash": "e19a33d22567d54bd4b042bfd0d2483ee8f8fba6c41bf684928a25be3b750bc5",
     "documents": [
       {
@@ -39054,7 +39054,7 @@
     "agenda_published": true,
     "agenda_status_note": "The items below were read automatically from the county's agenda PDF, which has no machine-readable structure. Numbering follows the PDF, but nesting and any item the extractor could not read are not shown. The PDF linked below is the complete document.",
     "agenda_derived_from_pdf": true,
-    "fetched_at": "2026-11-18T14:28:06-05:00",
+    "fetched_at": "2026-11-19T14:32:31-05:00",
     "content_hash": "4b54a68fe55e513851848b725faaf937497f0c9f93ea6ed4c54f0b3e6e77ab08",
     "documents": [
       {
@@ -39210,7 +39210,7 @@
     "agenda_published": false,
     "agenda_status_note": null,
     "agenda_derived_from_pdf": false,
-    "fetched_at": "2026-11-18T14:28:06-05:00",
+    "fetched_at": "2026-11-19T14:32:31-05:00",
     "content_hash": "7f764d128cb97238ea9c5130d0e214fbcd22f16aa7c067855fd4270aacfe5ac1",
     "documents": [
       {
@@ -39254,7 +39254,7 @@
     "agenda_published": true,
     "agenda_status_note": "The county published this agenda only as a PDF, and no numbered items could be read from it. Use the PDF link below.",
     "agenda_derived_from_pdf": false,
-    "fetched_at": "2026-11-18T14:28:06-05:00",
+    "fetched_at": "2026-11-19T14:32:31-05:00",
     "content_hash": "5305e3f5346d2ccac11250259a3fae865fbde0e56068e1071503918e41ed98b8",
     "documents": [
       {
@@ -39316,7 +39316,7 @@
     "agenda_published": true,
     "agenda_status_note": "The items below were read automatically from the county's agenda PDF, which has no machine-readable structure. Numbering follows the PDF, but nesting and any item the extractor could not read are not shown. The PDF linked below is the complete document.",
     "agenda_derived_from_pdf": true,
-    "fetched_at": "2026-11-18T14:28:06-05:00",
+    "fetched_at": "2026-11-19T14:32:31-05:00",
     "content_hash": "390fa38b74e5cde7f36e5605f12b57ff63f4641ad067c75e572b8cb8e561cc5d",
     "documents": [
       {
@@ -39515,7 +39515,7 @@
     "agenda_published": true,
     "agenda_status_note": "The items below were read automatically from the county's agenda PDF, which has no machine-readable structure. Numbering follows the PDF, but nesting and any item the extractor could not read are not shown. The PDF linked below is the complete document.",
     "agenda_derived_from_pdf": true,
-    "fetched_at": "2026-11-18T14:28:06-05:00",
+    "fetched_at": "2026-11-19T14:32:31-05:00",
     "content_hash": "f5d478703d6fb6ceebaf3e8253877d654d524cab7a400d173ddafb3cc1c22676",
     "documents": [
       {
@@ -39714,7 +39714,7 @@
     "agenda_published": false,
     "agenda_status_note": null,
     "agenda_derived_from_pdf": false,
-    "fetched_at": "2026-11-18T14:28:06-05:00",
+    "fetched_at": "2026-11-19T14:32:31-05:00",
     "content_hash": "867fdfd3c1a7d502dd0980b383142c2fb51910ef8c552065f486df5999fa45b8",
     "documents": [],
     "items": []
@@ -39739,7 +39739,7 @@
     "agenda_published": true,
     "agenda_status_note": "The items below were read automatically from the county's agenda PDF, which has no machine-readable structure. Numbering follows the PDF, but nesting and any item the extractor could not read are not shown. The PDF linked below is the complete document.",
     "agenda_derived_from_pdf": true,
-    "fetched_at": "2026-11-18T14:28:06-05:00",
+    "fetched_at": "2026-11-19T14:32:31-05:00",
     "content_hash": "e9aa0718e3c4e6a923563e83d1ec51a759fd5876cebce3e17a6f08fd62984791",
     "documents": [
       {
@@ -40040,7 +40040,7 @@
     "agenda_published": true,
     "agenda_status_note": "The items below were read automatically from the county's agenda PDF, which has no machine-readable structure. Numbering follows the PDF, but nesting and any item the extractor could not read are not shown. The PDF linked below is the complete document.",
     "agenda_derived_from_pdf": true,
-    "fetched_at": "2026-11-18T14:28:06-05:00",
+    "fetched_at": "2026-11-19T14:32:31-05:00",
     "content_hash": "edd09b7713e4db0bc3bd80984195959bc091b703551cbfb17772b26a8389e524",
     "documents": [
       {
@@ -40163,7 +40163,7 @@
     "agenda_published": true,
     "agenda_status_note": null,
     "agenda_derived_from_pdf": false,
-    "fetched_at": "2026-11-18T14:28:06-05:00",
+    "fetched_at": "2026-11-19T14:32:31-05:00",
     "content_hash": "7216a3187475e1fbd2988936bf8432cf1190a867154e41031d10f44e2bfe5e9b",
     "documents": [
       {
@@ -42407,7 +42407,7 @@
     "agenda_published": true,
     "agenda_status_note": "The items below were read automatically from the county's agenda PDF, which has no machine-readable structure. Numbering follows the PDF, but nesting and any item the extractor could not read are not shown. The PDF linked below is the complete document.",
     "agenda_derived_from_pdf": true,
-    "fetched_at": "2026-11-18T14:28:06-05:00",
+    "fetched_at": "2026-11-19T14:32:31-05:00",
     "content_hash": "406d037a40958d6372830d835dbe6ad1c6523457d96e77c490bffc6eaa0a4ffe",
     "documents": [
       {
@@ -42877,7 +42877,7 @@
     "agenda_published": true,
     "agenda_status_note": "The county published this agenda only as a PDF, and no numbered items could be read from it. Use the PDF link below.",
     "agenda_derived_from_pdf": false,
-    "fetched_at": "2026-11-18T14:28:06-05:00",
+    "fetched_at": "2026-11-19T14:32:31-05:00",
     "content_hash": "f4e6dd8a01e2a17bf8ad1ce7f48780a56ab262b42251b4d0e96dc9ced8227d3c",
     "documents": [
       {
@@ -42957,7 +42957,7 @@
     "agenda_published": true,
     "agenda_status_note": null,
     "agenda_derived_from_pdf": false,
-    "fetched_at": "2026-11-18T14:28:06-05:00",
+    "fetched_at": "2026-11-19T14:32:31-05:00",
     "content_hash": "247815c282b501c2ac63cd52aa7ac178a36d5e6fc843027b72c419d0c29aff07",
     "documents": [
       {
@@ -44242,7 +44242,7 @@
     "agenda_published": true,
     "agenda_status_note": "The county published this agenda only as a PDF, and no numbered items could be read from it. Use the PDF link below.",
     "agenda_derived_from_pdf": false,
-    "fetched_at": "2026-11-18T14:28:06-05:00",
+    "fetched_at": "2026-11-19T14:32:31-05:00",
     "content_hash": "a3be125154f27711f30b4fe926c0d3253f442f5a6d3df842beb2f0c5f6310dbe",
     "documents": [
       {
@@ -44304,7 +44304,7 @@
     "agenda_published": true,
     "agenda_status_note": "The items below were read automatically from the county's agenda PDF, which has no machine-readable structure. Numbering follows the PDF, but nesting and any item the extractor could not read are not shown. The PDF linked below is the complete document.",
     "agenda_derived_from_pdf": true,
-    "fetched_at": "2026-11-18T14:28:06-05:00",
+    "fetched_at": "2026-11-19T14:32:31-05:00",
     "content_hash": "21fc37296c0675af870d8c7ef82e777a99e5ac7b967cb577f09699d5ed92e5ff",
     "documents": [
       {
@@ -44476,7 +44476,7 @@
     "agenda_published": true,
     "agenda_status_note": "The items below were read automatically from the county's agenda PDF, which has no machine-readable structure. Numbering follows the PDF, but nesting and any item the extractor could not read are not shown. The PDF linked below is the complete document.",
     "agenda_derived_from_pdf": true,
-    "fetched_at": "2026-11-18T14:28:06-05:00",
+    "fetched_at": "2026-11-19T14:32:31-05:00",
     "content_hash": "d54f7b596cc657d1ad24ab80dde8b2162fe684ded527ecacb885dbd2cd369c3f",
     "documents": [
       {
@@ -45661,7 +45661,7 @@
     "agenda_published": true,
     "agenda_status_note": "The items below were read automatically from the county's agenda PDF, which has no machine-readable structure. Numbering follows the PDF, but nesting and any item the extractor could not read are not shown. The PDF linked below is the complete document.",
     "agenda_derived_from_pdf": true,
-    "fetched_at": "2026-11-18T14:28:06-05:00",
+    "fetched_at": "2026-11-19T14:32:31-05:00",
     "content_hash": "4648cf86e9938fc7e85b359de42ea5a49800688403531f10630e0a6e9bc1d66c",
     "documents": [
       {
@@ -45995,7 +45995,7 @@
     "agenda_published": true,
     "agenda_status_note": "The items below were read automatically from the county's agenda PDF, which has no machine-readable structure. Numbering follows the PDF, but nesting and any item the extractor could not read are not shown. The PDF linked below is the complete document.",
     "agenda_derived_from_pdf": true,
-    "fetched_at": "2026-11-18T14:28:06-05:00",
+    "fetched_at": "2026-11-19T14:32:31-05:00",
     "content_hash": "39ca23b04950731b374afccff2a81115026825389e185fa62fd65fb825872272",
     "documents": [
       {
@@ -46083,7 +46083,7 @@
     "agenda_published": true,
     "agenda_status_note": "The items below were read automatically from the county's agenda PDF, which has no machine-readable structure. Numbering follows the PDF, but nesting and any item the extractor could not read are not shown. The PDF linked below is the complete document.",
     "agenda_derived_from_pdf": true,
-    "fetched_at": "2026-11-18T14:28:06-05:00",
+    "fetched_at": "2026-11-19T14:32:31-05:00",
     "content_hash": "0684f554ca486ce9a41668f91f6dff5784b86601934c3312c5efe751909a325b",
     "documents": [
       {
@@ -46197,7 +46197,7 @@
     "agenda_published": true,
     "agenda_status_note": "The items below were read automatically from the county's agenda PDF, which has no machine-readable structure. Numbering follows the PDF, but nesting and any item the extractor could not read are not shown. The PDF linked below is the complete document.",
     "agenda_derived_from_pdf": true,
-    "fetched_at": "2026-11-18T14:28:06-05:00",
+    "fetched_at": "2026-11-19T14:32:31-05:00",
     "content_hash": "2b9b21a038a21fd111e6736507406d8dfdb290e0484e719b61d18d858a3dd10b",
     "documents": [
       {
@@ -46404,7 +46404,7 @@
     "agenda_published": true,
     "agenda_status_note": "The items below were read automatically from the county's agenda PDF, which has no machine-readable structure. Numbering follows the PDF, but nesting and any item the extractor could not read are not shown. The PDF linked below is the complete document.",
     "agenda_derived_from_pdf": true,
-    "fetched_at": "2026-11-18T14:28:06-05:00",
+    "fetched_at": "2026-11-19T14:32:31-05:00",
     "content_hash": "f170f057c5242cad03a1a5b50d9642b6220d3f62f9f328b641f9a4b264abfe3b",
     "documents": [
       {
@@ -46612,7 +46612,7 @@
     "agenda_published": true,
     "agenda_status_note": null,
     "agenda_derived_from_pdf": false,
-    "fetched_at": "2026-11-18T14:28:06-05:00",
+    "fetched_at": "2026-11-19T14:32:31-05:00",
     "content_hash": "779689260a91e6413df6e2f1f69e3d277cd9a9c7094afff0e3ee872273eb7db5",
     "documents": [
       {
@@ -48671,7 +48671,7 @@
     "agenda_published": true,
     "agenda_status_note": "The items below were read automatically from the county's agenda PDF, which has no machine-readable structure. Numbering follows the PDF, but nesting and any item the extractor could not read are not shown. The PDF linked below is the complete document.",
     "agenda_derived_from_pdf": true,
-    "fetched_at": "2026-11-18T14:28:06-05:00",
+    "fetched_at": "2026-11-19T14:32:31-05:00",
     "content_hash": "053169e0830be31e8c191d514498a9febdb3b7f13206e9df10ffe89872f48cb7",
     "documents": [
       {
@@ -48914,7 +48914,7 @@
     "agenda_published": true,
     "agenda_status_note": "The items below were read automatically from the county's agenda PDF, which has no machine-readable structure. Numbering follows the PDF, but nesting and any item the extractor could not read are not shown. The PDF linked below is the complete document.",
     "agenda_derived_from_pdf": true,
-    "fetched_at": "2026-11-18T14:28:06-05:00",
+    "fetched_at": "2026-11-19T14:32:31-05:00",
     "content_hash": "8f3aeaf3223143422b06f8eec9e6b917a526c293217afc6c234f2c7afbb9a10a",
     "documents": [
       {
@@ -49366,7 +49366,7 @@
     "agenda_published": true,
     "agenda_status_note": null,
     "agenda_derived_from_pdf": false,
-    "fetched_at": "2026-11-18T14:28:06-05:00",
+    "fetched_at": "2026-11-19T14:32:31-05:00",
     "content_hash": "1c8827abdf43d88bd0d1a6493e6843e082b5ab1fe5cfe786d6b1c811a7aef24f",
     "documents": [
       {
@@ -50886,7 +50886,7 @@
     "agenda_published": true,
     "agenda_status_note": "The items below were read automatically from the county's agenda PDF, which has no machine-readable structure. Numbering follows the PDF, but nesting and any item the extractor could not read are not shown. The PDF linked below is the complete document.",
     "agenda_derived_from_pdf": true,
-    "fetched_at": "2026-11-18T14:28:06-05:00",
+    "fetched_at": "2026-11-19T14:32:31-05:00",
     "content_hash": "0bf94376f27f8cc3425f2a438a31fdc1e62b33638919a7af33ddecd99fa5f4fc",
     "documents": [
       {
@@ -51077,7 +51077,7 @@
     "agenda_published": false,
     "agenda_status_note": null,
     "agenda_derived_from_pdf": false,
-    "fetched_at": "2026-11-18T14:28:06-05:00",
+    "fetched_at": "2026-11-19T14:32:31-05:00",
     "content_hash": "75ff8a54918759f84dc563b50e5ac30ac982e05ccf32567d44f1c1d5c2684a09",
     "documents": [],
     "items": []
@@ -51102,7 +51102,7 @@
     "agenda_published": false,
     "agenda_status_note": null,
     "agenda_derived_from_pdf": false,
-    "fetched_at": "2026-11-18T14:28:06-05:00",
+    "fetched_at": "2026-11-19T14:32:31-05:00",
     "content_hash": "72db35da7f5411508f3d5dc0d51ef9deb79a0766f858114005b4fdccf4aae5de",
     "documents": [
       {
@@ -51137,7 +51137,7 @@
     "agenda_published": true,
     "agenda_status_note": "The items below were read automatically from the county's agenda PDF, which has no machine-readable structure. Numbering follows the PDF, but nesting and any item the extractor could not read are not shown. The PDF linked below is the complete document.",
     "agenda_derived_from_pdf": true,
-    "fetched_at": "2026-11-18T14:28:06-05:00",
+    "fetched_at": "2026-11-19T14:32:31-05:00",
     "content_hash": "7ecf289af47685c7c941e261ee84743f2daa77a17f849327c30632cee1c9bed7",
     "documents": [
       {
@@ -51403,7 +51403,7 @@
     "agenda_published": false,
     "agenda_status_note": null,
     "agenda_derived_from_pdf": false,
-    "fetched_at": "2026-11-18T14:28:06-05:00",
+    "fetched_at": "2026-11-19T14:32:31-05:00",
     "content_hash": "63052d6d6f56a42fcaca37c6e18d1933b8ef9c5fd046af600472267ebe6483b3",
     "documents": [
       {
@@ -51438,7 +51438,7 @@
     "agenda_published": true,
     "agenda_status_note": "The items below were read automatically from the county's agenda PDF, which has no machine-readable structure. Numbering follows the PDF, but nesting and any item the extractor could not read are not shown. The PDF linked below is the complete document.",
     "agenda_derived_from_pdf": true,
-    "fetched_at": "2026-11-18T14:28:06-05:00",
+    "fetched_at": "2026-11-19T14:32:31-05:00",
     "content_hash": "a257a9a27049c7afb84c87986416393c40fa8e33fc2136b5bf1e571839a4d392",
     "documents": [
       {
@@ -51628,8 +51628,8 @@
     "agenda_published": true,
     "agenda_status_note": "The items below were read automatically from the county's agenda PDF, which has no machine-readable structure. Numbering follows the PDF, but nesting and any item the extractor could not read are not shown. The PDF linked below is the complete document.",
     "agenda_derived_from_pdf": true,
-    "fetched_at": "2026-11-18T14:28:06-05:00",
-    "content_hash": "8c4b944b13004289a1122160ca414727207bc9b7849d75f9ef0cdc4ba4944169",
+    "fetched_at": "2026-11-19T14:32:31-05:00",
+    "content_hash": "9cf50806ff6835618bab3ddd60d2dbe8be64eea84421ee146926bbabd92dc854",
     "documents": [
       {
         "label": "Public Notice 11.16.26 PDF",
@@ -51644,6 +51644,15 @@
         "label": "Agenda 11.16.26 PDF",
         "url": "https://www.forsythco.com/app/uploads/2026/11/11.16.2026-Special-Called-Meeting-Agenda-UA.pdf",
         "kind": "agenda",
+        "source": "county",
+        "machine_readable": true,
+        "content_type": null,
+        "size_bytes": null
+      },
+      {
+        "label": "Summary PDF",
+        "url": "https://www.forsythco.com/app/uploads/2026/11/11.16.2026-Special-Called-Meeting-Summary-UA.pdf",
+        "kind": "other",
         "source": "county",
         "machine_readable": true,
         "content_type": null,
@@ -51794,7 +51803,7 @@
     "agenda_published": true,
     "agenda_status_note": "The county published this agenda only as a PDF, and no numbered items could be read from it. Use the PDF link below.",
     "agenda_derived_from_pdf": false,
-    "fetched_at": "2026-11-18T14:28:06-05:00",
+    "fetched_at": "2026-11-19T14:32:31-05:00",
     "content_hash": "c8d292ec35c29924e852512ba2a94c49e32317b14d59183107e5ca9775433cc0",
     "documents": [
       {
@@ -51856,7 +51865,7 @@
     "agenda_published": true,
     "agenda_status_note": "The items below were read automatically from the county's agenda PDF, which has no machine-readable structure. Numbering follows the PDF, but nesting and any item the extractor could not read are not shown. The PDF linked below is the complete document.",
     "agenda_derived_from_pdf": true,
-    "fetched_at": "2026-11-18T14:28:06-05:00",
+    "fetched_at": "2026-11-19T14:32:31-05:00",
     "content_hash": "306ae7a8c8a6ccd07e31620f07aa398cc94d7f4f208d27d5acc83697a064a19f",
     "documents": [
       {
@@ -52300,7 +52309,7 @@
     "agenda_published": true,
     "agenda_status_note": "The county published this agenda only as a PDF, and no numbered items could be read from it. Use the PDF link below.",
     "agenda_derived_from_pdf": false,
-    "fetched_at": "2026-11-18T14:28:06-05:00",
+    "fetched_at": "2026-11-19T14:32:31-05:00",
     "content_hash": "2da9b331f8ba6631aba8bbd2d65f98eaf88021fffde447308c00746a13b19914",
     "documents": [
       {
@@ -52370,7 +52379,7 @@
     "agenda_published": true,
     "agenda_status_note": "The items below were read automatically from the county's agenda PDF, which has no machine-readable structure. Numbering follows the PDF, but nesting and any item the extractor could not read are not shown. The PDF linked below is the complete document.",
     "agenda_derived_from_pdf": true,
-    "fetched_at": "2026-11-18T14:28:06-05:00",
+    "fetched_at": "2026-11-19T14:32:31-05:00",
     "content_hash": "6c24b5b6884f3037019c8e33794f2d47eaa20a7e6197363a9a16818f25d9bed0",
     "documents": [
       {
@@ -53342,7 +53351,7 @@
     "agenda_published": false,
     "agenda_status_note": null,
     "agenda_derived_from_pdf": false,
-    "fetched_at": "2026-11-18T14:28:06-05:00",
+    "fetched_at": "2026-11-19T14:32:31-05:00",
     "content_hash": "f2e293eb527b7ea43634e2791150d18ed783b715fb9361475fbb7a6aec381482",
     "documents": [
       {
@@ -53374,12 +53383,12 @@
     "civicclerk_agenda_id": 396,
     "county_meeting_id": 17576,
     "county_url": "https://www.forsythco.com/meetings/board-of-commissioners-regular-meeting-public-hearings-9/",
-    "portal_url": "https://forsythcoga.portal.civicclerk.com/event/462/files/agenda/5419",
+    "portal_url": "https://forsythcoga.portal.civicclerk.com/event/462/files",
     "agenda_published": true,
     "agenda_status_note": null,
     "agenda_derived_from_pdf": false,
-    "fetched_at": "2026-11-18T14:28:06-05:00",
-    "content_hash": "eb3c6c535daabd9e7cd1f571420817499358a9384ecaca7e53c0625dfd01a789",
+    "fetched_at": "2026-11-19T14:32:31-05:00",
+    "content_hash": "d7ece0473a75249b67715a6ec6232031db8cbb7046281e86a6ec884a4c4ccce1",
     "documents": [
       {
         "label": "Agenda PDF",
@@ -53387,15 +53396,6 @@
         "kind": "agenda",
         "source": "county",
         "machine_readable": true,
-        "content_type": null,
-        "size_bytes": null
-      },
-      {
-        "label": "Agenda Packet LINK",
-        "url": "https://forsythcoga.portal.civicclerk.com/event/462/files/agenda/5419",
-        "kind": "portal",
-        "source": "county",
-        "machine_readable": false,
         "content_type": null,
         "size_bytes": null
       },
@@ -53433,15 +53433,6 @@
         "source": "civicclerk",
         "machine_readable": true,
         "content_type": "text/plain",
-        "size_bytes": null
-      },
-      {
-        "label": "Agenda Packet 11.19.2026",
-        "url": "https://forsythcoga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=5427,plainText=false)",
-        "kind": "packet",
-        "source": "civicclerk",
-        "machine_readable": true,
-        "content_type": "application/pdf",
         "size_bytes": null
       }
     ],
@@ -56305,13 +56296,31 @@
             "fiscal_impact": null,
             "attachments": [
               {
-                "label": "Douglas Refund",
-                "url": "https://forsythcoga.api.civicclerk.com/v1/Meetings/GetAttachmentFile(fileId=38307)",
+                "label": "David Douglas FORMAL STATEMENT IN SUPPORT OF PROPERTY TAX REFUND CLAIM 11192026",
+                "url": "https://forsythcoga.api.civicclerk.com/v1/Meetings/GetAttachmentFile(fileId=38388)",
+                "kind": "attachment",
+                "source": "civicclerk",
+                "machine_readable": true,
+                "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                "size_bytes": 152317
+              },
+              {
+                "label": "Douglas Ad Valorem Tax Refund",
+                "url": "https://forsythcoga.api.civicclerk.com/v1/Meetings/GetAttachmentFile(fileId=38404)",
                 "kind": "attachment",
                 "source": "civicclerk",
                 "machine_readable": true,
                 "content_type": "application/pdf",
-                "size_bytes": 15051291
+                "size_bytes": 2481224
+              },
+              {
+                "label": "Douglas Refund_Redacted",
+                "url": "https://forsythcoga.api.civicclerk.com/v1/Meetings/GetAttachmentFile(fileId=38413)",
+                "kind": "attachment",
+                "source": "civicclerk",
+                "machine_readable": true,
+                "content_type": "application/pdf",
+                "size_bytes": 27522016
               }
             ],
             "under_consent": false,
@@ -56437,7 +56446,7 @@
     "agenda_published": false,
     "agenda_status_note": null,
     "agenda_derived_from_pdf": false,
-    "fetched_at": "2026-11-18T14:28:06-05:00",
+    "fetched_at": "2026-11-19T14:32:31-05:00",
     "content_hash": "cf7f3595cb198db52609a149c8e9b939dc57dae106c3d1103e232ec9e243aa00",
     "documents": [],
     "items": []
@@ -56462,9 +56471,19 @@
     "agenda_published": false,
     "agenda_status_note": null,
     "agenda_derived_from_pdf": false,
-    "fetched_at": "2026-11-18T14:28:06-05:00",
-    "content_hash": "2b5f81336360ab142c478fe8bc4099f4f8ecb4fd94203af274f7841316bfe45b",
-    "documents": [],
+    "fetched_at": "2026-11-19T14:32:31-05:00",
+    "content_hash": "5f6690db10d6e6469490b65eb58570b9c5e41ced3d86db3033fa5aae0dc9002d",
+    "documents": [
+      {
+        "label": "Public Notice PDF",
+        "url": "https://www.forsythco.com/app/uploads/2026/07/Public-Notice-11.24.2026-UA.pdf",
+        "kind": "notice",
+        "source": "county",
+        "machine_readable": true,
+        "content_type": null,
+        "size_bytes": null
+      }
+    ],
     "items": []
   },
   {
@@ -56487,7 +56506,7 @@
     "agenda_published": true,
     "agenda_status_note": "The items below were read automatically from the county's agenda PDF, which has no machine-readable structure. Numbering follows the PDF, but nesting and any item the extractor could not read are not shown. The PDF linked below is the complete document.",
     "agenda_derived_from_pdf": true,
-    "fetched_at": "2026-11-18T14:28:06-05:00",
+    "fetched_at": "2026-11-19T14:32:31-05:00",
     "content_hash": "617335c936a893942663febbd98d37ae69a502cb22f0d34b5313838d3b8b805f",
     "documents": [
       {
@@ -56583,7 +56602,7 @@
     "agenda_published": true,
     "agenda_status_note": "The items below were read automatically from the county's agenda PDF, which has no machine-readable structure. Numbering follows the PDF, but nesting and any item the extractor could not read are not shown. The PDF linked below is the complete document.",
     "agenda_derived_from_pdf": true,
-    "fetched_at": "2026-11-18T14:28:06-05:00",
+    "fetched_at": "2026-11-19T14:32:31-05:00",
     "content_hash": "2412f9e281e90d6a02b9deb17c32f333704a0e3ec678070f8da1a821748e300e",
     "documents": [
       {
@@ -56781,7 +56800,7 @@
     "agenda_published": false,
     "agenda_status_note": null,
     "agenda_derived_from_pdf": false,
-    "fetched_at": "2026-11-18T14:28:06-05:00",
+    "fetched_at": "2026-11-19T14:32:31-05:00",
     "content_hash": "ae10deb888e22bfeb1752ab42ef15298e109aa7efd89119013b6eb4c6c728b94",
     "documents": [],
     "items": []
@@ -56806,7 +56825,7 @@
     "agenda_published": false,
     "agenda_status_note": null,
     "agenda_derived_from_pdf": false,
-    "fetched_at": "2026-11-18T14:28:06-05:00",
+    "fetched_at": "2026-11-19T14:32:31-05:00",
     "content_hash": "b10ba7943e9a40da9813a87807c52a102e7c106c8a7d089998a462439a572e47",
     "documents": [
       {
@@ -56841,7 +56860,7 @@
     "agenda_published": false,
     "agenda_status_note": null,
     "agenda_derived_from_pdf": false,
-    "fetched_at": "2026-11-18T14:28:06-05:00",
+    "fetched_at": "2026-11-19T14:32:31-05:00",
     "content_hash": "6a6630d000a58da32d8282e9cd972a4a4994a388ad0807f0db42b66df1ffd3a9",
     "documents": [
       {
@@ -56911,7 +56930,7 @@
     "agenda_published": false,
     "agenda_status_note": null,
     "agenda_derived_from_pdf": false,
-    "fetched_at": "2026-11-18T14:28:06-05:00",
+    "fetched_at": "2026-11-19T14:32:31-05:00",
     "content_hash": "50e31ddff59c78dc0edc55c6cfb9996bda443643d0d63ffa2e495c04bcf0d5ee",
     "documents": [],
     "items": []
@@ -56936,7 +56955,7 @@
     "agenda_published": false,
     "agenda_status_note": null,
     "agenda_derived_from_pdf": false,
-    "fetched_at": "2026-11-18T14:28:06-05:00",
+    "fetched_at": "2026-11-19T14:32:31-05:00",
     "content_hash": "9cdd7433f8ce7757585631d4b7548b91cbeca43f76c351e069d2cd8933baf7a1",
     "documents": [
       {
@@ -56971,7 +56990,7 @@
     "agenda_published": false,
     "agenda_status_note": null,
     "agenda_derived_from_pdf": false,
-    "fetched_at": "2026-11-18T14:28:06-05:00",
+    "fetched_at": "2026-11-19T14:32:31-05:00",
     "content_hash": "56d346c3de7bd5060e64005baa7f7f0f4911f330f10288e4f49b29ed04b7e743",
     "documents": [
       {
@@ -57006,7 +57025,7 @@
     "agenda_published": false,
     "agenda_status_note": null,
     "agenda_derived_from_pdf": false,
-    "fetched_at": "2026-11-18T14:28:06-05:00",
+    "fetched_at": "2026-11-19T14:32:31-05:00",
     "content_hash": "1e5eaf11baada626ddf1338b84e98ac73ec6ad4859997f8472110289a87d0aa2",
     "documents": [],
     "items": []
@@ -57031,7 +57050,7 @@
     "agenda_published": false,
     "agenda_status_note": null,
     "agenda_derived_from_pdf": false,
-    "fetched_at": "2026-11-18T14:28:06-05:00",
+    "fetched_at": "2026-11-19T14:32:31-05:00",
     "content_hash": "67607489ca374d0a9eae39934f40680c7034d1606bbb65a3efddd8ee0a291833",
     "documents": [],
     "items": []
