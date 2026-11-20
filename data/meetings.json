@@ -34111,72 +34111,26 @@
   {
     "slug": "2026-09-22-board-of-commissioners-work-session-meeting",
     "body": "Board of Commissioners",
-    "meeting_type": "Work Session Meeting",
-    "title": "Board of Commissioners Work Session Meeting",
+    "meeting_type": "Work Session",
+    "title": "Board of Commissioners Work Session",
     "date": "2026-09-22",
     "start_time": "14:00",
     "start_iso": "2026-09-22T14:00:00-04:00",
-    "location": "Board of Commissioners Building",
+    "location": null,
     "sources": [
-      "civicclerk",
-      "county"
+      "civicclerk"
     ],
     "civicclerk_event_id": 437,
     "civicclerk_agenda_id": 371,
-    "county_meeting_id": 17569,
-    "county_url": "https://www.forsythco.com/meetings/board-of-commissioners-work-session-meeting-6/",
-    "portal_url": "https://forsythcoga.portal.civicclerk.com/event/437/files/agenda/5338",
+    "county_meeting_id": null,
+    "county_url": null,
+    "portal_url": "https://forsythcoga.portal.civicclerk.com/event/437/files",
     "agenda_published": true,
     "agenda_status_note": null,
     "agenda_derived_from_pdf": false,
-    "fetched_at": "2026-11-19T14:32:31-05:00",
-    "content_hash": "82d658c8d11eafba917ca9397c60eef70ff287154acc9cedb86a859d894f21a2",
+    "fetched_at": "2026-11-20T14:13:08-05:00",
+    "content_hash": "a65f6a8c17c07314880a72c30dc9ef652f0d268c61d89dc6f27c9ea4aa3af7ce",
     "documents": [
-      {
-        "label": "Minutes PDF",
-        "url": "https://www.forsythco.com/app/uploads/2026/07/Official_Minutes_9.22.2026_Work_Session-UA.pdf",
-        "kind": "minutes",
-        "source": "county",
-        "machine_readable": true,
-        "content_type": null,
-        "size_bytes": null
-      },
-      {
-        "label": "Summary PDF",
-        "url": "https://www.forsythco.com/app/uploads/2026/07/Summary-9.22.2026-Work-Session-UA.pdf",
-        "kind": "other",
-        "source": "county",
-        "machine_readable": true,
-        "content_type": null,
-        "size_bytes": null
-      },
-      {
-        "label": "Agenda PDF",
-        "url": "https://www.forsythco.com/app/uploads/2026/07/Agenda-9.22.2026-Work-Session-UA-1.pdf",
-        "kind": "agenda",
-        "source": "county",
-        "machine_readable": true,
-        "content_type": null,
-        "size_bytes": null
-      },
-      {
-        "label": "Agenda Packet LINK",
-        "url": "https://forsythcoga.portal.civicclerk.com/event/437/files/agenda/5338",
-        "kind": "portal",
-        "source": "county",
-        "machine_readable": false,
-        "content_type": null,
-        "size_bytes": null
-      },
-      {
-        "label": "Public Notice PDF",
-        "url": "https://www.forsythco.com/app/uploads/2026/07/Public-Notice-9.22.2026-UA.pdf",
-        "kind": "notice",
-        "source": "county",
-        "machine_readable": true,
-        "content_type": null,
-        "size_bytes": null
-      },
       {
         "label": "CivicClerk portal page for this meeting",
         "url": "https://forsythcoga.portal.civicclerk.com/event/437/files",
@@ -36047,72 +36001,26 @@
   {
     "slug": "2026-10-01-board-of-commissioners-regular-meeting-public-hearings",
     "body": "Board of Commissioners",
-    "meeting_type": "Regular Meeting / Public Hearings",
-    "title": "Board of Commissioners Regular Meeting / Public Hearings",
+    "meeting_type": "Regular Meeting",
+    "title": "Board of Commissioners Regular Meeting",
     "date": "2026-10-01",
     "start_time": "17:00",
     "start_iso": "2026-10-01T17:00:00-04:00",
-    "location": "Board of Commissioners Building",
+    "location": null,
     "sources": [
-      "civicclerk",
-      "county"
+      "civicclerk"
     ],
     "civicclerk_event_id": 459,
     "civicclerk_agenda_id": 393,
-    "county_meeting_id": 17570,
-    "county_url": "https://www.forsythco.com/meetings/board-of-commissioners-regular-meeting-public-hearings-6/",
-    "portal_url": "https://forsythcoga.portal.civicclerk.com/event/459/files/agenda/5354",
+    "county_meeting_id": null,
+    "county_url": null,
+    "portal_url": "https://forsythcoga.portal.civicclerk.com/event/459/files",
     "agenda_published": true,
     "agenda_status_note": null,
     "agenda_derived_from_pdf": false,
-    "fetched_at": "2026-11-19T14:32:31-05:00",
-    "content_hash": "4da92eb1277f6bc486ad7be9619c18b060ad61224d5267a2a99e59a4195df9f2",
+    "fetched_at": "2026-11-20T14:13:08-05:00",
+    "content_hash": "c5e7e955f2c56291235a8b89d0505ce15b34171178d0e819724999629215eb4a",
     "documents": [
-      {
-        "label": "Minutes PDF",
-        "url": "https://www.forsythco.com/app/uploads/2026/07/Official_Minutes_10.1.2026-UA.pdf",
-        "kind": "minutes",
-        "source": "county",
-        "machine_readable": true,
-        "content_type": null,
-        "size_bytes": null
-      },
-      {
-        "label": "Summary PDF",
-        "url": "https://www.forsythco.com/app/uploads/2026/07/Summary-10.1.2026-UA.pdf",
-        "kind": "other",
-        "source": "county",
-        "machine_readable": true,
-        "content_type": null,
-        "size_bytes": null
-      },
-      {
-        "label": "Agenda PDF",
-        "url": "https://www.forsythco.com/app/uploads/2026/07/Agenda-10.1.2026-UA.pdf",
-        "kind": "agenda",
-        "source": "county",
-        "machine_readable": true,
-        "content_type": null,
-        "size_bytes": null
-      },
-      {
-        "label": "Agenda Packet LINK",
-        "url": "https://forsythcoga.portal.civicclerk.com/event/459/files/agenda/5354",
-        "kind": "portal",
-        "source": "county",
-        "machine_readable": false,
-        "content_type": null,
-        "size_bytes": null
-      },
-      {
-        "label": "Public Notice PDF",
-        "url": "https://www.forsythco.com/app/uploads/2026/07/10.1.2026-Public-Notice-UA.pdf",
-        "kind": "notice",
-        "source": "county",
-        "machine_readable": true,
-        "content_type": null,
-        "size_bytes": null
-      },
       {
         "label": "CivicClerk portal page for this meeting",
         "url": "https://forsythcoga.portal.civicclerk.com/event/459/files",
@@ -38135,63 +38043,26 @@
   {
     "slug": "2026-10-06-board-of-commissioners-work-session-meeting",
     "body": "Board of Commissioners",
-    "meeting_type": "Work Session Meeting",
-    "title": "Board of Commissioners Work Session Meeting",
+    "meeting_type": "Work Session",
+    "title": "Board of Commissioners Work Session",
     "date": "2026-10-06",
     "start_time": "10:00",
     "start_iso": "2026-10-06T10:00:00-04:00",
-    "location": "Board of Commissioners Building",
+    "location": null,
     "sources": [
-      "civicclerk",
-      "county"
+      "civicclerk"
     ],
     "civicclerk_event_id": 438,
     "civicclerk_agenda_id": 372,
-    "county_meeting_id": 17571,
-    "county_url": "https://www.forsythco.com/meetings/board-of-commissioners-work-session-meeting-7/",
-    "portal_url": "https://forsythcoga.portal.civicclerk.com/event/438/files/agenda/5364",
+    "county_meeting_id": null,
+    "county_url": null,
+    "portal_url": "https://forsythcoga.portal.civicclerk.com/event/438/files",
     "agenda_published": true,
     "agenda_status_note": null,
     "agenda_derived_from_pdf": false,
-    "fetched_at": "2026-11-19T14:32:31-05:00",
-    "content_hash": "e19a33d22567d54bd4b042bfd0d2483ee8f8fba6c41bf684928a25be3b750bc5",
+    "fetched_at": "2026-11-20T14:13:08-05:00",
+    "content_hash": "b21afdf88d2ed89a4e3ce331454394d1edec358d601256fde8cd19517d6b049c",
     "documents": [
-      {
-        "label": "Summary PDF",
-        "url": "https://www.forsythco.com/app/uploads/2026/07/Summary-10.6.2026-Work-Session-UA-1.pdf",
-        "kind": "other",
-        "source": "county",
-        "machine_readable": true,
-        "content_type": null,
-        "size_bytes": null
-      },
-      {
-        "label": "Agenda PDF",
-        "url": "https://www.forsythco.com/app/uploads/2026/07/Agenda-10.6.2026-Work-Session-UA.pdf",
-        "kind": "agenda",
-        "source": "county",
-        "machine_readable": true,
-        "content_type": null,
-        "size_bytes": null
-      },
-      {
-        "label": "Agenda Packet LINK",
-        "url": "https://forsythcoga.portal.civicclerk.com/event/438/files/agenda/5364",
-        "kind": "portal",
-        "source": "county",
-        "machine_readable": false,
-        "content_type": null,
-        "size_bytes": null
-      },
-      {
-        "label": "Public Notice PDF",
-        "url": "https://www.forsythco.com/app/uploads/2026/07/Public-Notice-10.6.2026-UA.pdf",
-        "kind": "notice",
-        "source": "county",
-        "machine_readable": true,
-        "content_type": null,
-        "size_bytes": null
-      },
       {
         "label": "CivicClerk portal page for this meeting",
         "url": "https://forsythcoga.portal.civicclerk.com/event/438/files",
@@ -40145,63 +40016,26 @@
   {
     "slug": "2026-10-15-board-of-commissioners-regular-meeting-public-hearings",
     "body": "Board of Commissioners",
-    "meeting_type": "Regular Meeting / Public Hearings",
-    "title": "Board of Commissioners Regular Meeting / Public Hearings",
+    "meeting_type": "Regular Meeting",
+    "title": "Board of Commissioners Regular Meeting",
     "date": "2026-10-15",
     "start_time": "17:00",
     "start_iso": "2026-10-15T17:00:00-04:00",
-    "location": "Board of Commissioners Building",
+    "location": null,
     "sources": [
-      "civicclerk",
-      "county"
+      "civicclerk"
     ],
     "civicclerk_event_id": 460,
     "civicclerk_agenda_id": 394,
-    "county_meeting_id": 17572,
-    "county_url": "https://www.forsythco.com/meetings/board-of-commissioners-regular-meeting-public-hearings-7/",
-    "portal_url": "https://forsythcoga.portal.civicclerk.com/event/460/files/agenda/5377",
+    "county_meeting_id": null,
+    "county_url": null,
+    "portal_url": "https://forsythcoga.portal.civicclerk.com/event/460/files",
     "agenda_published": true,
     "agenda_status_note": null,
     "agenda_derived_from_pdf": false,
-    "fetched_at": "2026-11-19T14:32:31-05:00",
-    "content_hash": "7216a3187475e1fbd2988936bf8432cf1190a867154e41031d10f44e2bfe5e9b",
+    "fetched_at": "2026-11-20T14:13:08-05:00",
+    "content_hash": "8be074ca0397eaaba2500fe5503d9cb0c48cf88cc2a00ee2e503bc14c3b73479",
     "documents": [
-      {
-        "label": "Summary PDF",
-        "url": "https://www.forsythco.com/app/uploads/2026/07/Summary-10.15.2026-UA.pdf",
-        "kind": "other",
-        "source": "county",
-        "machine_readable": true,
-        "content_type": null,
-        "size_bytes": null
-      },
-      {
-        "label": "Agenda PDF",
-        "url": "https://www.forsythco.com/app/uploads/2026/07/Agenda-10.15.2026-UA.pdf",
-        "kind": "agenda",
-        "source": "county",
-        "machine_readable": true,
-        "content_type": null,
-        "size_bytes": null
-      },
-      {
-        "label": "Agenda Packet LINK",
-        "url": "https://forsythcoga.portal.civicclerk.com/event/460/files/agenda/5377",
-        "kind": "portal",
-        "source": "county",
-        "machine_readable": false,
-        "content_type": null,
-        "size_bytes": null
-      },
-      {
-        "label": "Public Notice PDF",
-        "url": "https://www.forsythco.com/app/uploads/2026/07/10.15.2026-Public-Notice-UA.pdf",
-        "kind": "notice",
-        "source": "county",
-        "machine_readable": true,
-        "content_type": null,
-        "size_bytes": null
-      },
       {
         "label": "CivicClerk portal page for this meeting",
         "url": "https://forsythcoga.portal.civicclerk.com/event/460/files",
@@ -42939,63 +42773,26 @@
   {
     "slug": "2026-10-20-board-of-commissioners-work-session-meeting",
     "body": "Board of Commissioners",
-    "meeting_type": "Work Session Meeting",
-    "title": "Board of Commissioners Work Session Meeting",
+    "meeting_type": "Work Session",
+    "title": "Board of Commissioners Work Session",
     "date": "2026-10-20",
     "start_time": "14:00",
     "start_iso": "2026-10-20T14:00:00-04:00",
-    "location": "Board of Commissioners Building",
+    "location": null,
     "sources": [
-      "civicclerk",
-      "county"
+      "civicclerk"
     ],
     "civicclerk_event_id": 439,
     "civicclerk_agenda_id": 373,
-    "county_meeting_id": 17573,
-    "county_url": "https://www.forsythco.com/meetings/board-of-commissioners-work-session-meeting-8/",
-    "portal_url": "https://forsythcoga.portal.civicclerk.com/event/439/files/agenda/5383",
+    "county_meeting_id": null,
+    "county_url": null,
+    "portal_url": "https://forsythcoga.portal.civicclerk.com/event/439/files",
     "agenda_published": true,
     "agenda_status_note": null,
     "agenda_derived_from_pdf": false,
-    "fetched_at": "2026-11-19T14:32:31-05:00",
-    "content_hash": "247815c282b501c2ac63cd52aa7ac178a36d5e6fc843027b72c419d0c29aff07",
+    "fetched_at": "2026-11-20T14:13:08-05:00",
+    "content_hash": "9c6ec64417e4a01ad52ef5266711dd80d119057968cb9a4efcaee70ec376c5c4",
     "documents": [
-      {
-        "label": "Summary PDF",
-        "url": "https://www.forsythco.com/app/uploads/2026/07/Summary-10.20.2026-Work-Session-UA.pdf",
-        "kind": "other",
-        "source": "county",
-        "machine_readable": true,
-        "content_type": null,
-        "size_bytes": null
-      },
-      {
-        "label": "Agenda PDF",
-        "url": "https://www.forsythco.com/app/uploads/2026/07/Agenda-10.20.2026-Work-Session-UA.pdf",
-        "kind": "agenda",
-        "source": "county",
-        "machine_readable": true,
-        "content_type": null,
-        "size_bytes": null
-      },
-      {
-        "label": "Agenda Packet LINK",
-        "url": "https://forsythcoga.portal.civicclerk.com/event/439/files/agenda/5383",
-        "kind": "portal",
-        "source": "county",
-        "machine_readable": false,
-        "content_type": null,
-        "size_bytes": null
-      },
-      {
-        "label": "Public Notice PDF",
-        "url": "https://www.forsythco.com/app/uploads/2026/07/Public-Notice-10.20.2026-UA.pdf",
-        "kind": "notice",
-        "source": "county",
-        "machine_readable": true,
-        "content_type": null,
-        "size_bytes": null
-      },
       {
         "label": "CivicClerk portal page for this meeting",
         "url": "https://forsythcoga.portal.civicclerk.com/event/439/files",
@@ -46594,63 +46391,26 @@
   {
     "slug": "2026-11-05-board-of-commissioners-regular-meeting-public-hearings",
     "body": "Board of Commissioners",
-    "meeting_type": "Regular Meeting / Public Hearings",
-    "title": "Board of Commissioners Regular Meeting / Public Hearings",
+    "meeting_type": "Regular Meeting",
+    "title": "Board of Commissioners Regular Meeting",
     "date": "2026-11-05",
     "start_time": "17:00",
     "start_iso": "2026-11-05T17:00:00-05:00",
-    "location": "Board of Commissioners Building",
+    "location": null,
     "sources": [
-      "civicclerk",
-      "county"
+      "civicclerk"
     ],
     "civicclerk_event_id": 461,
     "civicclerk_agenda_id": 395,
-    "county_meeting_id": 17574,
-    "county_url": "https://www.forsythco.com/meetings/board-of-commissioners-regular-meeting-public-hearings-8/",
-    "portal_url": "https://forsythcoga.portal.civicclerk.com/event/461/files/agenda/5398",
+    "county_meeting_id": null,
+    "county_url": null,
+    "portal_url": "https://forsythcoga.portal.civicclerk.com/event/461/files",
     "agenda_published": true,
     "agenda_status_note": null,
     "agenda_derived_from_pdf": false,
-    "fetched_at": "2026-11-19T14:32:31-05:00",
-    "content_hash": "779689260a91e6413df6e2f1f69e3d277cd9a9c7094afff0e3ee872273eb7db5",
+    "fetched_at": "2026-11-20T14:13:08-05:00",
+    "content_hash": "e49657f9b7000549d7b34c32f1319c0d8f14fc08098cbceb69da8435624210f0",
     "documents": [
-      {
-        "label": "Summary PDF",
-        "url": "https://www.forsythco.com/app/uploads/2026/07/Summary-11.5.2026-UA-1.pdf",
-        "kind": "other",
-        "source": "county",
-        "machine_readable": true,
-        "content_type": null,
-        "size_bytes": null
-      },
-      {
-        "label": "Agenda Packet LINK",
-        "url": "https://forsythcoga.portal.civicclerk.com/event/461/files/agenda/5398",
-        "kind": "portal",
-        "source": "county",
-        "machine_readable": false,
-        "content_type": null,
-        "size_bytes": null
-      },
-      {
-        "label": "Agenda PDF",
-        "url": "https://www.forsythco.com/app/uploads/2026/07/Agenda-11.5.2026-UA.pdf",
-        "kind": "agenda",
-        "source": "county",
-        "machine_readable": true,
-        "content_type": null,
-        "size_bytes": null
-      },
-      {
-        "label": "Public Notice PDF",
-        "url": "https://www.forsythco.com/app/uploads/2026/07/11.5.2026-Public-Notice-UA.pdf",
-        "kind": "notice",
-        "source": "county",
-        "machine_readable": true,
-        "content_type": null,
-        "size_bytes": null
-      },
       {
         "label": "CivicClerk portal page for this meeting",
         "url": "https://forsythcoga.portal.civicclerk.com/event/461/files",
@@ -49348,63 +49108,26 @@
   {
     "slug": "2026-11-10-board-of-commissioners-work-session-meeting",
     "body": "Board of Commissioners",
-    "meeting_type": "Work Session Meeting",
-    "title": "Board of Commissioners Work Session Meeting",
+    "meeting_type": "Work Session",
+    "title": "Board of Commissioners Work Session",
     "date": "2026-11-10",
     "start_time": "14:00",
     "start_iso": "2026-11-10T14:00:00-05:00",
-    "location": "Board of Commissioners Building",
+    "location": null,
     "sources": [
-      "civicclerk",
-      "county"
+      "civicclerk"
     ],
     "civicclerk_event_id": 440,
     "civicclerk_agenda_id": 374,
-    "county_meeting_id": 17575,
-    "county_url": "https://www.forsythco.com/meetings/board-of-commissioners-work-session-meeting-9/",
-    "portal_url": "https://forsythcoga.portal.civicclerk.com/event/440/files/agenda/5407",
+    "county_meeting_id": null,
+    "county_url": null,
+    "portal_url": "https://forsythcoga.portal.civicclerk.com/event/440/files",
     "agenda_published": true,
     "agenda_status_note": null,
     "agenda_derived_from_pdf": false,
-    "fetched_at": "2026-11-19T14:32:31-05:00",
-    "content_hash": "1c8827abdf43d88bd0d1a6493e6843e082b5ab1fe5cfe786d6b1c811a7aef24f",
+    "fetched_at": "2026-11-20T14:13:08-05:00",
+    "content_hash": "74d2feee258e594664baa03c2f57149a303efdce59acaa253a2e62714726dd9d",
     "documents": [
-      {
-        "label": "Summary PDF",
-        "url": "https://www.forsythco.com/app/uploads/2026/07/Summary-11.10.2026-Work-Session-UA.pdf",
-        "kind": "other",
-        "source": "county",
-        "machine_readable": true,
-        "content_type": null,
-        "size_bytes": null
-      },
-      {
-        "label": "Agenda Packet LINK",
-        "url": "https://forsythcoga.portal.civicclerk.com/event/440/files/agenda/5407",
-        "kind": "portal",
-        "source": "county",
-        "machine_readable": false,
-        "content_type": null,
-        "size_bytes": null
-      },
-      {
-        "label": "Agenda PDF",
-        "url": "https://www.forsythco.com/app/uploads/2026/07/Agenda-11.10.2026-Work-Session-UA.pdf",
-        "kind": "agenda",
-        "source": "county",
-        "machine_readable": true,
-        "content_type": null,
-        "size_bytes": null
-      },
-      {
-        "label": "Public Notice PDF",
-        "url": "https://www.forsythco.com/app/uploads/2026/07/Public-Notice-11.10.2026-UA.pdf",
-        "kind": "notice",
-        "source": "county",
-        "machine_readable": true,
-        "content_type": null,
-        "size_bytes": null
-      },
       {
         "label": "CivicClerk portal page for this meeting",
         "url": "https://forsythcoga.portal.civicclerk.com/event/440/files",
@@ -53369,45 +53092,26 @@
   {
     "slug": "2026-11-19-board-of-commissioners-regular-meeting-public-hearings",
     "body": "Board of Commissioners",
-    "meeting_type": "Regular Meeting / Public Hearings",
-    "title": "Board of Commissioners Regular Meeting / Public Hearings",
+    "meeting_type": "Regular Meeting",
+    "title": "Board of Commissioners Regular Meeting",
     "date": "2026-11-19",
     "start_time": "17:00",
     "start_iso": "2026-11-19T17:00:00-05:00",
-    "location": "Board of Commissioners Building",
+    "location": null,
     "sources": [
-      "civicclerk",
-      "county"
+      "civicclerk"
     ],
     "civicclerk_event_id": 462,
     "civicclerk_agenda_id": 396,
-    "county_meeting_id": 17576,
-    "county_url": "https://www.forsythco.com/meetings/board-of-commissioners-regular-meeting-public-hearings-9/",
+    "county_meeting_id": null,
+    "county_url": null,
     "portal_url": "https://forsythcoga.portal.civicclerk.com/event/462/files",
     "agenda_published": true,
     "agenda_status_note": null,
     "agenda_derived_from_pdf": false,
-    "fetched_at": "2026-11-19T14:32:31-05:00",
-    "content_hash": "d7ece0473a75249b67715a6ec6232031db8cbb7046281e86a6ec884a4c4ccce1",
+    "fetched_at": "2026-11-20T14:13:08-05:00",
+    "content_hash": "35edd866983e38fcec5912cb503a2f527ab1aa7800e454546354f12c08ac3f5f",
     "documents": [
-      {
-        "label": "Agenda PDF",
-        "url": "https://www.forsythco.com/app/uploads/2026/07/Agenda-11.19.2026-UA.pdf",
-        "kind": "agenda",
-        "source": "county",
-        "machine_readable": true,
-        "content_type": null,
-        "size_bytes": null
-      },
-      {
-        "label": "Public Notice PDF",
-        "url": "https://www.forsythco.com/app/uploads/2026/07/11.19.2026-Public-Notice-UA.pdf",
-        "kind": "notice",
-        "source": "county",
-        "machine_readable": true,
-        "content_type": null,
-        "size_bytes": null
-      },
       {
         "label": "CivicClerk portal page for this meeting",
         "url": "https://forsythcoga.portal.civicclerk.com/event/462/files",
@@ -53433,6 +53137,15 @@
         "source": "civicclerk",
         "machine_readable": true,
         "content_type": "text/plain",
+        "size_bytes": null
+      },
+      {
+        "label": "Agenda Packet 11.19.2026 FINAL",
+        "url": "https://forsythcoga.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=5437,plainText=false)",
+        "kind": "packet",
+        "source": "civicclerk",
+        "machine_readable": true,
+        "content_type": "application/pdf",
         "size_bytes": null
       }
     ],
@@ -55005,105 +54718,6 @@
           {
             "number": "4",
             "outline_path": "VIII.4",
-            "title": "Public Hearing and possible vote regarding the request to operate an open storage yard with an overall site including a contractor's establishment/warehouse/wholesale in existing buildings totaling 17,638 sq. ft. with 19 parking spaces on 6.70 acres zoned Restricted Industrial District (M1) with the following variance to: 1. Reduce the front landscape strip adjacent to existing easement, asphalt and gravel only from 15 ft. to 0 ft. (UDC Table 21.6); 2. Reduce the required open space from 25% to 6% (UDC Table 21.6); 3. Reduce the landscape strip along all side and rear lot or lease lines adjacent to existing easements and gravel only from 10 ft to 0 ft. (UDC 21-6.5(A)(2)) - Parcel 041-099 - CP260013 (SRS Distribution, Inc.) - District 3 - Director, Department of Planning and Community Development (Postponed from the July 23, 2026 and August 20, 2026 Agendas. At the October 15, 2026 Regular Meeting / Public Hearings, the Board voted to postpone for an additional Public Hearing; the first Public Hearing was held before the Planning Commission on June 23, 2026)",
-            "level": 1,
-            "source_item_id": 21234,
-            "fiscal_impact": null,
-            "attachments": [
-              {
-                "label": "application_cp260013_rev_051526_redacted",
-                "url": "https://forsythcoga.api.civicclerk.com/v1/Meetings/GetAttachmentFile(fileId=37743)",
-                "kind": "attachment",
-                "source": "civicclerk",
-                "machine_readable": true,
-                "content_type": "application/pdf",
-                "size_bytes": 12318515
-              },
-              {
-                "label": "minutes_cp260013",
-                "url": "https://forsythcoga.api.civicclerk.com/v1/Meetings/GetAttachmentFile(fileId=37744)",
-                "kind": "attachment",
-                "source": "civicclerk",
-                "machine_readable": true,
-                "content_type": "application/pdf",
-                "size_bytes": 108972
-              },
-              {
-                "label": "ph_transcription_cp260013",
-                "url": "https://forsythcoga.api.civicclerk.com/v1/Meetings/GetAttachmentFile(fileId=37745)",
-                "kind": "attachment",
-                "source": "civicclerk",
-                "machine_readable": true,
-                "content_type": "application/pdf",
-                "size_bytes": 84346
-              },
-              {
-                "label": "pc_rec_cp260013",
-                "url": "https://forsythcoga.api.civicclerk.com/v1/Meetings/GetAttachmentFile(fileId=37746)",
-                "kind": "attachment",
-                "source": "civicclerk",
-                "machine_readable": true,
-                "content_type": "application/pdf",
-                "size_bytes": 278190
-              },
-              {
-                "label": "staff_report_cp260013",
-                "url": "https://forsythcoga.api.civicclerk.com/v1/Meetings/GetAttachmentFile(fileId=37747)",
-                "kind": "attachment",
-                "source": "civicclerk",
-                "machine_readable": true,
-                "content_type": "application/pdf",
-                "size_bytes": 484693
-              },
-              {
-                "label": "concept_plan_cp260013_rev_051526",
-                "url": "https://forsythcoga.api.civicclerk.com/v1/Meetings/GetAttachmentFile(fileId=37748)",
-                "kind": "attachment",
-                "source": "civicclerk",
-                "machine_readable": true,
-                "content_type": "application/pdf",
-                "size_bytes": 2666970
-              },
-              {
-                "label": "location_map_cp260013",
-                "url": "https://forsythcoga.api.civicclerk.com/v1/Meetings/GetAttachmentFile(fileId=37749)",
-                "kind": "attachment",
-                "source": "civicclerk",
-                "machine_readable": true,
-                "content_type": "application/pdf",
-                "size_bytes": 1261596
-              },
-              {
-                "label": "sign_affidavit_cp260013_102026",
-                "url": "https://forsythcoga.api.civicclerk.com/v1/Meetings/GetAttachmentFile(fileId=38108)",
-                "kind": "attachment",
-                "source": "civicclerk",
-                "machine_readable": true,
-                "content_type": "application/pdf",
-                "size_bytes": 2161207
-              },
-              {
-                "label": "legal_ad_cp260013",
-                "url": "https://forsythcoga.api.civicclerk.com/v1/Meetings/GetAttachmentFile(fileId=38140)",
-                "kind": "attachment",
-                "source": "civicclerk",
-                "machine_readable": true,
-                "content_type": "application/pdf",
-                "size_bytes": 139305
-              }
-            ],
-            "under_consent": false,
-            "consent_reason": null,
-            "dollar_amounts": [],
-            "large_dollar": false,
-            "long_term": true,
-            "long_term_reason": "easement",
-            "topics": [],
-            "children": []
-          },
-          {
-            "number": "5",
-            "outline_path": "VIII.5",
             "title": "Public Hearing and possible vote regarding the request for an Amendment of Zoning Conditions on CP200001 (Forsyth County Board of Commissioners) by SRS Distribution, Inc. - Parcel 041-099 - AZ260012 - District 3 - Director, Department of Planning and Community Development (Postponed from the July 23, 2026, August 20, 2026 and October 15, 2026 Agendas)",
             "level": 1,
             "source_item_id": 21336,
@@ -55165,8 +54779,8 @@
             "children": []
           },
           {
-            "number": "6",
-            "outline_path": "VIII.6",
+            "number": "5",
+            "outline_path": "VIII.5",
             "title": "Public Hearing and possible vote regarding the request to rezone from Commercial Business District (CBD) to Restricted Industrial District (M1) on 3.39 acres for a 44,936 sq. ft. warehouse/office/showroom with 38 parking spaces with the following variance to: 1. Reduce the sides and rear zoning buffers from 20 ft. to 0 ft. (UDC Table 14.2); 2. Reduce the required number of parking spaces from 56 to 38 (UDC 21-6.5(D)(1)); 3. Reduce the front landscape strip from 15 ft. to 0 ft. (UDC Table 21.6) - Parcel 018-105 - ZA4288 (Mazi, Inc.) - District 3 - Director, Department of Planning and Community Development (Postponed from October 15, 2026 Agenda for an additional Public Hearing; the first Public Hearing was held before the Planning Commission on September 22, 2026)",
             "level": 1,
             "source_item_id": 21235,
@@ -55651,87 +55265,6 @@
           {
             "number": "5",
             "outline_path": "XI.5",
-            "title": "Paul Herzwurm - ZA4299 - to rezone from Agricultural District (A1) to Neighborhood Shopping District (NS) on 2.119 acres for a 9,100 sq. ft. retail/office/restaurant with 50 parking spaces - Parcel 159-515 - District 2 - Director, Department of Planning and Community Development",
-            "level": 1,
-            "source_item_id": 21331,
-            "fiscal_impact": null,
-            "attachments": [
-              {
-                "label": "application_za4299_rev_083126_redacted",
-                "url": "https://forsythcoga.api.civicclerk.com/v1/Meetings/GetAttachmentFile(fileId=38027)",
-                "kind": "attachment",
-                "source": "civicclerk",
-                "machine_readable": true,
-                "content_type": "application/pdf",
-                "size_bytes": 3004584
-              },
-              {
-                "label": "minutes_za4299",
-                "url": "https://forsythcoga.api.civicclerk.com/v1/Meetings/GetAttachmentFile(fileId=38118)",
-                "kind": "attachment",
-                "source": "civicclerk",
-                "machine_readable": true,
-                "content_type": "application/pdf",
-                "size_bytes": 111226
-              },
-              {
-                "label": "ph_transcription_za4299",
-                "url": "https://forsythcoga.api.civicclerk.com/v1/Meetings/GetAttachmentFile(fileId=38029)",
-                "kind": "attachment",
-                "source": "civicclerk",
-                "machine_readable": true,
-                "content_type": "application/pdf",
-                "size_bytes": 44459
-              },
-              {
-                "label": "pc_rec_za4299",
-                "url": "https://forsythcoga.api.civicclerk.com/v1/Meetings/GetAttachmentFile(fileId=38030)",
-                "kind": "attachment",
-                "source": "civicclerk",
-                "machine_readable": true,
-                "content_type": "application/pdf",
-                "size_bytes": 199885
-              },
-              {
-                "label": "staff_report_za4299",
-                "url": "https://forsythcoga.api.civicclerk.com/v1/Meetings/GetAttachmentFile(fileId=38031)",
-                "kind": "attachment",
-                "source": "civicclerk",
-                "machine_readable": true,
-                "content_type": "application/pdf",
-                "size_bytes": 455559
-              },
-              {
-                "label": "concept_plan_za4299_rev_082126",
-                "url": "https://forsythcoga.api.civicclerk.com/v1/Meetings/GetAttachmentFile(fileId=38032)",
-                "kind": "attachment",
-                "source": "civicclerk",
-                "machine_readable": true,
-                "content_type": "application/pdf",
-                "size_bytes": 603708
-              },
-              {
-                "label": "location_map_za4299",
-                "url": "https://forsythcoga.api.civicclerk.com/v1/Meetings/GetAttachmentFile(fileId=38033)",
-                "kind": "attachment",
-                "source": "civicclerk",
-                "machine_readable": true,
-                "content_type": "application/pdf",
-                "size_bytes": 1295524
-              }
-            ],
-            "under_consent": false,
-            "consent_reason": null,
-            "dollar_amounts": [],
-            "large_dollar": false,
-            "long_term": false,
-            "long_term_reason": null,
-            "topics": [],
-            "children": []
-          },
-          {
-            "number": "6",
-            "outline_path": "XI.6",
             "title": "Christopher Flaugh - CP260023 - to operate a 1,250 sq. ft. vehicle sales dealership in an existing building with 2 parking spaces on 10.31 acres zoned Restricted Industrial District (M1) with the following variance to: 1. Reduce the required paved surface for the display of used vehicles from 1 acre to 0 acres (UDC 16-4.37(G)(1)) - Parcel 018-215 - District 3 - Director, Department of Planning and Community Development (Postponed from the July 23, 2026, August 20, 2026, September 17, 2026 and November 5, 2026 Agendas)",
             "level": 1,
             "source_item_id": 20586,
@@ -55811,188 +55344,8 @@
             "children": []
           },
           {
-            "number": "7",
-            "outline_path": "XI.7",
-            "title": "Matt 3970, LLC - ZA4282 - to rezone from Agricultural District (A1) to Commercial Business District (CBD) on 5.401 acres for retail/office/restaurant/day care center in buildings totaling 35,000 sq. ft. with 140 parking spaces with the following variance to: 1. Reduce the zoning setbacks from 50 ft. to 10 ft. as shown on the site plan (UDC Table 12.2); 2. Reduce the zoning buffers from 40 ft. to 0 ft. as shown on the site plan (UDC Table 12.2); 3. Reduce the landscape strips along the northern and eastern property boundaries from 10 ft. to 0 ft. (UDC 12-10.15); 4. Reduce the buffer where non-residential development abuts residential development along the northern property boundary from 40 ft. to 0 ft. as shown on the site plan (UDC 21-13.4(A)(12)) - Parcel 190-004 - District 4 - Director, Department of Planning and Community Development",
-            "level": 1,
-            "source_item_id": 21310,
-            "fiscal_impact": null,
-            "attachments": [
-              {
-                "label": "application_za4282_rev_083126_redacted",
-                "url": "https://forsythcoga.api.civicclerk.com/v1/Meetings/GetAttachmentFile(fileId=38115)",
-                "kind": "attachment",
-                "source": "civicclerk",
-                "machine_readable": true,
-                "content_type": "application/pdf",
-                "size_bytes": 1795972
-              },
-              {
-                "label": "minutes_za4282",
-                "url": "https://forsythcoga.api.civicclerk.com/v1/Meetings/GetAttachmentFile(fileId=38131)",
-                "kind": "attachment",
-                "source": "civicclerk",
-                "machine_readable": true,
-                "content_type": "application/pdf",
-                "size_bytes": 156901
-              },
-              {
-                "label": "ph_transcription_za4282",
-                "url": "https://forsythcoga.api.civicclerk.com/v1/Meetings/GetAttachmentFile(fileId=37939)",
-                "kind": "attachment",
-                "source": "civicclerk",
-                "machine_readable": true,
-                "content_type": "application/pdf",
-                "size_bytes": 32371
-              },
-              {
-                "label": "pc_rec_za4282",
-                "url": "https://forsythcoga.api.civicclerk.com/v1/Meetings/GetAttachmentFile(fileId=38011)",
-                "kind": "attachment",
-                "source": "civicclerk",
-                "machine_readable": true,
-                "content_type": "application/pdf",
-                "size_bytes": 265637
-              },
-              {
-                "label": "staff_report_za4282",
-                "url": "https://forsythcoga.api.civicclerk.com/v1/Meetings/GetAttachmentFile(fileId=37940)",
-                "kind": "attachment",
-                "source": "civicclerk",
-                "machine_readable": true,
-                "content_type": "application/pdf",
-                "size_bytes": 441284
-              },
-              {
-                "label": "concept_plan_za4282_rev_051526",
-                "url": "https://forsythcoga.api.civicclerk.com/v1/Meetings/GetAttachmentFile(fileId=37941)",
-                "kind": "attachment",
-                "source": "civicclerk",
-                "machine_readable": true,
-                "content_type": "application/pdf",
-                "size_bytes": 1218885
-              },
-              {
-                "label": "elevations_za4282",
-                "url": "https://forsythcoga.api.civicclerk.com/v1/Meetings/GetAttachmentFile(fileId=37942)",
-                "kind": "attachment",
-                "source": "civicclerk",
-                "machine_readable": true,
-                "content_type": "application/pdf",
-                "size_bytes": 4205094
-              },
-              {
-                "label": "location_map_za4282",
-                "url": "https://forsythcoga.api.civicclerk.com/v1/Meetings/GetAttachmentFile(fileId=37943)",
-                "kind": "attachment",
-                "source": "civicclerk",
-                "machine_readable": true,
-                "content_type": "application/pdf",
-                "size_bytes": 1342788
-              }
-            ],
-            "under_consent": false,
-            "consent_reason": null,
-            "dollar_amounts": [],
-            "large_dollar": false,
-            "long_term": false,
-            "long_term_reason": null,
-            "topics": [],
-            "children": []
-          },
-          {
-            "number": "8",
-            "outline_path": "XI.8",
-            "title": "Ramesh Kumar Velchuri - ZA4294 - to rezone from Agricultural District (A1) to Neighborhood Shopping District (NS) on 2.795 acres for a 17,500 sq. ft. retail/office/restaurant with 85 parking spaces with the following variance to: 1. Reduce the exterior buffer along the eastern property boundary from 40 ft. to 0 ft. (UDC 21-13.4(A)(12)); 2. Reduce the zoning buffer along the eastern and western property boundaries from 20 ft. to 0 ft. (UDC Table 12.2); 3. Reduce the zoning setback along the eastern and western property boundaries from 30 ft. to 10 ft. as shown on the site plan (UDC Table 12.2); 4. Reduce the front landscape strip adjacent to the existing easement only from 20 ft. to 0 ft. (UDC 21-12.5(B)(2)) - Parcel 190-048 - District 4 - Director, Department of Planning and Community Development",
-            "level": 1,
-            "source_item_id": 21325,
-            "fiscal_impact": null,
-            "attachments": [
-              {
-                "label": "application_za4294_rev_083126_redacted",
-                "url": "https://forsythcoga.api.civicclerk.com/v1/Meetings/GetAttachmentFile(fileId=37980)",
-                "kind": "attachment",
-                "source": "civicclerk",
-                "machine_readable": true,
-                "content_type": "application/pdf",
-                "size_bytes": 4873126
-              },
-              {
-                "label": "minutes_za4294",
-                "url": "https://forsythcoga.api.civicclerk.com/v1/Meetings/GetAttachmentFile(fileId=38117)",
-                "kind": "attachment",
-                "source": "civicclerk",
-                "machine_readable": true,
-                "content_type": "application/pdf",
-                "size_bytes": 143874
-              },
-              {
-                "label": "ph_transcription_za4294",
-                "url": "https://forsythcoga.api.civicclerk.com/v1/Meetings/GetAttachmentFile(fileId=37983)",
-                "kind": "attachment",
-                "source": "civicclerk",
-                "machine_readable": true,
-                "content_type": "application/pdf",
-                "size_bytes": 35104
-              },
-              {
-                "label": "pc_rec_za4294",
-                "url": "https://forsythcoga.api.civicclerk.com/v1/Meetings/GetAttachmentFile(fileId=38020)",
-                "kind": "attachment",
-                "source": "civicclerk",
-                "machine_readable": true,
-                "content_type": "application/pdf",
-                "size_bytes": 2460727
-              },
-              {
-                "label": "staff_report_za4294",
-                "url": "https://forsythcoga.api.civicclerk.com/v1/Meetings/GetAttachmentFile(fileId=37985)",
-                "kind": "attachment",
-                "source": "civicclerk",
-                "machine_readable": true,
-                "content_type": "application/pdf",
-                "size_bytes": 445897
-              },
-              {
-                "label": "concept_plan_za4294_rev_072326",
-                "url": "https://forsythcoga.api.civicclerk.com/v1/Meetings/GetAttachmentFile(fileId=37986)",
-                "kind": "attachment",
-                "source": "civicclerk",
-                "machine_readable": true,
-                "content_type": "application/pdf",
-                "size_bytes": 17594655
-              },
-              {
-                "label": "elevations_za4294",
-                "url": "https://forsythcoga.api.civicclerk.com/v1/Meetings/GetAttachmentFile(fileId=37987)",
-                "kind": "attachment",
-                "source": "civicclerk",
-                "machine_readable": true,
-                "content_type": "application/pdf",
-                "size_bytes": 6163439
-              },
-              {
-                "label": "location_map_za4294",
-                "url": "https://forsythcoga.api.civicclerk.com/v1/Meetings/GetAttachmentFile(fileId=37988)",
-                "kind": "attachment",
-                "source": "civicclerk",
-                "machine_readable": true,
-                "content_type": "application/pdf",
-                "size_bytes": 1194432
-              }
-            ],
-            "under_consent": false,
-            "consent_reason": null,
-            "dollar_amounts": [],
-            "large_dollar": false,
-            "long_term": true,
-            "long_term_reason": "easement",
-            "topics": [],
-            "children": []
-          },
-          {
-            "number": "9",
-            "outline_path": "XI.9",
+            "number": "6",
+            "outline_path": "XI.6",
             "title": "Swamynathan Annamalai - CP250062 - to operate a 2,192 sq. ft. short-term rental in an existing building with 4 parking spaces with an overall site including an existing 1,842 sq. ft. accessory structure on 4.99 acres zoned Agricultural District (A1) - Parcel 314-172 - District 4 - Director, Department of Planning and Community Development",
             "level": 1,
             "source_item_id": 21306,
@@ -56063,8 +55416,8 @@
             "children": []
           },
           {
-            "number": "10",
-            "outline_path": "XI.10",
+            "number": "7",
+            "outline_path": "XI.7",
             "title": "Board consideration of the request by Shawn McLendon and Ethan Underwood of Underwood & Beard, LLC for a Public Hearing regarding an appeal of the Zoning Board of Appeals’ decision on VA260046. The variance was denied on October 6, 2026 – AV260003 – District 4 – Director, Department of Planning and Community Development (Postponed from the November 5, 2026 Agenda.)",
             "level": 1,
             "source_item_id": 21351,
@@ -56126,8 +55479,8 @@
             "children": []
           },
           {
-            "number": "11",
-            "outline_path": "XI.11",
+            "number": "8",
+            "outline_path": "XI.8",
             "title": "SDP Acquisitions, LLC - ZA4300 - to rezone from Restricted Industrial District (M1), Agricultural District (A1) and Single Family Residential District (RES4) to Restricted Industrial District (M1) on 25.797 acres for a 281,000 sq. ft. warehouse with 221 parking spaces and 42 semi-tractor trailer spaces with the following variance to: 1. Reduce the required number of parking spaces from 281 to 221 (UDC Table 17.1) - Parcels 088-271, 088-015, 088-012, 088-187, 088-013, 088-053, 088-014 and 088-011 - District 5 - Director, Department of Planning and Community Development (Postponed from the October 15, 2026 Agenda)",
             "level": 1,
             "source_item_id": 21236,
@@ -56207,8 +55560,8 @@
             "children": []
           },
           {
-            "number": "12",
-            "outline_path": "XI.12",
+            "number": "9",
+            "outline_path": "XI.9",
             "title": "Shree Real Estate Developers, LLC - ZA4304 - to rezone from Agricultural District (A1) and Highway Business District (HB) to Commercial Business District (CBD) on 24.24 acres for retail/office/restaurant/day care center in buildings totaling 187,608 sq. ft. with 850 parking spaces with the following variance to: 1. Reduce the zoning buffer along the northern property boundary adjacent to the existing sewer easement only from 40 ft. to 12 ft. (UDC Table 12.2); 2. Reduce the sides of the building exterior that parking is distributed on from 2 sides to 1 side and increase the percentage of parking that fronts the main building entrances from 60% to 100% (UDC 21-8.5(A)) - Parcels 110-025, 110-399, 110-400, 110-024 - District 5 - Director, Department of Planning and Community Development",
             "level": 1,
             "source_item_id": 21333,
@@ -56288,8 +55641,8 @@
             "children": []
           },
           {
-            "number": "13",
-            "outline_path": "XI.13",
+            "number": "10",
+            "outline_path": "XI.10",
             "title": "Board consideration of “Claim, Request and Demand for [Tax] Refund” requested by David and Kelly Douglas concerning ad valorem (property) taxes with regard to property located at 8980 Beaver Trl, Gainesville, Georgia 30506, designated Parcel Number 319 046, for Tax Years 2022-2026, in the amount of $8,719.59 plus future interest at the rate of 11.5% per annum - County Attorney",
             "level": 1,
             "source_item_id": 21347,
@@ -56314,13 +55667,13 @@
                 "size_bytes": 2481224
               },
               {
-                "label": "Douglas Refund_Redacted",
-                "url": "https://forsythcoga.api.civicclerk.com/v1/Meetings/GetAttachmentFile(fileId=38413)",
+                "label": "Douglas Refund_Redacted (003)_Redacted",
+                "url": "https://forsythcoga.api.civicclerk.com/v1/Meetings/GetAttachmentFile(fileId=38415)",
                 "kind": "attachment",
                 "source": "civicclerk",
                 "machine_readable": true,
                 "content_type": "application/pdf",
-                "size_bytes": 27522016
+                "size_bytes": 42604285
               }
             ],
             "under_consent": false,
